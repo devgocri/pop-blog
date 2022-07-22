@@ -127,7 +127,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Article 11",
+    "title": "Welcome",
     "headers": [
       {
         "level": 2,
