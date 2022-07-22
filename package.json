@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "pop-blog",
+  "description": "--- home: true layout: Blog icon: home title: Blog Home heroImage: /logo.svg heroText: the name of your blog tagline: You can put your slogan here heroFullScreen: true projects:   - icon: project     name: project name     desc: project detailed description     link: https://your.project.link",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popQA17/pop-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popQA17/pop-blog/issues"
+  },
+  "homepage": "https://github.com/popQA17/pop-blog#readme"
+}
