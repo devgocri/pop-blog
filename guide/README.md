@@ -1,6 +1,7 @@
 ---
 title: Guides
 index: false
+article: false
 icon: creative
 category:
   - Guide

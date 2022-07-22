@@ -17,15 +17,13 @@ export default hopeTheme({
   repo: "popqa17/pop-blog",
 
   docsDir: "demo/src",
-
   // navbar
   navbar: navbar,
-
   // sidebar
   sidebar: false,
 
-  footer: "Default footer",
-
+  footer: "Created by Pop Plays",
+  copyright: 'Copyright 2022, All Rights Reserved',
   displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
@@ -34,6 +32,7 @@ export default hopeTheme({
     name: 'Pop Plays',
     description: "Full-Stack developer",
     intro: "/intro.html",
+    avatar: '/favicon.ico',
     medias: {
       Discord: "https://example.com",
       Email: "https://example.com",
@@ -44,7 +43,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/guide/encrypt.html": ["1234"],
+      "/": ["Chr!$t25"],
     },
   },
 

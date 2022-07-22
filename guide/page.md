@@ -3,6 +3,7 @@
 title: page config
 # This is the icon of the page
 icon: page
+article: false
 # This control sidebar order
 order: 1
 # Set author

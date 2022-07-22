@@ -1,5 +1,6 @@
 ---
 icon: lock
+article: false
 category:
   - Guide
 tag:

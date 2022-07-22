@@ -1,9 +1,7 @@
 ---
 title: Markdown Enhance
 icon: markdown
-order: 2
-category:
-  - Guide
+article: false
 tag:
   - Markdown
 ---

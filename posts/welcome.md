@@ -1,20 +1,17 @@
 ---
-icon: edit
-date: 2022-01-11
-category:
-  - CategoryA
-  - CategoryB
-tag:
-  - tag A
-  - tag B
+date: 2022-07-22
+sticky: 5
 ---
 
 # Welcome
 
-## Heading 2
+## Heyo!
+Welcome to my blog! Here, I talk about **Coding**, **Coding**, and some **Interesting** projects.
 
-Here is the content.
+I'll mostly share about things that happened during the day, or coding tutorials. Make sure to check out my projects! :)
 
-### Heading 3
+## Why?
+I always had a dream of opening my own blog, lol. Don't really know why. But I guess I will find out more about the joy of blogging soon! Thank you for reading this. You made my day.
 
-Here is the content.e
+## Want to give comments?
+Navigate to the bottom of each post. Click `Sign In with Github`, then post your comment! They will be publicly visible to like *everyone*, so post wisely.

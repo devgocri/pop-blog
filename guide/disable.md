@@ -17,6 +17,7 @@ editLink: false
 lastUpdated: false
 prev: false
 next: false
+article: false
 comment: false
 footer: false
 

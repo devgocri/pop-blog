@@ -3,46 +3,19 @@ home: true
 layout: Blog
 icon: home
 title: Home
-heroImage: /logo.svg
+heroImage: /favicon.ico
 heroText: Pop's Blog
 tagline: Learn. Track. Develop.
-heroFullScreen: true
 projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+  - icon: link
+    name: One Development
+    desc: Fast and growing Development Group.
+    link: https://onedevs.tk
 
   - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: FaithClient
+    desc: beautiful. Aesthetic. That's FaithClient.
+    link: https://discord.gg/9Tjem4hVzT
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
 
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
-
-  - icon: /logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
-
-footer: customize your footer text
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: Blog` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/v2/guide/blog/home/).

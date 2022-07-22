@@ -1,12 +1,5 @@
 export const searchIndex = [
   {
-    "title": "Home",
-    "headers": [],
-    "path": "/home.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "About me",
     "headers": [],
     "path": "/intro.html",
@@ -131,16 +124,21 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
+        "title": "Heyo!",
+        "slug": "heyo",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Why?",
+        "slug": "why",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Want to give comments?",
+        "slug": "want-to-give-comments",
+        "children": []
       }
     ],
     "path": "/posts/welcome.html",
@@ -200,76 +198,6 @@ export const searchIndex = [
     "title": "Timeline",
     "headers": [],
     "path": "/timeline/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guide Category",
-    "headers": [],
-    "path": "/category/guide/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "disable Tag",
-    "headers": [],
-    "path": "/tag/disable/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "CategoryA Category",
-    "headers": [],
-    "path": "/category/categorya/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "encryption Tag",
-    "headers": [],
-    "path": "/tag/encryption/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "CategoryB Category",
-    "headers": [],
-    "path": "/category/categoryb/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Markdown Tag",
-    "headers": [],
-    "path": "/tag/markdown/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Page config Tag",
-    "headers": [],
-    "path": "/tag/page-config/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Guide Tag",
-    "headers": [],
-    "path": "/tag/guide/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "tag A Tag",
-    "headers": [],
-    "path": "/tag/tag-a/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "tag B Tag",
-    "headers": [],
-    "path": "/tag/tag-b/",
     "pathLocale": "/",
     "extraFields": []
   }

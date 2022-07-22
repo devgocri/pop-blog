@@ -1,5 +1,8 @@
 ---
 icon: info
+blog: false
+comment: false
+article: false
 ---
 
 # About me

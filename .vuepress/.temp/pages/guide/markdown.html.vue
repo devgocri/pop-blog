@@ -213,9 +213,6 @@ A custom details container
 <p><RouterLink to="/guide/disable.html">Function Disable</RouterLink></p>
 </li>
 <li>
-<p><RouterLink to="/guide/encrypt.html">Encryption Demo</RouterLink></p>
-</li>
-<li>
 <p><a href="https://vuepress-theme-hope.github.io/v2/guide/markdown/include.md" target="_blank" rel="noopener noreferrer">View Detail<ExternalLinkIcon/></a></p>
 </li>
 </ul>
@@ -240,7 +237,7 @@ A custom details container
 <li><a href="https://vuepress-theme-hope.github.io/v2/guide/markdown/stylize.md" target="_blank" rel="noopener noreferrer">View Detail<ExternalLinkIcon/></a></li>
 </ul>
 <h4 id="presentation" tabindex="-1"><a class="header-anchor" href="#presentation" aria-hidden="true">#</a> Presentation</h4>
-<Presentation id="presentation-64a5606c" data-code="%0A%23%23%20Slide%201%0A%0AA%20paragraph%20with%20some%20text%20and%20a%20%5Blink%5D(https%3A%2F%2Fmrhope.site)%0A%0A---%0A%0A%23%23%20Slide%202%0A%0A-%20Item%201%0A-%20Item%202%0A%0A---%0A%0A%23%23%20Slide%203.1%0A%0A%60%60%60js%0Aconst%20a%20%3D%201%3B%0A%60%60%60%0A%0A--%0A%0A%23%23%20Slide%203.2%0A%0A%24%24%0AJ(%5Ctheta_0%2C%5Ctheta_1)%20%3D%20%5Csum_%7Bi%3D0%7D%0A%24%24%0A" theme="auto"></Presentation><ul>
+<Presentation id="presentation-64a560a0" data-code="%0A%23%23%20Slide%201%0A%0AA%20paragraph%20with%20some%20text%20and%20a%20%5Blink%5D(https%3A%2F%2Fmrhope.site)%0A%0A---%0A%0A%23%23%20Slide%202%0A%0A-%20Item%201%0A-%20Item%202%0A%0A---%0A%0A%23%23%20Slide%203.1%0A%0A%60%60%60js%0Aconst%20a%20%3D%201%3B%0A%60%60%60%0A%0A--%0A%0A%23%23%20Slide%203.2%0A%0A%24%24%0AJ(%5Ctheta_0%2C%5Ctheta_1)%20%3D%20%5Csum_%7Bi%3D0%7D%0A%24%24%0A" theme="auto"></Presentation><ul>
 <li><a href="https://vuepress-theme-hope.github.io/v2/guide/markdown/presentation.html" target="_blank" rel="noopener noreferrer">View Detail<ExternalLinkIcon/></a></li>
 </ul>
 <hr class="footnotes-sep">
