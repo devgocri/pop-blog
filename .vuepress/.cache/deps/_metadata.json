@@ -1,0 +1,74 @@
+{
+  "hash": "a51a33bd",
+  "browserHash": "357c7082",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "3e6eb929",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "69d48359",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1153d9e8",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "e69205f8",
+      "needsInterop": false
+    },
+    "chart.js/auto": {
+      "src": "../../../../node_modules/chart.js/auto/auto.esm.js",
+      "file": "chart_js_auto.js",
+      "fileHash": "8ab3970b",
+      "needsInterop": false
+    },
+    "echarts": {
+      "src": "../../../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "4116f8b2",
+      "needsInterop": false
+    },
+    "flowchart.js": {
+      "src": "../../../../node_modules/flowchart.js/index.js",
+      "file": "flowchart_js.js",
+      "fileHash": "e4eca61c",
+      "needsInterop": true
+    },
+    "mermaid": {
+      "src": "../../../../node_modules/mermaid/dist/mermaid.esm.min.mjs",
+      "file": "mermaid.js",
+      "fileHash": "e7840b17",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "a21fc40d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-HI4OJGZE": {
+      "file": "chunk-HI4OJGZE.js"
+    },
+    "chunk-7UCCDMBV": {
+      "file": "chunk-7UCCDMBV.js"
+    },
+    "chunk-LI7GNF4S": {
+      "file": "chunk-LI7GNF4S.js"
+    },
+    "chunk-A6B2ATEO": {
+      "file": "chunk-A6B2ATEO.js"
+    }
+  }
+}
