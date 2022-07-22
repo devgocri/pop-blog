@@ -1,17 +1,17 @@
 import { defineClientConfig } from "@vuepress/client";
-import ChartJS from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
-import ECharts from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
-import CodeDemo from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
-import CodeTabs from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
-import FlowChart from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
-import Mermaid from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
-import Presentation from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
-import "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
-import "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
-import "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
-import Tabs from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
-import "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
-import "C:/Users/Pop/Documents/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
+import ChartJS from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
+import ECharts from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
+import CodeDemo from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
+import CodeTabs from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
+import FlowChart from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
+import Mermaid from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
+import Presentation from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
+import "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
+import "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
+import "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
+import Tabs from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
+import "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
+import "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
 
 
 export default defineClientConfig({

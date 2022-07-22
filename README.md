@@ -2,10 +2,10 @@
 home: true
 layout: Blog
 icon: home
-title: Blog Home
+title: Home
 heroImage: /logo.svg
-heroText: the name of your blog
-tagline: You can put your slogan here
+heroText: Pop's Blog
+tagline: Learn. Track. Develop.
 heroFullScreen: true
 projects:
   - icon: project

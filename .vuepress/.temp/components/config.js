@@ -1,9 +1,9 @@
-import { useStyleTag } from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "C:/Users/Pop/Documents/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-components/lib/client/components/Badge";
+import FontIcon from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
+import BackToTop from "C:/Users/Pop/Documents/pop-blog/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
 
 
 export default defineClientConfig({

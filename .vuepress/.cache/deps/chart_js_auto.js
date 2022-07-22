@@ -31,7 +31,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// ../node_modules/chart.js/auto/auto.esm.js
+// node_modules/chart.js/auto/auto.esm.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47,7 +47,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// ../node_modules/chart.js/dist/chart.esm.js
+// node_modules/chart.js/dist/chart.esm.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63,7 +63,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// ../node_modules/chart.js/dist/chunks/helpers.segment.js
+// node_modules/chart.js/dist/chunks/helpers.segment.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2512,7 +2512,7 @@ function styleChanged(style, prevStyle) {
   return prevStyle && JSON.stringify(style) !== JSON.stringify(prevStyle);
 }
 
-// ../node_modules/chart.js/dist/chart.esm.js
+// node_modules/chart.js/dist/chart.esm.js
 var Animator = class {
   constructor() {
     this._request = null;
@@ -13004,7 +13004,7 @@ var registerables = [
   scales
 ];
 
-// ../node_modules/chart.js/auto/auto.esm.js
+// node_modules/chart.js/auto/auto.esm.js
 Chart.register(...registerables);
 var auto_esm_default = Chart;
 

@@ -1,6 +1,6 @@
 export const searchIndex = [
   {
-    "title": "Project home",
+    "title": "Home",
     "headers": [],
     "path": "/home.html",
     "pathLocale": "/",
@@ -14,7 +14,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Blog Home",
+    "title": "Home",
     "headers": [],
     "path": "/",
     "pathLocale": "/",
@@ -127,27 +127,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Article 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article10.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Article 11",
     "headers": [
       {
@@ -164,217 +143,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/posts/article11.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 12",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article12.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 9",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article9.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 1",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article1.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 2",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article2.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 3",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article3.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 4",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article4.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 5",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article5.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 6",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article6.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 7",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article7.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Article 8",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Heading 2",
-        "slug": "heading-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "Heading 3",
-            "slug": "heading-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article8.html",
+    "path": "/posts/welcome.html",
     "pathLocale": "/",
     "extraFields": []
   },

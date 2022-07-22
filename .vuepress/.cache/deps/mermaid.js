@@ -31,7 +31,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// ../node_modules/mermaid/dist/mermaid.esm.min.mjs
+// node_modules/mermaid/dist/mermaid.esm.min.mjs
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();

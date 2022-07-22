@@ -19,7 +19,9 @@
     "homepage": "https://github.com/popQA17/pop-blog#readme",
     "dependencies": {
         "@vuepress/plugin-search": "^2.0.0-beta.49",
-        "vuepress": "^1.9.7",
-        "vuepress-theme-hope": "^1.30.0"
+        "vuepress-theme-hope": "^2.0.0-beta.87"
+    },
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.49"
     }
 }
