@@ -4,7 +4,10 @@ import sidebar from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
-
+  themeColor: {
+    red: "#f26d6d",
+    green: "#3eaf7c",
+  },
   author: {
     name: "Pop Plays",
     url: "https://popplays.tk",

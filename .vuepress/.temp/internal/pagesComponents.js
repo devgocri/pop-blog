@@ -17,8 +17,12 @@ export const pagesComponents = {
   "v-4eaf9f84": defineAsyncComponent(() => import(/* webpackChunkName: "v-4eaf9f84" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/guide/page.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/guide/index.html.vue")),
+  // path: /posts/rip.html
+  "v-0ce69d55": defineAsyncComponent(() => import(/* webpackChunkName: "v-0ce69d55" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/rip.html.vue")),
   // path: /posts/welcome.html
   "v-4a3483a8": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a3483a8" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/welcome.html.vue")),
+  // path: /posts/react/use-state.html
+  "v-7c910bf3": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c910bf3" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/react/use-state.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
@@ -35,4 +39,10 @@ export const pagesComponents = {
   "v-154dc4c4": defineAsyncComponent(() => import(/* webpackChunkName: "v-154dc4c4" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/star/index.html.vue")),
   // path: /timeline/
   "v-01560935": defineAsyncComponent(() => import(/* webpackChunkName: "v-01560935" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/timeline/index.html.vue")),
+  // path: /category/guide/
+  "v-ac0c2a6a": defineAsyncComponent(() => import(/* webpackChunkName: "v-ac0c2a6a" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/category/guide/index.html.vue")),
+  // path: /tag/react-101/
+  "v-40b358d9": defineAsyncComponent(() => import(/* webpackChunkName: "v-40b358d9" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/tag/react-101/index.html.vue")),
+  // path: /category/react/
+  "v-884bc6b0": defineAsyncComponent(() => import(/* webpackChunkName: "v-884bc6b0" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/category/react/index.html.vue")),
 }

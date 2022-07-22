@@ -15,8 +15,12 @@ export const pagesData = {
   "v-4eaf9f84": () => import(/* webpackChunkName: "v-4eaf9f84" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/guide/page.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
+  // path: /posts/rip.html
+  "v-0ce69d55": () => import(/* webpackChunkName: "v-0ce69d55" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/rip.html.js").then(({ data }) => data),
   // path: /posts/welcome.html
   "v-4a3483a8": () => import(/* webpackChunkName: "v-4a3483a8" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/welcome.html.js").then(({ data }) => data),
+  // path: /posts/react/use-state.html
+  "v-7c910bf3": () => import(/* webpackChunkName: "v-7c910bf3" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/posts/react/use-state.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -33,4 +37,10 @@ export const pagesData = {
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
   // path: /timeline/
   "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
+  // path: /category/guide/
+  "v-ac0c2a6a": () => import(/* webpackChunkName: "v-ac0c2a6a" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/category/guide/index.html.js").then(({ data }) => data),
+  // path: /tag/react-101/
+  "v-40b358d9": () => import(/* webpackChunkName: "v-40b358d9" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/tag/react-101/index.html.js").then(({ data }) => data),
+  // path: /category/react/
+  "v-884bc6b0": () => import(/* webpackChunkName: "v-884bc6b0" */"C:/Users/Pop/Documents/pop-blog/.vuepress/.temp/pages/category/react/index.html.js").then(({ data }) => data),
 }

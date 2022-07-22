@@ -7,7 +7,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Home",
+    "title": "",
     "headers": [],
     "path": "/",
     "pathLocale": "/",
@@ -120,6 +120,20 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "Rest in Peace - Devgocri",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Messages left by staff",
+        "slug": "messages-left-by-staff",
+        "children": []
+      }
+    ],
+    "path": "/posts/rip.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Welcome",
     "headers": [
       {
@@ -142,6 +156,13 @@ export const searchIndex = [
       }
     ],
     "path": "/posts/welcome.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "UseState | React 101",
+    "headers": [],
+    "path": "/posts/react/use-state.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -198,6 +219,27 @@ export const searchIndex = [
     "title": "Timeline",
     "headers": [],
     "path": "/timeline/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Guide Category",
+    "headers": [],
+    "path": "/category/guide/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "React 101 Tag",
+    "headers": [],
+    "path": "/tag/react-101/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "React Category",
+    "headers": [],
+    "path": "/category/react/",
     "pathLocale": "/",
     "extraFields": []
   }

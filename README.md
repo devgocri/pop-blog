@@ -2,7 +2,6 @@
 home: true
 layout: Blog
 icon: home
-title: Home
 heroImage: /favicon.ico
 heroText: Pop's Blog
 tagline: Learn. Track. Develop.
