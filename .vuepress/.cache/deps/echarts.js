@@ -32,7 +32,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/index.js
+// ../node_modules/echarts/index.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -48,7 +48,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/extension.js
+// ../node_modules/echarts/lib/extension.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64,7 +64,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/core/echarts.js
+// ../node_modules/echarts/lib/core/echarts.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -80,7 +80,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/tslib/tslib.es6.js
+// ../node_modules/tslib/tslib.es6.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -115,7 +115,7 @@ function __extends(d, b) {
   d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 }
 
-// node_modules/zrender/lib/zrender.js
+// ../node_modules/zrender/lib/zrender.js
 var zrender_exports = {};
 __export(zrender_exports, {
   dispose: () => dispose,
@@ -140,7 +140,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/env.js
+// ../node_modules/zrender/lib/core/env.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -225,7 +225,7 @@ function detect(ua, env2) {
 }
 var env_default = env;
 
-// node_modules/zrender/lib/core/util.js
+// ../node_modules/zrender/lib/core/util.js
 var util_exports = {};
 __export(util_exports, {
   HashMap: () => HashMap,
@@ -294,7 +294,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/platform.js
+// ../node_modules/zrender/lib/core/platform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -379,7 +379,7 @@ function setPlatformAPI(newPlatformApis) {
   }
 }
 
-// node_modules/zrender/lib/core/util.js
+// ../node_modules/zrender/lib/core/util.js
 var BUILTIN_OBJECT = reduce([
   "Function",
   "RegExp",
@@ -847,7 +847,7 @@ function noop() {
 }
 var RADIAN_TO_DEGREE = 180 / Math.PI;
 
-// node_modules/zrender/lib/Handler.js
+// ../node_modules/zrender/lib/Handler.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -863,7 +863,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/vector.js
+// ../node_modules/zrender/lib/core/vector.js
 var vector_exports = {};
 __export(vector_exports, {
   add: () => add,
@@ -1016,7 +1016,7 @@ function max(out2, v12, v22) {
   return out2;
 }
 
-// node_modules/zrender/lib/mixin/Draggable.js
+// ../node_modules/zrender/lib/mixin/Draggable.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1098,7 +1098,7 @@ var Draggable = function() {
 }();
 var Draggable_default = Draggable;
 
-// node_modules/zrender/lib/core/Eventful.js
+// ../node_modules/zrender/lib/core/Eventful.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1265,7 +1265,7 @@ var Eventful = function() {
 }();
 var Eventful_default = Eventful;
 
-// node_modules/zrender/lib/core/event.js
+// ../node_modules/zrender/lib/core/event.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1281,7 +1281,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/dom.js
+// ../node_modules/zrender/lib/core/dom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1297,7 +1297,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/fourPointsTransform.js
+// ../node_modules/zrender/lib/core/fourPointsTransform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1369,7 +1369,7 @@ function buildTransformer(src, dest) {
   };
 }
 
-// node_modules/zrender/lib/core/dom.js
+// ../node_modules/zrender/lib/core/dom.js
 var EVENT_SAVED_PROP = "___zrEVENTSAVED";
 var _calcOut = [];
 function transformLocalCoord(out2, elFrom, elTarget, inX, inY) {
@@ -1442,7 +1442,7 @@ function isCanvasEl(el) {
   return el.nodeName.toUpperCase() === "CANVAS";
 }
 
-// node_modules/zrender/lib/core/event.js
+// ../node_modules/zrender/lib/core/event.js
 var MOUSE_EVENT_REG = /^(?:mouse|pointer|contextmenu|drag|drop)|click/;
 var _calcOut2 = [];
 var firefoxNotSupportOffsetXY = env_default.browser.firefox && +env_default.browser.version.split(".")[0] < 39;
@@ -1533,7 +1533,7 @@ function isMiddleOrRightButtonOnMouseUpDown(e2) {
   return e2.which === 2 || e2.which === 3;
 }
 
-// node_modules/zrender/lib/core/GestureMgr.js
+// ../node_modules/zrender/lib/core/GestureMgr.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1626,7 +1626,7 @@ var recognizers = {
   }
 };
 
-// node_modules/zrender/lib/Handler.js
+// ../node_modules/zrender/lib/Handler.js
 var SILENT = "silent";
 function makeEventPacket(eveType, targetInfo, event) {
   return {
@@ -1874,7 +1874,7 @@ function isOutsideBoundary(handlerInstance, x, y) {
 }
 var Handler_default = Handler;
 
-// node_modules/zrender/lib/Storage.js
+// ../node_modules/zrender/lib/Storage.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -1890,7 +1890,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/timsort.js
+// ../node_modules/zrender/lib/core/timsort.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2422,7 +2422,7 @@ function sort(array, compare2, lo, hi) {
   ts.forceMergeRuns();
 }
 
-// node_modules/zrender/lib/graphic/constants.js
+// ../node_modules/zrender/lib/graphic/constants.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2441,7 +2441,7 @@ var REDRAW_BIT = 1;
 var STYLE_CHANGED_BIT = 2;
 var SHAPE_CHANGED_BIT = 4;
 
-// node_modules/zrender/lib/Storage.js
+// ../node_modules/zrender/lib/Storage.js
 var invalidZErrorLogged = false;
 function logInvalidZError() {
   if (invalidZErrorLogged) {
@@ -2594,7 +2594,7 @@ var Storage = function() {
 }();
 var Storage_default = Storage;
 
-// node_modules/zrender/lib/animation/Animation.js
+// ../node_modules/zrender/lib/animation/Animation.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2610,7 +2610,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/animation/requestAnimationFrame.js
+// ../node_modules/zrender/lib/animation/requestAnimationFrame.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2631,7 +2631,7 @@ requestAnimationFrame = env_default.hasGlobalWindow && (window.requestAnimationF
 };
 var requestAnimationFrame_default = requestAnimationFrame;
 
-// node_modules/zrender/lib/animation/Animator.js
+// ../node_modules/zrender/lib/animation/Animator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2647,7 +2647,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/animation/Clip.js
+// ../node_modules/zrender/lib/animation/Clip.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2663,7 +2663,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/animation/easing.js
+// ../node_modules/zrender/lib/animation/easing.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2864,7 +2864,7 @@ var easingFuncs = {
 };
 var easing_default = easingFuncs;
 
-// node_modules/zrender/lib/animation/cubicEasing.js
+// ../node_modules/zrender/lib/animation/cubicEasing.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -2880,7 +2880,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/curve.js
+// ../node_modules/zrender/lib/core/curve.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -3223,7 +3223,7 @@ function quadraticLength(x0, y0, x1, y1, x2, y2, iteration) {
   return d;
 }
 
-// node_modules/zrender/lib/animation/cubicEasing.js
+// ../node_modules/zrender/lib/animation/cubicEasing.js
 var regexp = /cubic-bezier\(([0-9,\.e ]+)\)/;
 function createCubicEasingFunc(cubicEasingStr) {
   var cubic = cubicEasingStr && regexp.exec(cubicEasingStr);
@@ -3243,7 +3243,7 @@ function createCubicEasingFunc(cubicEasingStr) {
   }
 }
 
-// node_modules/zrender/lib/animation/Clip.js
+// ../node_modules/zrender/lib/animation/Clip.js
 var Clip = function() {
   function Clip2(opts) {
     this._inited = false;
@@ -3303,7 +3303,7 @@ var Clip = function() {
 }();
 var Clip_default = Clip;
 
-// node_modules/zrender/lib/tool/color.js
+// ../node_modules/zrender/lib/tool/color.js
 var color_exports = {};
 __export(color_exports, {
   fastLerp: () => fastLerp,
@@ -3334,7 +3334,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/LRU.js
+// ../node_modules/zrender/lib/core/LRU.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -3454,7 +3454,7 @@ var LRU = function() {
 }();
 var LRU_default = LRU;
 
-// node_modules/zrender/lib/tool/color.js
+// ../node_modules/zrender/lib/tool/color.js
 var kCSSColorTable = {
   "transparent": [0, 0, 0, 0],
   "aliceblue": [240, 248, 255, 1],
@@ -3918,7 +3918,7 @@ function random() {
   ], "rgb");
 }
 
-// node_modules/zrender/lib/svg/helper.js
+// ../node_modules/zrender/lib/svg/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -4060,7 +4060,7 @@ var encodeBase64 = function() {
   };
 }();
 
-// node_modules/zrender/lib/animation/Animator.js
+// ../node_modules/zrender/lib/animation/Animator.js
 var arraySlice = Array.prototype.slice;
 function interpolateNumber(p0, p1, percent) {
   return (p1 - p0) * percent + p0;
@@ -4754,7 +4754,7 @@ var Animator = function() {
 }();
 var Animator_default = Animator;
 
-// node_modules/zrender/lib/animation/Animation.js
+// ../node_modules/zrender/lib/animation/Animation.js
 function getTime() {
   return new Date().getTime();
 }
@@ -4895,7 +4895,7 @@ var Animation = function(_super) {
 }(Eventful_default);
 var Animation_default = Animation;
 
-// node_modules/zrender/lib/dom/HandlerProxy.js
+// ../node_modules/zrender/lib/dom/HandlerProxy.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5204,7 +5204,7 @@ var HandlerDomProxy = function(_super) {
 }(Eventful_default);
 var HandlerProxy_default = HandlerDomProxy;
 
-// node_modules/zrender/lib/config.js
+// ../node_modules/zrender/lib/config.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5229,7 +5229,7 @@ var DARK_LABEL_COLOR = "#333";
 var LIGHT_LABEL_COLOR = "#ccc";
 var LIGHTER_LABEL_COLOR = "#eee";
 
-// node_modules/zrender/lib/graphic/Group.js
+// ../node_modules/zrender/lib/graphic/Group.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5245,7 +5245,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/Element.js
+// ../node_modules/zrender/lib/Element.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5261,7 +5261,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/Transformable.js
+// ../node_modules/zrender/lib/core/Transformable.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5277,7 +5277,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/matrix.js
+// ../node_modules/zrender/lib/core/matrix.js
 var matrix_exports = {};
 __export(matrix_exports, {
   clone: () => clone3,
@@ -5403,7 +5403,7 @@ function clone3(a) {
   return b;
 }
 
-// node_modules/zrender/lib/core/Transformable.js
+// ../node_modules/zrender/lib/core/Transformable.js
 var mIdentity = identity;
 var EPSILON3 = 5e-5;
 function isNotAroundZero2(val) {
@@ -5631,7 +5631,7 @@ function copyTransform(target, source) {
 }
 var Transformable_default = Transformable;
 
-// node_modules/zrender/lib/core/BoundingRect.js
+// ../node_modules/zrender/lib/core/BoundingRect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5647,7 +5647,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/Point.js
+// ../node_modules/zrender/lib/core/Point.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -5792,7 +5792,7 @@ var Point = function() {
 }();
 var Point_default = Point;
 
-// node_modules/zrender/lib/core/BoundingRect.js
+// ../node_modules/zrender/lib/core/BoundingRect.js
 var mathMin = Math.min;
 var mathMax = Math.max;
 var lt = new Point_default();
@@ -5993,7 +5993,7 @@ var BoundingRect = function() {
 }();
 var BoundingRect_default = BoundingRect;
 
-// node_modules/zrender/lib/contain/text.js
+// ../node_modules/zrender/lib/contain/text.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -6169,7 +6169,7 @@ function calculateTextPosition(out2, opts, rect) {
   return out2;
 }
 
-// node_modules/zrender/lib/Element.js
+// ../node_modules/zrender/lib/Element.js
 var PRESERVED_NORMAL_STATE = "__zr_normal__";
 var PRIMARY_STATES_KEYS = TRANSFORMABLE_PROPS.concat(["ignore"]);
 var DEFAULT_ANIMATABLE_MAP = reduce(TRANSFORMABLE_PROPS, function(obj, key) {
@@ -7151,7 +7151,7 @@ function animateToShallow(animatable, topKey, animateObj, target, cfg, animation
 }
 var Element_default = Element;
 
-// node_modules/zrender/lib/graphic/Group.js
+// ../node_modules/zrender/lib/graphic/Group.js
 var Group = function(_super) {
   __extends(Group5, _super);
   function Group5(opts) {
@@ -7326,7 +7326,7 @@ var Group = function(_super) {
 Group.prototype.type = "group";
 var Group_default = Group;
 
-// node_modules/zrender/lib/zrender.js
+// ../node_modules/zrender/lib/zrender.js
 var painterCtors = {};
 var instances = {};
 function delInstance(id) {
@@ -7558,7 +7558,7 @@ function registerPainter(name, Ctor) {
 }
 var version = "5.3.2";
 
-// node_modules/echarts/lib/model/Global.js
+// ../node_modules/echarts/lib/model/Global.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -7574,7 +7574,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/model.js
+// ../node_modules/echarts/lib/util/model.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -7590,7 +7590,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/number.js
+// ../node_modules/echarts/lib/util/number.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -7895,7 +7895,7 @@ function getLeastCommonMultiple(a, b) {
   return a * b / getGreatestCommonDividor(a, b);
 }
 
-// node_modules/echarts/lib/util/log.js
+// ../node_modules/echarts/lib/util/log.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -7981,7 +7981,7 @@ function throwError(msg) {
   throw new Error(msg);
 }
 
-// node_modules/echarts/lib/util/model.js
+// ../node_modules/echarts/lib/util/model.js
 function interpolateNumber2(p0, p1, percent) {
   return (p1 - p0) * percent + p0;
 }
@@ -8422,7 +8422,7 @@ function interpolateRawValues(data, precision, sourceValue, targetValue, percent
   }
 }
 
-// node_modules/echarts/lib/model/Model.js
+// ../node_modules/echarts/lib/model/Model.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8438,7 +8438,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/clazz.js
+// ../node_modules/echarts/lib/util/clazz.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8607,7 +8607,7 @@ function enableClassManagement(target) {
   }
 }
 
-// node_modules/echarts/lib/model/mixin/areaStyle.js
+// ../node_modules/echarts/lib/model/mixin/areaStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8623,7 +8623,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/model/mixin/makeStyleMapper.js
+// ../node_modules/echarts/lib/model/mixin/makeStyleMapper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8661,7 +8661,7 @@ function makeStyleMapper(properties, ignoreParent) {
   };
 }
 
-// node_modules/echarts/lib/model/mixin/areaStyle.js
+// ../node_modules/echarts/lib/model/mixin/areaStyle.js
 var AREA_STYLE_KEY_MAP = [
   ["fill", "color"],
   ["shadowBlur"],
@@ -8680,7 +8680,7 @@ var AreaStyleMixin = function() {
   return AreaStyleMixin2;
 }();
 
-// node_modules/echarts/lib/model/mixin/textStyle.js
+// ../node_modules/echarts/lib/model/mixin/textStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8696,7 +8696,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/label/labelStyle.js
+// ../node_modules/echarts/lib/label/labelStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8712,7 +8712,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/Text.js
+// ../node_modules/zrender/lib/graphic/Text.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8728,7 +8728,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/parseText.js
+// ../node_modules/zrender/lib/graphic/helper/parseText.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8744,7 +8744,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/image.js
+// ../node_modules/zrender/lib/graphic/helper/image.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -8808,7 +8808,7 @@ function isImageReady(image) {
   return image && image.width && image.height;
 }
 
-// node_modules/zrender/lib/graphic/helper/parseText.js
+// ../node_modules/zrender/lib/graphic/helper/parseText.js
 var STYLE_REG = /\{([a-zA-Z0-9_]+)\|([^}]*)\}/g;
 function truncateText(text, containerWidth, font, ellipsis, options) {
   if (!containerWidth) {
@@ -9247,7 +9247,7 @@ function wrapText(text, font, lineWidth, isBreakAll, lastAccumWidth) {
   };
 }
 
-// node_modules/zrender/lib/graphic/TSpan.js
+// ../node_modules/zrender/lib/graphic/TSpan.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -9263,7 +9263,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/Displayable.js
+// ../node_modules/zrender/lib/graphic/Displayable.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -9584,7 +9584,7 @@ function isDisplayableCulled(el, width, height) {
 }
 var Displayable_default = Displayable;
 
-// node_modules/zrender/lib/graphic/Path.js
+// ../node_modules/zrender/lib/graphic/Path.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -9600,7 +9600,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/PathProxy.js
+// ../node_modules/zrender/lib/core/PathProxy.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -9616,7 +9616,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/bbox.js
+// ../node_modules/zrender/lib/core/bbox.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -9753,7 +9753,7 @@ function fromArc(x, y, rx, ry, startAngle, endAngle, anticlockwise, min3, max3) 
   }
 }
 
-// node_modules/zrender/lib/core/PathProxy.js
+// ../node_modules/zrender/lib/core/PathProxy.js
 var CMD = {
   M: 1,
   L: 2,
@@ -10442,7 +10442,7 @@ var PathProxy = function() {
 }();
 var PathProxy_default = PathProxy;
 
-// node_modules/zrender/lib/contain/path.js
+// ../node_modules/zrender/lib/contain/path.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10458,7 +10458,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/contain/line.js
+// ../node_modules/zrender/lib/contain/line.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10494,7 +10494,7 @@ function containStroke(x0, y0, x1, y1, lineWidth, x, y) {
   return _s <= _l / 2 * _l / 2;
 }
 
-// node_modules/zrender/lib/contain/cubic.js
+// ../node_modules/zrender/lib/contain/cubic.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10521,7 +10521,7 @@ function containStroke2(x0, y0, x1, y1, x2, y2, x3, y3, lineWidth, x, y) {
   return d <= _l / 2;
 }
 
-// node_modules/zrender/lib/contain/quadratic.js
+// ../node_modules/zrender/lib/contain/quadratic.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10548,7 +10548,7 @@ function containStroke3(x0, y0, x1, y1, x2, y2, lineWidth, x, y) {
   return d <= _l / 2;
 }
 
-// node_modules/zrender/lib/contain/arc.js
+// ../node_modules/zrender/lib/contain/arc.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10564,7 +10564,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/contain/util.js
+// ../node_modules/zrender/lib/contain/util.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10588,7 +10588,7 @@ function normalizeRadian(angle) {
   return angle;
 }
 
-// node_modules/zrender/lib/contain/arc.js
+// ../node_modules/zrender/lib/contain/arc.js
 var PI24 = Math.PI * 2;
 function containStroke4(cx, cy, r, startAngle, endAngle, anticlockwise, lineWidth, x, y) {
   if (lineWidth === 0) {
@@ -10622,7 +10622,7 @@ function containStroke4(cx, cy, r, startAngle, endAngle, anticlockwise, lineWidt
   return angle >= startAngle && angle <= endAngle || angle + PI24 >= startAngle && angle + PI24 <= endAngle;
 }
 
-// node_modules/zrender/lib/contain/windingLine.js
+// ../node_modules/zrender/lib/contain/windingLine.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -10653,7 +10653,7 @@ function windingLine(x0, y0, x1, y1, x, y) {
   return x_ === x ? Infinity : x_ > x ? dir3 : 0;
 }
 
-// node_modules/zrender/lib/contain/path.js
+// ../node_modules/zrender/lib/contain/path.js
 var CMD2 = PathProxy_default.CMD;
 var PI25 = Math.PI * 2;
 var EPSILON4 = 1e-4;
@@ -10933,7 +10933,7 @@ function containStroke5(pathProxy, lineWidth, x, y) {
   return containPath(pathProxy, lineWidth, true, x, y);
 }
 
-// node_modules/zrender/lib/graphic/Path.js
+// ../node_modules/zrender/lib/graphic/Path.js
 var DEFAULT_PATH_STYLE = defaults({
   fill: "#000",
   stroke: null,
@@ -11315,7 +11315,7 @@ var Path = function(_super) {
 }(Displayable_default);
 var Path_default = Path;
 
-// node_modules/zrender/lib/graphic/TSpan.js
+// ../node_modules/zrender/lib/graphic/TSpan.js
 var DEFAULT_TSPAN_STYLE = defaults({
   strokeFirst: true,
   font: DEFAULT_FONT,
@@ -11374,7 +11374,7 @@ var TSpan = function(_super) {
 TSpan.prototype.type = "tspan";
 var TSpan_default = TSpan;
 
-// node_modules/zrender/lib/graphic/Image.js
+// ../node_modules/zrender/lib/graphic/Image.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -11455,7 +11455,7 @@ var ZRImage = function(_super) {
 ZRImage.prototype.type = "image";
 var Image_default = ZRImage;
 
-// node_modules/zrender/lib/graphic/shape/Rect.js
+// ../node_modules/zrender/lib/graphic/shape/Rect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -11471,7 +11471,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/roundRect.js
+// ../node_modules/zrender/lib/graphic/helper/roundRect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -11557,7 +11557,7 @@ function buildPath(ctx, shape) {
   r1 !== 0 && ctx.arc(x + r1, y + r1, r1, Math.PI, Math.PI * 1.5);
 }
 
-// node_modules/zrender/lib/graphic/helper/subPixelOptimize.js
+// ../node_modules/zrender/lib/graphic/helper/subPixelOptimize.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -11627,7 +11627,7 @@ function subPixelOptimize(position2, lineWidth, positiveOrNegative) {
   return (doubledPosition + round2(lineWidth)) % 2 === 0 ? doubledPosition / 2 : (doubledPosition + (positiveOrNegative ? 1 : -1)) / 2;
 }
 
-// node_modules/zrender/lib/graphic/shape/Rect.js
+// ../node_modules/zrender/lib/graphic/shape/Rect.js
 var RectShape = function() {
   function RectShape2() {
     this.x = 0;
@@ -11679,7 +11679,7 @@ var Rect = function(_super) {
 Rect.prototype.type = "rect";
 var Rect_default = Rect;
 
-// node_modules/zrender/lib/graphic/Text.js
+// ../node_modules/zrender/lib/graphic/Text.js
 var DEFAULT_RICH_TEXT_COLOR = {
   fill: "#000"
 };
@@ -12169,7 +12169,7 @@ function needDrawBackground(style) {
 }
 var Text_default = ZRText;
 
-// node_modules/echarts/lib/util/states.js
+// ../node_modules/echarts/lib/util/states.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -12185,7 +12185,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/innerStore.js
+// ../node_modules/echarts/lib/util/innerStore.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -12218,7 +12218,7 @@ var setCommonECData = function(seriesIndex, dataType, dataIdx, el) {
   }
 };
 
-// node_modules/echarts/lib/util/states.js
+// ../node_modules/echarts/lib/util/states.js
 var _highlightNextDigit = 1;
 var _highlightKeyMap = {};
 var getSavedStates = makeInner();
@@ -12761,7 +12761,7 @@ function savePathStates(el) {
   store.selectStroke = selectState.style && selectState.style.stroke || null;
 }
 
-// node_modules/echarts/lib/util/graphic.js
+// ../node_modules/echarts/lib/util/graphic.js
 var graphic_exports = {};
 __export(graphic_exports, {
   Arc: () => Arc_default,
@@ -12828,7 +12828,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/path.js
+// ../node_modules/zrender/lib/tool/path.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -12844,7 +12844,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/transformPath.js
+// ../node_modules/zrender/lib/tool/transformPath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -12939,7 +12939,7 @@ function transformPath(path, m2) {
   path.increaseVersion();
 }
 
-// node_modules/zrender/lib/tool/path.js
+// ../node_modules/zrender/lib/tool/path.js
 var mathSqrt3 = Math.sqrt;
 var mathSin3 = Math.sin;
 var mathCos3 = Math.cos;
@@ -13292,7 +13292,7 @@ function clonePath(sourcePath, opts) {
   return path;
 }
 
-// node_modules/zrender/lib/graphic/shape/Circle.js
+// ../node_modules/zrender/lib/graphic/shape/Circle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13332,7 +13332,7 @@ var Circle = function(_super) {
 Circle.prototype.type = "circle";
 var Circle_default = Circle;
 
-// node_modules/zrender/lib/graphic/shape/Ellipse.js
+// ../node_modules/zrender/lib/graphic/shape/Ellipse.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13384,7 +13384,7 @@ var Ellipse = function(_super) {
 Ellipse.prototype.type = "ellipse";
 var Ellipse_default = Ellipse;
 
-// node_modules/zrender/lib/graphic/shape/Sector.js
+// ../node_modules/zrender/lib/graphic/shape/Sector.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13400,7 +13400,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/roundSector.js
+// ../node_modules/zrender/lib/graphic/helper/roundSector.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13630,7 +13630,7 @@ function buildPath2(ctx, shape) {
   ctx.closePath();
 }
 
-// node_modules/zrender/lib/graphic/shape/Sector.js
+// ../node_modules/zrender/lib/graphic/shape/Sector.js
 var SectorShape = function() {
   function SectorShape2() {
     this.cx = 0;
@@ -13663,7 +13663,7 @@ var Sector = function(_super) {
 Sector.prototype.type = "sector";
 var Sector_default = Sector;
 
-// node_modules/zrender/lib/graphic/shape/Ring.js
+// ../node_modules/zrender/lib/graphic/shape/Ring.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13709,7 +13709,7 @@ var Ring = function(_super) {
 Ring.prototype.type = "ring";
 var Ring_default = Ring;
 
-// node_modules/zrender/lib/graphic/shape/Polygon.js
+// ../node_modules/zrender/lib/graphic/shape/Polygon.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13725,7 +13725,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/poly.js
+// ../node_modules/zrender/lib/graphic/helper/poly.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13741,7 +13741,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/helper/smoothBezier.js
+// ../node_modules/zrender/lib/graphic/helper/smoothBezier.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13817,7 +13817,7 @@ function smoothBezier(points4, smooth, isLoop, constraint) {
   return cps;
 }
 
-// node_modules/zrender/lib/graphic/helper/poly.js
+// ../node_modules/zrender/lib/graphic/helper/poly.js
 function buildPath3(ctx, shape, closePath) {
   var smooth = shape.smooth;
   var points4 = shape.points;
@@ -13842,7 +13842,7 @@ function buildPath3(ctx, shape, closePath) {
   }
 }
 
-// node_modules/zrender/lib/graphic/shape/Polygon.js
+// ../node_modules/zrender/lib/graphic/shape/Polygon.js
 var PolygonShape = function() {
   function PolygonShape2() {
     this.points = null;
@@ -13867,7 +13867,7 @@ var Polygon = function(_super) {
 Polygon.prototype.type = "polygon";
 var Polygon_default = Polygon;
 
-// node_modules/zrender/lib/graphic/shape/Polyline.js
+// ../node_modules/zrender/lib/graphic/shape/Polyline.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13913,7 +13913,7 @@ var Polyline = function(_super) {
 Polyline.prototype.type = "polyline";
 var Polyline_default = Polyline;
 
-// node_modules/zrender/lib/graphic/shape/Line.js
+// ../node_modules/zrender/lib/graphic/shape/Line.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -13993,7 +13993,7 @@ var Line = function(_super) {
 Line.prototype.type = "line";
 var Line_default = Line;
 
-// node_modules/zrender/lib/graphic/shape/BezierCurve.js
+// ../node_modules/zrender/lib/graphic/shape/BezierCurve.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14100,7 +14100,7 @@ var BezierCurve = function(_super) {
 BezierCurve.prototype.type = "bezier-curve";
 var BezierCurve_default = BezierCurve;
 
-// node_modules/zrender/lib/graphic/shape/Arc.js
+// ../node_modules/zrender/lib/graphic/shape/Arc.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14157,7 +14157,7 @@ var Arc = function(_super) {
 Arc.prototype.type = "arc";
 var Arc_default = Arc;
 
-// node_modules/zrender/lib/graphic/CompoundPath.js
+// ../node_modules/zrender/lib/graphic/CompoundPath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14220,7 +14220,7 @@ var CompoundPath = function(_super) {
 }(Path_default);
 var CompoundPath_default = CompoundPath;
 
-// node_modules/zrender/lib/graphic/LinearGradient.js
+// ../node_modules/zrender/lib/graphic/LinearGradient.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14236,7 +14236,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/graphic/Gradient.js
+// ../node_modules/zrender/lib/graphic/Gradient.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14265,7 +14265,7 @@ var Gradient = function() {
 }();
 var Gradient_default = Gradient;
 
-// node_modules/zrender/lib/graphic/LinearGradient.js
+// ../node_modules/zrender/lib/graphic/LinearGradient.js
 var LinearGradient = function(_super) {
   __extends(LinearGradient2, _super);
   function LinearGradient2(x, y, x2, y2, colorStops, globalCoord) {
@@ -14282,7 +14282,7 @@ var LinearGradient = function(_super) {
 }(Gradient_default);
 var LinearGradient_default = LinearGradient;
 
-// node_modules/zrender/lib/graphic/RadialGradient.js
+// ../node_modules/zrender/lib/graphic/RadialGradient.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14312,7 +14312,7 @@ var RadialGradient = function(_super) {
 }(Gradient_default);
 var RadialGradient_default = RadialGradient;
 
-// node_modules/zrender/lib/core/OrientedBoundingRect.js
+// ../node_modules/zrender/lib/core/OrientedBoundingRect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14444,7 +14444,7 @@ var OrientedBoundingRect = function() {
 }();
 var OrientedBoundingRect_default = OrientedBoundingRect;
 
-// node_modules/zrender/lib/graphic/IncrementalDisplayable.js
+// ../node_modules/zrender/lib/graphic/IncrementalDisplayable.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14568,7 +14568,7 @@ var IncrementalDisplayable = function(_super) {
 }(Displayable_default);
 var IncrementalDisplayable_default = IncrementalDisplayable;
 
-// node_modules/echarts/lib/animation/basicTrasition.js
+// ../node_modules/echarts/lib/animation/basicTrasition.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -14721,7 +14721,7 @@ function getOldStyle(el) {
   return transitionStore(el).oldStyle;
 }
 
-// node_modules/echarts/lib/util/graphic.js
+// ../node_modules/echarts/lib/util/graphic.js
 var mathMax5 = Math.max;
 var mathMin5 = Math.min;
 var _customShapeMap = {};
@@ -15018,7 +15018,7 @@ registerShape("line", Line_default);
 registerShape("bezierCurve", BezierCurve_default);
 registerShape("arc", Arc_default);
 
-// node_modules/echarts/lib/label/labelStyle.js
+// ../node_modules/echarts/lib/label/labelStyle.js
 var EMPTY_OBJ = {};
 function setLabelText(label, labelTexts) {
   for (var i = 0; i < SPECIAL_STATES.length; i++) {
@@ -15378,7 +15378,7 @@ function animateLabelValue(textEl, dataIndex, data, animatableModel, labelFetche
   }, animatableModel, dataIndex, null, during);
 }
 
-// node_modules/echarts/lib/model/mixin/textStyle.js
+// ../node_modules/echarts/lib/model/mixin/textStyle.js
 var PATH_COLOR = ["textStyle", "color"];
 var textStyleParams = ["fontStyle", "fontWeight", "fontSize", "fontFamily", "padding", "lineHeight", "rich", "width", "height", "overflow"];
 var tmpText = new Text_default();
@@ -15413,7 +15413,7 @@ var TextStyleMixin = function() {
 }();
 var textStyle_default = TextStyleMixin;
 
-// node_modules/echarts/lib/model/mixin/lineStyle.js
+// ../node_modules/echarts/lib/model/mixin/lineStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15452,7 +15452,7 @@ var LineStyleMixin = function() {
   return LineStyleMixin2;
 }();
 
-// node_modules/echarts/lib/model/mixin/itemStyle.js
+// ../node_modules/echarts/lib/model/mixin/itemStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15492,7 +15492,7 @@ var ItemStyleMixin = function() {
   return ItemStyleMixin2;
 }();
 
-// node_modules/echarts/lib/model/Model.js
+// ../node_modules/echarts/lib/model/Model.js
 var Model = function() {
   function Model2(option, parentModel, ecModel) {
     this.parentModel = parentModel;
@@ -15588,7 +15588,7 @@ mixin(Model, AreaStyleMixin);
 mixin(Model, textStyle_default);
 var Model_default = Model;
 
-// node_modules/echarts/lib/model/Component.js
+// ../node_modules/echarts/lib/model/Component.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15604,7 +15604,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/component.js
+// ../node_modules/echarts/lib/util/component.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15727,7 +15727,7 @@ function inheritDefaultOption(superOption, subOption) {
   return merge(merge({}, superOption, true), subOption, true);
 }
 
-// node_modules/echarts/lib/util/layout.js
+// ../node_modules/echarts/lib/util/layout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15743,7 +15743,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/format.js
+// ../node_modules/echarts/lib/util/format.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15759,7 +15759,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/time.js
+// ../node_modules/echarts/lib/util/time.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15775,7 +15775,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/core/locale.js
+// ../node_modules/echarts/lib/core/locale.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15791,7 +15791,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/i18n/langEN.js
+// ../node_modules/echarts/lib/i18n/langEN.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -15916,7 +15916,7 @@ var langEN_default = {
   }
 };
 
-// node_modules/echarts/lib/i18n/langZH.js
+// ../node_modules/echarts/lib/i18n/langZH.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -16041,7 +16041,7 @@ var langZH_default = {
   }
 };
 
-// node_modules/echarts/lib/core/locale.js
+// ../node_modules/echarts/lib/core/locale.js
 var LOCALE_ZH = "ZH";
 var LOCALE_EN = "EN";
 var DEFAULT_LOCALE = LOCALE_EN;
@@ -16077,7 +16077,7 @@ function getDefaultLocaleModel() {
 registerLocale(LOCALE_EN, langEN_default);
 registerLocale(LOCALE_ZH, langZH_default);
 
-// node_modules/echarts/lib/util/time.js
+// ../node_modules/echarts/lib/util/time.js
 var ONE_SECOND = 1e3;
 var ONE_MINUTE = ONE_SECOND * 60;
 var ONE_HOUR = ONE_MINUTE * 60;
@@ -16294,7 +16294,7 @@ function millisecondsSetterName(isUTC) {
   return isUTC ? "setUTCMilliseconds" : "setMilliseconds";
 }
 
-// node_modules/echarts/lib/legacy/getTextRect.js
+// ../node_modules/echarts/lib/legacy/getTextRect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -16325,7 +16325,7 @@ function getTextRect(text, font, align, verticalAlign, padding, rich, truncate, 
   return textEl.getBoundingRect();
 }
 
-// node_modules/echarts/lib/util/format.js
+// ../node_modules/echarts/lib/util/format.js
 function addCommas(x) {
   if (!isNumeric(x)) {
     return isString(x) ? x : "-";
@@ -16480,7 +16480,7 @@ function windowOpen(link, target) {
   }
 }
 
-// node_modules/echarts/lib/util/layout.js
+// ../node_modules/echarts/lib/util/layout.js
 var each2 = each;
 var LOCATION_PARAMS = ["left", "right", "top", "bottom", "width", "height"];
 var HV_NAMES = [["width", "left", "right"], ["height", "top", "bottom"]];
@@ -16735,7 +16735,7 @@ function copyLayoutParams(target, source) {
   return target;
 }
 
-// node_modules/echarts/lib/model/Component.js
+// ../node_modules/echarts/lib/model/Component.js
 var inner = makeInner();
 var ComponentModel = function(_super) {
   __extends(ComponentModel2, _super);
@@ -16843,7 +16843,7 @@ function getDependencies(componentType) {
 }
 var Component_default = ComponentModel;
 
-// node_modules/echarts/lib/model/globalDefault.js
+// ../node_modules/echarts/lib/model/globalDefault.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -16928,7 +16928,7 @@ var globalDefault_default = {
   useUTC: false
 };
 
-// node_modules/echarts/lib/data/helper/sourceHelper.js
+// ../node_modules/echarts/lib/data/helper/sourceHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -16944,7 +16944,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/types.js
+// ../node_modules/echarts/lib/util/types.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -16969,7 +16969,7 @@ var SOURCE_FORMAT_UNKNOWN = "unknown";
 var SERIES_LAYOUT_BY_COLUMN = "column";
 var SERIES_LAYOUT_BY_ROW = "row";
 
-// node_modules/echarts/lib/data/helper/sourceHelper.js
+// ../node_modules/echarts/lib/data/helper/sourceHelper.js
 var BE_ORDINAL = {
   Must: 1,
   Might: 2,
@@ -17200,7 +17200,7 @@ function doGuessOrdinal(data, sourceFormat, seriesLayoutBy, dimensionsDefine, st
   return BE_ORDINAL.Not;
 }
 
-// node_modules/echarts/lib/model/internalComponentCreator.js
+// ../node_modules/echarts/lib/model/internalComponentCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -17237,7 +17237,7 @@ function concatInternalOptions(ecModel, mainType, newCmptOptionList) {
   return newCmptOptionList.concat(internalOptions);
 }
 
-// node_modules/echarts/lib/model/mixin/palette.js
+// ../node_modules/echarts/lib/model/mixin/palette.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -17305,7 +17305,7 @@ function clearPalette(that, inner23) {
   inner23(that).paletteNameMap = {};
 }
 
-// node_modules/echarts/lib/model/Global.js
+// ../node_modules/echarts/lib/model/Global.js
 var reCreateSeriesIndices;
 var assertSeriesInitialized;
 var initBase;
@@ -17850,7 +17850,7 @@ function normalizeSetOptionInput(opts) {
 mixin(GlobalModel, PaletteMixin);
 var Global_default = GlobalModel;
 
-// node_modules/echarts/lib/core/ExtensionAPI.js
+// ../node_modules/echarts/lib/core/ExtensionAPI.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -17892,7 +17892,7 @@ var ExtensionAPI = function() {
 }();
 var ExtensionAPI_default = ExtensionAPI;
 
-// node_modules/echarts/lib/core/CoordinateSystem.js
+// ../node_modules/echarts/lib/core/CoordinateSystem.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -17938,7 +17938,7 @@ var CoordinateSystemManager = function() {
 }();
 var CoordinateSystem_default = CoordinateSystemManager;
 
-// node_modules/echarts/lib/model/OptionManager.js
+// ../node_modules/echarts/lib/model/OptionManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18131,7 +18131,7 @@ function indicesEquals(indices1, indices2) {
 }
 var OptionManager_default = OptionManager;
 
-// node_modules/echarts/lib/preprocessor/backwardCompat.js
+// ../node_modules/echarts/lib/preprocessor/backwardCompat.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18147,7 +18147,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/preprocessor/helper/compatStyle.js
+// ../node_modules/echarts/lib/preprocessor/helper/compatStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18425,7 +18425,7 @@ function globalCompatStyle(option, isTheme) {
   compatTextStyle(toObj(option.tooltip).axisPointer, "label");
 }
 
-// node_modules/echarts/lib/preprocessor/backwardCompat.js
+// ../node_modules/echarts/lib/preprocessor/backwardCompat.js
 function get(opt, path) {
   var pathArr = path.split(",");
   var obj = opt;
@@ -18632,7 +18632,7 @@ function globalBackwardCompat(option, isTheme) {
   });
 }
 
-// node_modules/echarts/lib/processor/dataStack.js
+// ../node_modules/echarts/lib/processor/dataStack.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18714,7 +18714,7 @@ function calculateStack(stackInfoList) {
   });
 }
 
-// node_modules/echarts/lib/model/Series.js
+// ../node_modules/echarts/lib/model/Series.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18730,7 +18730,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/model/mixin/dataFormat.js
+// ../node_modules/echarts/lib/model/mixin/dataFormat.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18746,7 +18746,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/helper/dataProvider.js
+// ../node_modules/echarts/lib/data/helper/dataProvider.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18762,7 +18762,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/Source.js
+// ../node_modules/echarts/lib/data/Source.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -18982,7 +18982,7 @@ function shouldRetrieveDataByName(source) {
   return sourceFormat === SOURCE_FORMAT_OBJECT_ROWS || sourceFormat === SOURCE_FORMAT_KEYED_COLUMNS;
 }
 
-// node_modules/echarts/lib/data/helper/dataProvider.js
+// ../node_modules/echarts/lib/data/helper/dataProvider.js
 var _a;
 var _b;
 var _c;
@@ -19227,7 +19227,7 @@ function retrieveRawValue(data, dataIndex, dim) {
   }
 }
 
-// node_modules/echarts/lib/model/mixin/dataFormat.js
+// ../node_modules/echarts/lib/model/mixin/dataFormat.js
 var DIMENSION_LABEL_REG = /\{@(.+?)\}/g;
 var DataFormatMixin = function() {
   function DataFormatMixin2() {
@@ -19334,7 +19334,7 @@ function normalizeTooltipFormatResult(result) {
   };
 }
 
-// node_modules/echarts/lib/core/task.js
+// ../node_modules/echarts/lib/core/task.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -19525,7 +19525,7 @@ var iterator = function() {
   }
 }();
 
-// node_modules/echarts/lib/data/helper/sourceManager.js
+// ../node_modules/echarts/lib/data/helper/sourceManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -19541,7 +19541,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/helper/transform.js
+// ../node_modules/echarts/lib/data/helper/transform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -19557,7 +19557,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/helper/dataValueHelper.js
+// ../node_modules/echarts/lib/data/helper/dataValueHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -19684,7 +19684,7 @@ function createFilterComparator(op, rval) {
   return op === "eq" || op === "ne" ? new FilterEqualityComparator(op === "eq", rval) : hasOwn(ORDER_COMPARISON_OP_MAP, op) ? new FilterOrderComparator(op, rval) : null;
 }
 
-// node_modules/echarts/lib/data/helper/transform.js
+// ../node_modules/echarts/lib/data/helper/transform.js
 var ExternalSource = function() {
   function ExternalSource2() {
   }
@@ -19966,7 +19966,7 @@ function isSupportedSourceFormat(sourceFormat) {
   return sourceFormat === SOURCE_FORMAT_ARRAY_ROWS || sourceFormat === SOURCE_FORMAT_OBJECT_ROWS;
 }
 
-// node_modules/echarts/lib/data/DataStore.js
+// ../node_modules/echarts/lib/data/DataStore.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -20755,7 +20755,7 @@ var DataStore = function() {
 }();
 var DataStore_default = DataStore;
 
-// node_modules/echarts/lib/data/helper/sourceManager.js
+// ../node_modules/echarts/lib/data/helper/sourceManager.js
 var SourceManager = function() {
   function SourceManager2(sourceHost) {
     this._sourceList = [];
@@ -20976,7 +20976,7 @@ function doThrow(errMsg) {
   throw new Error(errMsg);
 }
 
-// node_modules/echarts/lib/component/tooltip/seriesFormatTooltip.js
+// ../node_modules/echarts/lib/component/tooltip/seriesFormatTooltip.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -20992,7 +20992,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/tooltip/tooltipMarkup.js
+// ../node_modules/echarts/lib/component/tooltip/tooltipMarkup.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -21229,7 +21229,7 @@ var TooltipMarkupStyleCreator = function() {
   return TooltipMarkupStyleCreator2;
 }();
 
-// node_modules/echarts/lib/component/tooltip/seriesFormatTooltip.js
+// ../node_modules/echarts/lib/component/tooltip/seriesFormatTooltip.js
 function defaultSeriesFormatTooltip(opt) {
   var series = opt.series;
   var dataIndex = opt.dataIndex;
@@ -21312,7 +21312,7 @@ function formatTooltipArrayValue(value, series, dataIndex, tooltipDims, colorStr
   };
 }
 
-// node_modules/echarts/lib/model/Series.js
+// ../node_modules/echarts/lib/model/Series.js
 var inner2 = makeInner();
 function getSelectionKey(data, dataIndex) {
   return data.getName(dataIndex) || data.getId(dataIndex);
@@ -21674,7 +21674,7 @@ function getCurrentTask(seriesModel) {
 }
 var Series_default = SeriesModel;
 
-// node_modules/echarts/lib/view/Component.js
+// ../node_modules/echarts/lib/view/Component.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -21720,7 +21720,7 @@ enableClassExtend(ComponentView);
 enableClassManagement(ComponentView);
 var Component_default2 = ComponentView;
 
-// node_modules/echarts/lib/view/Chart.js
+// ../node_modules/echarts/lib/view/Chart.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -21736,7 +21736,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/createRenderPlanner.js
+// ../node_modules/echarts/lib/chart/helper/createRenderPlanner.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -21764,7 +21764,7 @@ function createRenderPlanner() {
   };
 }
 
-// node_modules/echarts/lib/view/Chart.js
+// ../node_modules/echarts/lib/view/Chart.js
 var inner3 = makeInner();
 var renderPlanner = createRenderPlanner();
 var ChartView = function() {
@@ -21884,7 +21884,7 @@ var progressMethodMap = {
 };
 var Chart_default = ChartView;
 
-// node_modules/echarts/lib/util/throttle.js
+// ../node_modules/echarts/lib/util/throttle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -21979,7 +21979,7 @@ function clear(obj, fnAttr) {
   }
 }
 
-// node_modules/echarts/lib/visual/style.js
+// ../node_modules/echarts/lib/visual/style.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22138,7 +22138,7 @@ var dataColorPaletteTask = {
   }
 };
 
-// node_modules/echarts/lib/loading/default.js
+// ../node_modules/echarts/lib/loading/default.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22254,7 +22254,7 @@ function defaultLoading(api, opts) {
   return group;
 }
 
-// node_modules/echarts/lib/core/Scheduler.js
+// ../node_modules/echarts/lib/core/Scheduler.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22611,7 +22611,7 @@ function mockMethods(target, Clz) {
 }
 var Scheduler_default = Scheduler;
 
-// node_modules/echarts/lib/theme/light.js
+// ../node_modules/echarts/lib/theme/light.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22632,7 +22632,7 @@ var light_default = {
   colorLayer: [["#37A2DA", "#ffd85c", "#fd7b5f"], ["#37A2DA", "#67E0E3", "#FFDB5C", "#ff9f7f", "#E062AE", "#9d96f5"], ["#37A2DA", "#32C5E9", "#9FE6B8", "#FFDB5C", "#ff9f7f", "#fb7293", "#e7bcf3", "#8378EA", "#96BFFF"], colorAll]
 };
 
-// node_modules/echarts/lib/theme/dark.js
+// ../node_modules/echarts/lib/theme/dark.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22824,7 +22824,7 @@ var theme = {
 theme.categoryAxis.splitLine.show = false;
 var dark_default = theme;
 
-// node_modules/echarts/lib/util/ECEventProcessor.js
+// ../node_modules/echarts/lib/util/ECEventProcessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -22911,7 +22911,7 @@ var ECEventProcessor = function() {
   return ECEventProcessor2;
 }();
 
-// node_modules/echarts/lib/visual/symbol.js
+// ../node_modules/echarts/lib/visual/symbol.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23001,7 +23001,7 @@ var dataSymbolTask = {
   }
 };
 
-// node_modules/echarts/lib/visual/helper.js
+// ../node_modules/echarts/lib/visual/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23072,7 +23072,7 @@ function setItemVisualFromData(data, dataIndex, key, value) {
   }
 }
 
-// node_modules/echarts/lib/legacy/dataSelectAction.js
+// ../node_modules/echarts/lib/legacy/dataSelectAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23156,7 +23156,7 @@ function handleLegacySelectEvents(messageCenter, ecIns, api) {
   });
 }
 
-// node_modules/echarts/lib/util/event.js
+// ../node_modules/echarts/lib/util/event.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23185,7 +23185,7 @@ function findEventDispatcher(target, det, returnFirstMatch) {
   return found;
 }
 
-// node_modules/echarts/lib/visual/decal.js
+// ../node_modules/echarts/lib/visual/decal.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23201,7 +23201,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/decal.js
+// ../node_modules/echarts/lib/util/decal.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23217,7 +23217,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/core/WeakMap.js
+// ../node_modules/zrender/lib/core/WeakMap.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23274,7 +23274,7 @@ var WeakMap = function() {
 }();
 var WeakMap_default = WeakMap;
 
-// node_modules/echarts/lib/util/symbol.js
+// ../node_modules/echarts/lib/util/symbol.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23540,7 +23540,7 @@ function normalizeSymbolOffset(symbolOffset, symbolSize) {
   return [parsePercent2(symbolOffset[0], symbolSize[0]) || 0, parsePercent2(retrieve2(symbolOffset[1], symbolOffset[0]), symbolSize[1]) || 0];
 }
 
-// node_modules/zrender/lib/canvas/graphic.js
+// ../node_modules/zrender/lib/canvas/graphic.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23556,7 +23556,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/canvas/helper.js
+// ../node_modules/zrender/lib/canvas/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23647,7 +23647,7 @@ function getSize(root, whIdx, opts) {
   return (root[cwh] || parseInt10(stl[wh]) || parseInt10(root.style[wh])) - (parseInt10(stl[plt]) || 0) - (parseInt10(stl[prb]) || 0) | 0;
 }
 
-// node_modules/zrender/lib/canvas/dashStyle.js
+// ../node_modules/zrender/lib/canvas/dashStyle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -23684,7 +23684,7 @@ function getLineDash(el) {
   return [lineDash, lineDashOffset];
 }
 
-// node_modules/zrender/lib/canvas/graphic.js
+// ../node_modules/zrender/lib/canvas/graphic.js
 var pathProxyForDraw = new PathProxy_default(true);
 function styleHasStroke(style) {
   var stroke = style.stroke;
@@ -24191,7 +24191,7 @@ function brushIncremental(ctx, el, scope) {
   ctx.restore();
 }
 
-// node_modules/echarts/lib/util/decal.js
+// ../node_modules/echarts/lib/util/decal.js
 var decalMap = new WeakMap_default();
 var decalCache = new LRU_default(100);
 var decalKeys = ["symbol", "symbolSize", "symbolKeepAspect", "color", "backgroundColor", "dashArrayX", "dashArrayY", "maxTileWidth", "maxTileHeight"];
@@ -24474,7 +24474,7 @@ function getLineBlockLengthY(dash) {
   return blockLength;
 }
 
-// node_modules/echarts/lib/visual/decal.js
+// ../node_modules/echarts/lib/visual/decal.js
 function decalVisual(ecModel, api) {
   ecModel.eachRawSeries(function(seriesModel) {
     if (ecModel.isSeriesFiltered(seriesModel)) {
@@ -24498,7 +24498,7 @@ function decalVisual(ecModel, api) {
   });
 }
 
-// node_modules/echarts/lib/core/lifecycle.js
+// ../node_modules/echarts/lib/core/lifecycle.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -24516,7 +24516,7 @@ init_define_SEARCH_LOCALES();
 var lifecycle = new Eventful_default();
 var lifecycle_default = lifecycle;
 
-// node_modules/echarts/lib/core/impl.js
+// ../node_modules/echarts/lib/core/impl.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -24549,7 +24549,7 @@ function getImpl(name) {
   return implsStore[name];
 }
 
-// node_modules/echarts/lib/core/echarts.js
+// ../node_modules/echarts/lib/core/echarts.js
 var hasWindow = typeof window !== "undefined";
 var version2 = "5.3.3";
 var dependencies = {
@@ -26313,7 +26313,7 @@ registerTheme("light", light_default);
 registerTheme("dark", dark_default);
 var dataTool = {};
 
-// node_modules/echarts/lib/extension.js
+// ../node_modules/echarts/lib/extension.js
 var extensions = [];
 var extensionRegisters = {
   registerPreprocessor,
@@ -26372,7 +26372,7 @@ function use(ext) {
   ext.install(extensionRegisters);
 }
 
-// node_modules/echarts/lib/export/core.js
+// ../node_modules/echarts/lib/export/core.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26388,7 +26388,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/export/api.js
+// ../node_modules/echarts/lib/export/api.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26404,7 +26404,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/SeriesData.js
+// ../node_modules/echarts/lib/data/SeriesData.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26420,7 +26420,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/DataDiffer.js
+// ../node_modules/echarts/lib/data/DataDiffer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26584,7 +26584,7 @@ var DataDiffer = function() {
 }();
 var DataDiffer_default = DataDiffer;
 
-// node_modules/echarts/lib/data/helper/dimensionHelper.js
+// ../node_modules/echarts/lib/data/helper/dimensionHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26693,7 +26693,7 @@ function mayLabelDimType(dimType) {
   return !(dimType === "ordinal" || dimType === "time");
 }
 
-// node_modules/echarts/lib/data/SeriesDimensionDefine.js
+// ../node_modules/echarts/lib/data/SeriesDimensionDefine.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26719,7 +26719,7 @@ var SeriesDimensionDefine = function() {
 }();
 var SeriesDimensionDefine_default = SeriesDimensionDefine;
 
-// node_modules/echarts/lib/data/helper/SeriesDataSchema.js
+// ../node_modules/echarts/lib/data/helper/SeriesDataSchema.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -26866,7 +26866,7 @@ function shouldOmitUnusedDimensions(dimCount) {
   return dimCount > 30;
 }
 
-// node_modules/echarts/lib/data/SeriesData.js
+// ../node_modules/echarts/lib/data/SeriesData.js
 var isObject3 = isObject;
 var map2 = map;
 var CtorInt32Array2 = typeof Int32Array === "undefined" ? Array : Int32Array;
@@ -27522,7 +27522,7 @@ var SeriesData = function() {
 }();
 var SeriesData_default = SeriesData;
 
-// node_modules/echarts/lib/export/api/helper.js
+// ../node_modules/echarts/lib/export/api/helper.js
 var helper_exports2 = {};
 __export(helper_exports2, {
   createDimensions: () => createDimensions,
@@ -27551,7 +27551,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/createSeriesData.js
+// ../node_modules/echarts/lib/chart/helper/createSeriesData.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -27567,7 +27567,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/helper/createDimensions.js
+// ../node_modules/echarts/lib/data/helper/createDimensions.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -27787,7 +27787,7 @@ function genCoordDimName(name, map3, fromZero) {
   return name;
 }
 
-// node_modules/echarts/lib/model/referHelper.js
+// ../node_modules/echarts/lib/model/referHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -27906,7 +27906,7 @@ function isCategory(axisModel) {
   return axisModel.get("type") === "category";
 }
 
-// node_modules/echarts/lib/data/helper/dataStackHelper.js
+// ../node_modules/echarts/lib/data/helper/dataStackHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28020,7 +28020,7 @@ function getStackedDimension(data, targetDim) {
   return isDimensionStacked(data, targetDim) ? data.getCalculationInfo("stackResultDimension") : targetDim;
 }
 
-// node_modules/echarts/lib/chart/helper/createSeriesData.js
+// ../node_modules/echarts/lib/chart/helper/createSeriesData.js
 function getCoordSysDimDefs(seriesModel, coordSysInfo) {
   var coordSysName = seriesModel.get("coordinateSystem");
   var registeredCoordSys = CoordinateSystem_default.get(coordSysName);
@@ -28121,7 +28121,7 @@ function firstDataNotNull(arr) {
 }
 var createSeriesData_default = createSeriesData;
 
-// node_modules/echarts/lib/coord/axisHelper.js
+// ../node_modules/echarts/lib/coord/axisHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28137,7 +28137,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/scale/Ordinal.js
+// ../node_modules/echarts/lib/scale/Ordinal.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28153,7 +28153,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/scale/Scale.js
+// ../node_modules/echarts/lib/scale/Scale.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28210,7 +28210,7 @@ var Scale = function() {
 enableClassManagement(Scale);
 var Scale_default = Scale;
 
-// node_modules/echarts/lib/data/OrdinalMeta.js
+// ../node_modules/echarts/lib/data/OrdinalMeta.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28285,7 +28285,7 @@ function getName(obj) {
 }
 var OrdinalMeta_default = OrdinalMeta;
 
-// node_modules/echarts/lib/scale/helper.js
+// ../node_modules/echarts/lib/scale/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28365,7 +28365,7 @@ function scale3(val, extent3) {
   return val * (extent3[1] - extent3[0]) + extent3[0];
 }
 
-// node_modules/echarts/lib/scale/Ordinal.js
+// ../node_modules/echarts/lib/scale/Ordinal.js
 var OrdinalScale = function(_super) {
   __extends(OrdinalScale2, _super);
   function OrdinalScale2(setting) {
@@ -28482,7 +28482,7 @@ var OrdinalScale = function(_super) {
 Scale_default.registerClass(OrdinalScale);
 var Ordinal_default = OrdinalScale;
 
-// node_modules/echarts/lib/scale/Interval.js
+// ../node_modules/echarts/lib/scale/Interval.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28679,7 +28679,7 @@ var IntervalScale = function(_super) {
 Scale_default.registerClass(IntervalScale);
 var Interval_default = IntervalScale;
 
-// node_modules/echarts/lib/layout/barGrid.js
+// ../node_modules/echarts/lib/layout/barGrid.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28695,7 +28695,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/vendor.js
+// ../node_modules/echarts/lib/util/vendor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -28719,7 +28719,7 @@ function createFloat32Array(arg) {
   return new Float32ArrayCtor(arg);
 }
 
-// node_modules/echarts/lib/layout/barGrid.js
+// ../node_modules/echarts/lib/layout/barGrid.js
 var STACK_PREFIX = "__ec_stack_";
 function getSeriesStackId(seriesModel) {
   return seriesModel.get("stack") || STACK_PREFIX + seriesModel.seriesIndex;
@@ -29095,7 +29095,7 @@ function getValueAxisStart(baseAxis, valueAxis2) {
   return valueAxis2.toGlobalCoord(valueAxis2.dataToCoord(valueAxis2.type === "log" ? 1 : 0));
 }
 
-// node_modules/echarts/lib/scale/Time.js
+// ../node_modules/echarts/lib/scale/Time.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -29473,7 +29473,7 @@ function getIntervalTicks(bottomUnitName, approxInterval, isUTC, extent3) {
 Scale_default.registerClass(TimeScale);
 var Time_default = TimeScale;
 
-// node_modules/echarts/lib/scale/Log.js
+// ../node_modules/echarts/lib/scale/Log.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -29598,7 +29598,7 @@ function fixRoundingError(val, originalVal) {
 Scale_default.registerClass(LogScale);
 var Log_default = LogScale;
 
-// node_modules/echarts/lib/coord/scaleRawExtentInfo.js
+// ../node_modules/echarts/lib/coord/scaleRawExtentInfo.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -29743,7 +29743,7 @@ function parseAxisModelMinMax(scale4, minMax) {
   return minMax == null ? null : eqNaN(minMax) ? NaN : scale4.parse(minMax);
 }
 
-// node_modules/echarts/lib/coord/axisHelper.js
+// ../node_modules/echarts/lib/coord/axisHelper.js
 function getScaleExtent(scale4, model) {
   var scaleType = scale4.type;
   var rawExtentResult = ensureScaleRawExtentInfo(scale4, model, scale4.getExtent()).calculate();
@@ -29952,7 +29952,7 @@ function unionAxisExtentFromData(dataExtent, data, axisDim) {
   }
 }
 
-// node_modules/echarts/lib/coord/axisModelCommonMixin.js
+// ../node_modules/echarts/lib/coord/axisModelCommonMixin.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -29980,7 +29980,7 @@ var AxisModelCommonMixin = function() {
   return AxisModelCommonMixin2;
 }();
 
-// node_modules/echarts/lib/export/api/helper.js
+// ../node_modules/echarts/lib/export/api/helper.js
 function createList(seriesModel) {
   return createSeriesData_default(null, seriesModel);
 }
@@ -30007,7 +30007,7 @@ function createTextStyle2(textStyleModel, opts) {
   return createTextStyle(textStyleModel, null, null, opts.state !== "normal");
 }
 
-// node_modules/echarts/lib/coord/geo/parseGeoJson.js
+// ../node_modules/echarts/lib/coord/geo/parseGeoJson.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -30023,7 +30023,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/Region.js
+// ../node_modules/echarts/lib/coord/geo/Region.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -30039,7 +30039,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/contain/polygon.js
+// ../node_modules/zrender/lib/contain/polygon.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -30076,7 +30076,7 @@ function contain3(points4, x, y) {
   return w !== 0;
 }
 
-// node_modules/echarts/lib/coord/geo/Region.js
+// ../node_modules/echarts/lib/coord/geo/Region.js
 var TMP_TRANSFORM = [];
 function transformPoints(points4, transform2) {
   for (var p = 0; p < points4.length; p++) {
@@ -30286,7 +30286,7 @@ var GeoSVGRegion = function(_super) {
   return GeoSVGRegion2;
 }(Region);
 
-// node_modules/echarts/lib/coord/geo/parseGeoJson.js
+// ../node_modules/echarts/lib/coord/geo/parseGeoJson.js
 function decode(json) {
   if (!json.UTF8Encoding) {
     return json;
@@ -30377,7 +30377,7 @@ function parseGeoJSON(geoJson, nameProperty) {
   });
 }
 
-// node_modules/echarts/lib/export/api/number.js
+// ../node_modules/echarts/lib/export/api/number.js
 var number_exports2 = {};
 __export(number_exports2, {
   MAX_SAFE_INTEGER: () => MAX_SAFE_INTEGER,
@@ -30414,7 +30414,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/export/api/time.js
+// ../node_modules/echarts/lib/export/api/time.js
 var time_exports = {};
 __export(time_exports, {
   format: () => format,
@@ -30435,7 +30435,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/export/api/graphic.js
+// ../node_modules/echarts/lib/export/api/graphic.js
 var graphic_exports2 = {};
 __export(graphic_exports2, {
   Arc: () => Arc_default,
@@ -30486,7 +30486,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/export/api/format.js
+// ../node_modules/echarts/lib/export/api/format.js
 var format_exports2 = {};
 __export(format_exports2, {
   addCommas: () => addCommas,
@@ -30515,7 +30515,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/export/api/util.js
+// ../node_modules/echarts/lib/export/api/util.js
 var util_exports2 = {};
 __export(util_exports2, {
   bind: () => bind,
@@ -30550,7 +30550,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/Axis.js
+// ../node_modules/echarts/lib/coord/Axis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -30566,7 +30566,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/axisTickLabelBuilder.js
+// ../node_modules/echarts/lib/coord/axisTickLabelBuilder.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -30797,7 +30797,7 @@ function makeLabelsByCustomizedCategoryInterval(axis, categoryInterval, onlyTick
   return result;
 }
 
-// node_modules/echarts/lib/coord/Axis.js
+// ../node_modules/echarts/lib/coord/Axis.js
 var NORMALIZED_EXTENT = [0, 1];
 var Axis = function() {
   function Axis2(dim, scale4, extent3) {
@@ -30965,7 +30965,7 @@ function fixOnBandTicksCoords(axis, ticksCoords, alignWithLabel, clamp2) {
 }
 var Axis_default = Axis;
 
-// node_modules/echarts/lib/export/api.js
+// ../node_modules/echarts/lib/export/api.js
 function extendComponentModel(proto2) {
   var Model2 = Component_default.extend(proto2);
   Component_default.registerClass(Model2);
@@ -30987,7 +30987,7 @@ function extendChartView(proto2) {
   return View2;
 }
 
-// node_modules/echarts/lib/label/installLabelLayout.js
+// ../node_modules/echarts/lib/label/installLabelLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -31003,7 +31003,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/label/LabelManager.js
+// ../node_modules/echarts/lib/label/LabelManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -31019,7 +31019,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/label/labelGuideHelper.js
+// ../node_modules/echarts/lib/label/labelGuideHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -31458,7 +31458,7 @@ function getLabelLineStatesModels(itemModel, labelLineName) {
   return statesModels;
 }
 
-// node_modules/echarts/lib/label/labelLayoutHelper.js
+// ../node_modules/echarts/lib/label/labelLayoutHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -31692,7 +31692,7 @@ function hideOverlap(labelList) {
   }
 }
 
-// node_modules/echarts/lib/label/LabelManager.js
+// ../node_modules/echarts/lib/label/LabelManager.js
 function cloneArr(points4) {
   if (points4) {
     var newPoints = [];
@@ -32032,7 +32032,7 @@ var LabelManager = function() {
 }();
 var LabelManager_default = LabelManager;
 
-// node_modules/echarts/lib/label/installLabelLayout.js
+// ../node_modules/echarts/lib/label/installLabelLayout.js
 var getLabelManager = makeInner();
 function installLabelLayout(registers) {
   registers.registerUpdateLifecycle("series:beforeupdate", function(ecModel, api, params) {
@@ -32053,10 +32053,10 @@ function installLabelLayout(registers) {
   });
 }
 
-// node_modules/echarts/lib/export/core.js
+// ../node_modules/echarts/lib/export/core.js
 use(installLabelLayout);
 
-// node_modules/echarts/lib/export/renderers.js
+// ../node_modules/echarts/lib/export/renderers.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32072,7 +32072,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/renderer/installSVGRenderer.js
+// ../node_modules/echarts/lib/renderer/installSVGRenderer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32088,7 +32088,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/svg/Painter.js
+// ../node_modules/zrender/lib/svg/Painter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32104,7 +32104,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/svg/graphic.js
+// ../node_modules/zrender/lib/svg/graphic.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32120,7 +32120,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/svg/SVGPathRebuilder.js
+// ../node_modules/zrender/lib/svg/SVGPathRebuilder.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32234,7 +32234,7 @@ var SVGPathRebuilder = function() {
 }();
 var SVGPathRebuilder_default = SVGPathRebuilder;
 
-// node_modules/zrender/lib/svg/mapStyleToAttrs.js
+// ../node_modules/zrender/lib/svg/mapStyleToAttrs.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32319,7 +32319,7 @@ function mapStyleToAttrs(updateAttr2, style, el, forceUpdate) {
   }
 }
 
-// node_modules/zrender/lib/svg/core.js
+// ../node_modules/zrender/lib/svg/core.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32436,7 +32436,7 @@ function createSVGVNode(width, height, children, useViewBox) {
   }, children);
 }
 
-// node_modules/zrender/lib/svg/cssAnimation.js
+// ../node_modules/zrender/lib/svg/cssAnimation.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -32715,7 +32715,7 @@ function createCSSAnimation(el, attrs, scope, onlyShape) {
   }
 }
 
-// node_modules/zrender/lib/svg/graphic.js
+// ../node_modules/zrender/lib/svg/graphic.js
 var round5 = Math.round;
 function isImageLike2(val) {
   return val && isString(val.src);
@@ -33098,7 +33098,7 @@ function setClipPath(clipPath, attrs, scope) {
   attrs["clip-path"] = getIdURL(clipPathId);
 }
 
-// node_modules/zrender/lib/svg/patch.js
+// ../node_modules/zrender/lib/svg/patch.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -33114,7 +33114,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/svg/domapi.js
+// ../node_modules/zrender/lib/svg/domapi.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -33151,7 +33151,7 @@ function setTextContent(node, text) {
   node.textContent = text;
 }
 
-// node_modules/zrender/lib/svg/patch.js
+// ../node_modules/zrender/lib/svg/patch.js
 var colonChar = 58;
 var xChar = 120;
 var emptyNode = createVNode("", "");
@@ -33375,7 +33375,7 @@ function patch(oldVnode, vnode) {
   return vnode;
 }
 
-// node_modules/zrender/lib/svg/Painter.js
+// ../node_modules/zrender/lib/svg/Painter.js
 var svgId = 0;
 var SVGPainter = function() {
   function SVGPainter2(root, storage2, opts) {
@@ -33599,12 +33599,12 @@ function createMethodNotSupport(method) {
 }
 var Painter_default = SVGPainter;
 
-// node_modules/echarts/lib/renderer/installSVGRenderer.js
+// ../node_modules/echarts/lib/renderer/installSVGRenderer.js
 function install(registers) {
   registers.registerPainter("svg", Painter_default);
 }
 
-// node_modules/echarts/lib/renderer/installCanvasRenderer.js
+// ../node_modules/echarts/lib/renderer/installCanvasRenderer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -33620,7 +33620,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/canvas/Painter.js
+// ../node_modules/zrender/lib/canvas/Painter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -33636,7 +33636,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/canvas/Layer.js
+// ../node_modules/zrender/lib/canvas/Layer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -33923,7 +33923,7 @@ var Layer = function(_super) {
 }(Eventful_default);
 var Layer_default = Layer;
 
-// node_modules/zrender/lib/canvas/Painter.js
+// ../node_modules/zrender/lib/canvas/Painter.js
 var HOVER_LAYER_ZLEVEL = 1e5;
 var CANVAS_ZLEVEL = 314159;
 var EL_AFTER_INCREMENTAL_INC = 0.01;
@@ -34531,12 +34531,12 @@ var CanvasPainter = function() {
 }();
 var Painter_default2 = CanvasPainter;
 
-// node_modules/echarts/lib/renderer/installCanvasRenderer.js
+// ../node_modules/echarts/lib/renderer/installCanvasRenderer.js
 function install2(registers) {
   registers.registerPainter("canvas", Painter_default2);
 }
 
-// node_modules/echarts/lib/export/charts.js
+// ../node_modules/echarts/lib/export/charts.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34552,7 +34552,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/line/install.js
+// ../node_modules/echarts/lib/chart/line/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34568,7 +34568,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/line/LineSeries.js
+// ../node_modules/echarts/lib/chart/line/LineSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34668,7 +34668,7 @@ var LineSeriesModel = function(_super) {
 }(Series_default);
 var LineSeries_default = LineSeriesModel;
 
-// node_modules/echarts/lib/chart/line/LineView.js
+// ../node_modules/echarts/lib/chart/line/LineView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34684,7 +34684,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/SymbolDraw.js
+// ../node_modules/echarts/lib/chart/helper/SymbolDraw.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34700,7 +34700,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/Symbol.js
+// ../node_modules/echarts/lib/chart/helper/Symbol.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34716,7 +34716,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/labelHelper.js
+// ../node_modules/echarts/lib/chart/helper/labelHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -34760,7 +34760,7 @@ function getDefaultInterpolatedLabel(data, interpolatedValue) {
   return vals.join(" ");
 }
 
-// node_modules/echarts/lib/chart/helper/Symbol.js
+// ../node_modules/echarts/lib/chart/helper/Symbol.js
 var Symbol2 = function(_super) {
   __extends(Symbol3, _super);
   function Symbol3(data, idx, seriesScope, opts) {
@@ -34995,7 +34995,7 @@ function driftSymbol(dx, dy) {
 }
 var Symbol_default = Symbol2;
 
-// node_modules/echarts/lib/chart/helper/SymbolDraw.js
+// ../node_modules/echarts/lib/chart/helper/SymbolDraw.js
 function symbolNeedsDraw(data, point, idx, opt) {
   return point && !isNaN(point[0]) && !isNaN(point[1]) && !(opt.isIgnore && opt.isIgnore(idx)) && !(opt.clipShape && !opt.clipShape.contain(point[0], point[1])) && data.getItemVisual(idx, "symbol") !== "none";
 }
@@ -35147,7 +35147,7 @@ var SymbolDraw = function() {
 }();
 var SymbolDraw_default = SymbolDraw;
 
-// node_modules/echarts/lib/chart/line/lineAnimationDiff.js
+// ../node_modules/echarts/lib/chart/line/lineAnimationDiff.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -35163,7 +35163,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/line/helper.js
+// ../node_modules/echarts/lib/chart/line/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -35245,7 +35245,7 @@ function getStackedOnPoint(dataCoordInfo, coordSys, data, idx) {
   return coordSys.dataToPoint(stackedData);
 }
 
-// node_modules/echarts/lib/chart/line/lineAnimationDiff.js
+// ../node_modules/echarts/lib/chart/line/lineAnimationDiff.js
 function diffData(oldData, newData) {
   var diffResult = [];
   newData.diff(oldData).add(function(idx) {
@@ -35354,7 +35354,7 @@ function lineAnimationDiff(oldData, newData, oldStackedOnPoints, newStackedOnPoi
   };
 }
 
-// node_modules/echarts/lib/chart/line/poly.js
+// ../node_modules/echarts/lib/chart/line/poly.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -35653,7 +35653,7 @@ var ECPolygon = function(_super) {
   return ECPolygon2;
 }(Path_default);
 
-// node_modules/echarts/lib/chart/helper/createClipPathFromCoordSys.js
+// ../node_modules/echarts/lib/chart/helper/createClipPathFromCoordSys.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -35760,7 +35760,7 @@ function createClipPath(coordSys, hasAnimation, seriesModel, done, during) {
   return null;
 }
 
-// node_modules/echarts/lib/coord/CoordinateSystem.js
+// ../node_modules/echarts/lib/coord/CoordinateSystem.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -35779,7 +35779,7 @@ function isCoordinateSystemType(coordSys, type) {
   return coordSys.type === type;
 }
 
-// node_modules/echarts/lib/chart/line/LineView.js
+// ../node_modules/echarts/lib/chart/line/LineView.js
 function isPointsSame(points1, points22) {
   if (points1.length !== points22.length) {
     return;
@@ -36717,7 +36717,7 @@ var LineView = function(_super) {
 }(Chart_default);
 var LineView_default = LineView;
 
-// node_modules/echarts/lib/layout/points.js
+// ../node_modules/echarts/lib/layout/points.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -36788,7 +36788,7 @@ function pointsLayout(seriesType2, forceStoreInTypedArray) {
   };
 }
 
-// node_modules/echarts/lib/processor/dataSample.js
+// ../node_modules/echarts/lib/processor/dataSample.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -36877,7 +36877,7 @@ function dataSample(seriesType2) {
   };
 }
 
-// node_modules/echarts/lib/chart/line/install.js
+// ../node_modules/echarts/lib/chart/line/install.js
 function install3(registers) {
   registers.registerChartView(LineView_default);
   registers.registerSeriesModel(LineSeries_default);
@@ -36896,7 +36896,7 @@ function install3(registers) {
   registers.registerProcessor(registers.PRIORITY.PROCESSOR.STATISTIC, dataSample("line"));
 }
 
-// node_modules/echarts/lib/chart/bar/install.js
+// ../node_modules/echarts/lib/chart/bar/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -36912,7 +36912,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/bar/BarSeries.js
+// ../node_modules/echarts/lib/chart/bar/BarSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -36928,7 +36928,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/bar/BaseBarSeries.js
+// ../node_modules/echarts/lib/chart/bar/BaseBarSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -36985,7 +36985,7 @@ var BaseBarSeriesModel = function(_super) {
 Series_default.registerClass(BaseBarSeriesModel);
 var BaseBarSeries_default = BaseBarSeriesModel;
 
-// node_modules/echarts/lib/chart/bar/BarSeries.js
+// ../node_modules/echarts/lib/chart/bar/BarSeries.js
 var BarSeriesModel = function(_super) {
   __extends(BarSeriesModel2, _super);
   function BarSeriesModel2() {
@@ -37042,7 +37042,7 @@ var BarSeriesModel = function(_super) {
 }(BaseBarSeries_default);
 var BarSeries_default = BarSeriesModel;
 
-// node_modules/echarts/lib/chart/bar/BarView.js
+// ../node_modules/echarts/lib/chart/bar/BarView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -37058,7 +37058,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/shape/sausage.js
+// ../node_modules/echarts/lib/util/shape/sausage.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -37130,7 +37130,7 @@ var SausagePath = function(_super) {
 }(Path_default);
 var sausage_default = SausagePath;
 
-// node_modules/echarts/lib/label/sectorLabel.js
+// ../node_modules/echarts/lib/label/sectorLabel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -37292,7 +37292,7 @@ function adjustAngleDistanceY(angle, distance2, isEnd) {
   return distance2 * Math.cos(angle) * (isEnd ? 1 : -1);
 }
 
-// node_modules/echarts/lib/chart/bar/BarView.js
+// ../node_modules/echarts/lib/chart/bar/BarView.js
 var mathMax7 = Math.max;
 var mathMin7 = Math.min;
 function getClipArea(coord, data) {
@@ -38042,7 +38042,7 @@ function createBackgroundEl(coord, isHorizontalOrRadial, layout5) {
 }
 var BarView_default = BarView;
 
-// node_modules/echarts/lib/chart/bar/install.js
+// ../node_modules/echarts/lib/chart/bar/install.js
 function install4(registers) {
   registers.registerChartView(BarView_default);
   registers.registerSeriesModel(BarSeries_default);
@@ -38066,7 +38066,7 @@ function install4(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/pie/install.js
+// ../node_modules/echarts/lib/chart/pie/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38082,7 +38082,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/pie/pieLayout.js
+// ../node_modules/echarts/lib/chart/pie/pieLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38223,7 +38223,7 @@ function pieLayout(seriesType2, ecModel, api) {
   });
 }
 
-// node_modules/echarts/lib/processor/dataFilter.js
+// ../node_modules/echarts/lib/processor/dataFilter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38262,7 +38262,7 @@ function dataFilter(seriesType2) {
   };
 }
 
-// node_modules/echarts/lib/chart/pie/PieView.js
+// ../node_modules/echarts/lib/chart/pie/PieView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38278,7 +38278,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/pie/labelLayout.js
+// ../node_modules/echarts/lib/chart/pie/labelLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38668,7 +38668,7 @@ function pieLabelLayout(seriesModel) {
   }
 }
 
-// node_modules/echarts/lib/chart/helper/pieHelper.js
+// ../node_modules/echarts/lib/chart/helper/pieHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38701,7 +38701,7 @@ function getSectorCornerRadius(model, shape, zeroIfNull) {
   };
 }
 
-// node_modules/echarts/lib/chart/pie/PieView.js
+// ../node_modules/echarts/lib/chart/pie/PieView.js
 var PiePiece = function(_super) {
   __extends(PiePiece2, _super);
   function PiePiece2(data, idx, startAngle) {
@@ -38909,7 +38909,7 @@ var PieView = function(_super) {
 }(Chart_default);
 var PieView_default = PieView;
 
-// node_modules/echarts/lib/chart/pie/PieSeries.js
+// ../node_modules/echarts/lib/chart/pie/PieSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38925,7 +38925,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/createSeriesDataSimply.js
+// ../node_modules/echarts/lib/chart/helper/createSeriesDataSimply.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38953,7 +38953,7 @@ function createSeriesDataSimply(seriesModel, opt, nameList) {
   return list;
 }
 
-// node_modules/echarts/lib/visual/LegendVisualProvider.js
+// ../node_modules/echarts/lib/visual/LegendVisualProvider.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -38993,7 +38993,7 @@ var LegendVisualProvider = function() {
 }();
 var LegendVisualProvider_default = LegendVisualProvider;
 
-// node_modules/echarts/lib/chart/pie/PieSeries.js
+// ../node_modules/echarts/lib/chart/pie/PieSeries.js
 var PieSeriesModel = function(_super) {
   __extends(PieSeriesModel2, _super);
   function PieSeriesModel2() {
@@ -39101,7 +39101,7 @@ var PieSeriesModel = function(_super) {
 }(Series_default);
 var PieSeries_default = PieSeriesModel;
 
-// node_modules/echarts/lib/processor/negativeDataFilter.js
+// ../node_modules/echarts/lib/processor/negativeDataFilter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39133,7 +39133,7 @@ function negativeDataFilter(seriesType2) {
   };
 }
 
-// node_modules/echarts/lib/chart/pie/install.js
+// ../node_modules/echarts/lib/chart/pie/install.js
 function install5(registers) {
   registers.registerChartView(PieView_default);
   registers.registerSeriesModel(PieSeries_default);
@@ -39143,7 +39143,7 @@ function install5(registers) {
   registers.registerProcessor(negativeDataFilter("pie"));
 }
 
-// node_modules/echarts/lib/chart/scatter/install.js
+// ../node_modules/echarts/lib/chart/scatter/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39159,7 +39159,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/scatter/ScatterSeries.js
+// ../node_modules/echarts/lib/chart/scatter/ScatterSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39236,7 +39236,7 @@ var ScatterSeriesModel = function(_super) {
 }(Series_default);
 var ScatterSeries_default = ScatterSeriesModel;
 
-// node_modules/echarts/lib/chart/scatter/ScatterView.js
+// ../node_modules/echarts/lib/chart/scatter/ScatterView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39252,7 +39252,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/LargeSymbolDraw.js
+// ../node_modules/echarts/lib/chart/helper/LargeSymbolDraw.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39501,7 +39501,7 @@ var LargeSymbolDraw = function() {
 }();
 var LargeSymbolDraw_default = LargeSymbolDraw;
 
-// node_modules/echarts/lib/chart/scatter/ScatterView.js
+// ../node_modules/echarts/lib/chart/scatter/ScatterView.js
 var ScatterView = function(_super) {
   __extends(ScatterView2, _super);
   function ScatterView2() {
@@ -39580,7 +39580,7 @@ var ScatterView = function(_super) {
 }(Chart_default);
 var ScatterView_default = ScatterView;
 
-// node_modules/echarts/lib/component/grid/installSimple.js
+// ../node_modules/echarts/lib/component/grid/installSimple.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39596,7 +39596,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/cartesian/GridModel.js
+// ../node_modules/echarts/lib/coord/cartesian/GridModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39635,7 +39635,7 @@ var GridModel = function(_super) {
 }(Component_default);
 var GridModel_default = GridModel;
 
-// node_modules/echarts/lib/coord/cartesian/AxisModel.js
+// ../node_modules/echarts/lib/coord/cartesian/AxisModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39663,7 +39663,7 @@ var CartesianAxisModel = function(_super) {
 }(Component_default);
 mixin(CartesianAxisModel, AxisModelCommonMixin);
 
-// node_modules/echarts/lib/coord/axisModelCreator.js
+// ../node_modules/echarts/lib/coord/axisModelCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39679,7 +39679,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/axisDefault.js
+// ../node_modules/echarts/lib/coord/axisDefault.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39820,7 +39820,7 @@ var axisDefault_default = {
   log: logAxis
 };
 
-// node_modules/echarts/lib/coord/axisCommonTypes.js
+// ../node_modules/echarts/lib/coord/axisCommonTypes.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39842,7 +39842,7 @@ var AXIS_TYPES = {
   log: 1
 };
 
-// node_modules/echarts/lib/coord/axisModelCreator.js
+// ../node_modules/echarts/lib/coord/axisModelCreator.js
 function axisModelCreator(registers, axisName, BaseAxisModelClass, extraDefaultOption) {
   each(AXIS_TYPES, function(v, axisType) {
     var defaultOption3 = merge(merge({}, axisDefault_default[axisType], true), extraDefaultOption, true);
@@ -39894,7 +39894,7 @@ function getAxisType(option) {
   return option.type || (option.data ? "category" : "value");
 }
 
-// node_modules/echarts/lib/coord/cartesian/Grid.js
+// ../node_modules/echarts/lib/coord/cartesian/Grid.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39910,7 +39910,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
+// ../node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39926,7 +39926,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/cartesian/Cartesian.js
+// ../node_modules/echarts/lib/coord/cartesian/Cartesian.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -39971,7 +39971,7 @@ var Cartesian = function() {
 }();
 var Cartesian_default = Cartesian;
 
-// node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
+// ../node_modules/echarts/lib/coord/cartesian/Cartesian2D.js
 var cartesian2DDimensions = ["x", "y"];
 function canCalculateAffineTransform(scale4) {
   return scale4.type === "interval" || scale4.type === "time";
@@ -40077,7 +40077,7 @@ var Cartesian2D = function(_super) {
 }(Cartesian_default);
 var Cartesian2D_default = Cartesian2D;
 
-// node_modules/echarts/lib/coord/cartesian/Axis2D.js
+// ../node_modules/echarts/lib/coord/cartesian/Axis2D.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -40126,7 +40126,7 @@ var Axis2D = function(_super) {
 }(Axis_default);
 var Axis2D_default = Axis2D;
 
-// node_modules/echarts/lib/coord/cartesian/cartesianAxisHelper.js
+// ../node_modules/echarts/lib/coord/cartesian/cartesianAxisHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -40207,7 +40207,7 @@ function findAxisModels(seriesModel) {
   return axisModelMap;
 }
 
-// node_modules/echarts/lib/coord/axisAlignTicks.js
+// ../node_modules/echarts/lib/coord/axisAlignTicks.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -40298,7 +40298,7 @@ function alignScaleTicks(scale4, axisModel, alignToScale) {
   }
 }
 
-// node_modules/echarts/lib/coord/cartesian/Grid.js
+// ../node_modules/echarts/lib/coord/cartesian/Grid.js
 var Grid = function() {
   function Grid2(gridModel, ecModel, api) {
     this.type = "grid";
@@ -40668,7 +40668,7 @@ function updateAxisTransform(axis, coordBase) {
 }
 var Grid_default = Grid;
 
-// node_modules/echarts/lib/component/axis/CartesianAxisView.js
+// ../node_modules/echarts/lib/component/axis/CartesianAxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -40684,7 +40684,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axis/AxisBuilder.js
+// ../node_modules/echarts/lib/component/axis/AxisBuilder.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41152,7 +41152,7 @@ function buildAxisLabel(group, transformGroup, axisModel, opt) {
 }
 var AxisBuilder_default = AxisBuilder;
 
-// node_modules/echarts/lib/component/axis/AxisView.js
+// ../node_modules/echarts/lib/component/axis/AxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41168,7 +41168,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/modelHelper.js
+// ../node_modules/echarts/lib/component/axisPointer/modelHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41358,7 +41358,7 @@ function makeKey(model) {
   return model.type + "||" + model.id;
 }
 
-// node_modules/echarts/lib/component/axis/AxisView.js
+// ../node_modules/echarts/lib/component/axis/AxisView.js
 var axisPointerClazz = {};
 var AxisView = function(_super) {
   __extends(AxisView2, _super);
@@ -41413,7 +41413,7 @@ var AxisView = function(_super) {
 }(Component_default2);
 var AxisView_default = AxisView;
 
-// node_modules/echarts/lib/component/axis/axisSplitHelper.js
+// ../node_modules/echarts/lib/component/axis/axisSplitHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41504,7 +41504,7 @@ function rectCoordAxisHandleRemove(axisView) {
   inner7(axisView).splitAreaColors = null;
 }
 
-// node_modules/echarts/lib/component/axis/CartesianAxisView.js
+// ../node_modules/echarts/lib/component/axis/CartesianAxisView.js
 var axisBuilderAttrs = ["axisLine", "axisTickLabel", "axisName"];
 var selfBuilderAttrs = ["splitArea", "splitLine", "minorSplitLine"];
 var CartesianAxisView = function(_super) {
@@ -41674,7 +41674,7 @@ var CartesianYAxisView = function(_super) {
   return CartesianYAxisView2;
 }(CartesianAxisView);
 
-// node_modules/echarts/lib/component/grid/installSimple.js
+// ../node_modules/echarts/lib/component/grid/installSimple.js
 var GridView = function(_super) {
   __extends(GridView2, _super);
   function GridView2() {
@@ -41716,7 +41716,7 @@ function install6(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/scatter/install.js
+// ../node_modules/echarts/lib/chart/scatter/install.js
 function install7(registers) {
   use(install6);
   registers.registerSeriesModel(ScatterSeries_default);
@@ -41724,7 +41724,7 @@ function install7(registers) {
   registers.registerLayout(pointsLayout("scatter"));
 }
 
-// node_modules/echarts/lib/chart/radar/install.js
+// ../node_modules/echarts/lib/chart/radar/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41740,7 +41740,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/radar/radarLayout.js
+// ../node_modules/echarts/lib/chart/radar/radarLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41787,7 +41787,7 @@ function getValueMissingPoint(coordSys) {
   return [coordSys.cx, coordSys.cy];
 }
 
-// node_modules/echarts/lib/chart/radar/backwardCompat.js
+// ../node_modules/echarts/lib/chart/radar/backwardCompat.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -41832,7 +41832,7 @@ function radarBackwardCompat(option) {
   });
 }
 
-// node_modules/echarts/lib/chart/radar/RadarView.js
+// ../node_modules/echarts/lib/chart/radar/RadarView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42017,7 +42017,7 @@ var RadarView = function(_super) {
 }(Chart_default);
 var RadarView_default = RadarView;
 
-// node_modules/echarts/lib/chart/radar/RadarSeries.js
+// ../node_modules/echarts/lib/chart/radar/RadarSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42109,7 +42109,7 @@ var RadarSeriesModel = function(_super) {
 }(Series_default);
 var RadarSeries_default = RadarSeriesModel;
 
-// node_modules/echarts/lib/component/radar/install.js
+// ../node_modules/echarts/lib/component/radar/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42125,7 +42125,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/radar/RadarModel.js
+// ../node_modules/echarts/lib/coord/radar/RadarModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42237,7 +42237,7 @@ var RadarModel = function(_super) {
 }(Component_default);
 var RadarModel_default = RadarModel;
 
-// node_modules/echarts/lib/component/radar/RadarView.js
+// ../node_modules/echarts/lib/component/radar/RadarView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42404,7 +42404,7 @@ var RadarView2 = function(_super) {
 }(Component_default2);
 var RadarView_default2 = RadarView2;
 
-// node_modules/echarts/lib/coord/radar/Radar.js
+// ../node_modules/echarts/lib/coord/radar/Radar.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42420,7 +42420,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/radar/IndicatorAxis.js
+// ../node_modules/echarts/lib/coord/radar/IndicatorAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42448,7 +42448,7 @@ var IndicatorAxis = function(_super) {
 }(Axis_default);
 var IndicatorAxis_default = IndicatorAxis;
 
-// node_modules/echarts/lib/coord/radar/Radar.js
+// ../node_modules/echarts/lib/coord/radar/Radar.js
 var Radar = function() {
   function Radar2(radarModel, ecModel, api) {
     this.dimensions = [];
@@ -42574,7 +42574,7 @@ var Radar = function() {
 }();
 var Radar_default = Radar;
 
-// node_modules/echarts/lib/component/radar/install.js
+// ../node_modules/echarts/lib/component/radar/install.js
 function install8(registers) {
   registers.registerCoordinateSystem("radar", Radar_default);
   registers.registerComponentModel(RadarModel_default);
@@ -42591,7 +42591,7 @@ function install8(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/radar/install.js
+// ../node_modules/echarts/lib/chart/radar/install.js
 function install9(registers) {
   use(install8);
   registers.registerChartView(RadarView_default);
@@ -42601,7 +42601,7 @@ function install9(registers) {
   registers.registerPreprocessor(radarBackwardCompat);
 }
 
-// node_modules/echarts/lib/chart/map/install.js
+// ../node_modules/echarts/lib/chart/map/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42617,7 +42617,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/map/MapView.js
+// ../node_modules/echarts/lib/chart/map/MapView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42633,7 +42633,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/MapDraw.js
+// ../node_modules/echarts/lib/component/helper/MapDraw.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42649,7 +42649,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/RoamController.js
+// ../node_modules/echarts/lib/component/helper/RoamController.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42665,7 +42665,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/interactionMutex.js
+// ../node_modules/echarts/lib/component/helper/interactionMutex.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42704,7 +42704,7 @@ registerAction({
   update: "update"
 }, noop);
 
-// node_modules/echarts/lib/component/helper/RoamController.js
+// ../node_modules/echarts/lib/component/helper/RoamController.js
 var RoamController = function(_super) {
   __extends(RoamController2, _super);
   function RoamController2(zr) {
@@ -42858,7 +42858,7 @@ function isAvailableBehavior(behaviorToCheck, e2, settings) {
 }
 var RoamController_default = RoamController;
 
-// node_modules/echarts/lib/component/helper/roamHelper.js
+// ../node_modules/echarts/lib/component/helper/roamHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42898,7 +42898,7 @@ function updateViewOnZoom(controllerHost, zoomDelta, zoomX, zoomY) {
   target.dirty();
 }
 
-// node_modules/echarts/lib/component/helper/cursorHelper.js
+// ../node_modules/echarts/lib/component/helper/cursorHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42924,7 +42924,7 @@ function onIrrelevantElement(e2, api, targetCoordSysModel) {
   return model && model !== targetCoordSysModel && !IRRELEVANT_EXCLUDES.hasOwnProperty(model.mainType) && coordSys && coordSys.model !== targetCoordSysModel;
 }
 
-// node_modules/echarts/lib/coord/geo/geoSourceManager.js
+// ../node_modules/echarts/lib/coord/geo/geoSourceManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42940,7 +42940,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/GeoSVGResource.js
+// ../node_modules/echarts/lib/coord/geo/GeoSVGResource.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42956,7 +42956,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/parseSVG.js
+// ../node_modules/zrender/lib/tool/parseSVG.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -42972,7 +42972,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/parseXML.js
+// ../node_modules/zrender/lib/tool/parseXML.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -43002,7 +43002,7 @@ function parseXML(svg) {
   return svgNode;
 }
 
-// node_modules/zrender/lib/tool/parseSVG.js
+// ../node_modules/zrender/lib/tool/parseSVG.js
 var nodeParsers;
 var INHERITABLE_STYLE_ATTRIBUTES_MAP = {
   "fill": "fill",
@@ -43616,7 +43616,7 @@ function parseSVG(xml, opt) {
   return parser.parse(xml, opt);
 }
 
-// node_modules/echarts/lib/coord/geo/GeoSVGResource.js
+// ../node_modules/echarts/lib/coord/geo/GeoSVGResource.js
 var REGION_AVAILABLE_SVG_TAG_MAP = createHashMap([
   "rect",
   "circle",
@@ -43772,7 +43772,7 @@ function createRegions(named) {
   };
 }
 
-// node_modules/echarts/lib/coord/geo/GeoJSONResource.js
+// ../node_modules/echarts/lib/coord/geo/GeoJSONResource.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -43788,7 +43788,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/fix/nanhai.js
+// ../node_modules/echarts/lib/coord/geo/fix/nanhai.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -43832,7 +43832,7 @@ function fixNanhai(mapType, regions) {
   }
 }
 
-// node_modules/echarts/lib/coord/geo/fix/textCoord.js
+// ../node_modules/echarts/lib/coord/geo/fix/textCoord.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -43866,7 +43866,7 @@ function fixTextCoords(mapType, region) {
   }
 }
 
-// node_modules/echarts/lib/coord/geo/fix/diaoyuIsland.js
+// ../node_modules/echarts/lib/coord/geo/fix/diaoyuIsland.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -43891,7 +43891,7 @@ function fixDiaoyuIsland(mapType, region) {
   }
 }
 
-// node_modules/echarts/lib/coord/geo/GeoJSONResource.js
+// ../node_modules/echarts/lib/coord/geo/GeoJSONResource.js
 var DEFAULT_NAME_PROPERTY = "name";
 var GeoJSONResource = function() {
   function GeoJSONResource2(mapName, geoJSON, specialAreas) {
@@ -43970,7 +43970,7 @@ function parseInput(source) {
   return !isString(source) ? source : typeof JSON !== "undefined" && JSON.parse ? JSON.parse(source) : new Function("return (" + source + ");")();
 }
 
-// node_modules/echarts/lib/coord/geo/geoSourceManager.js
+// ../node_modules/echarts/lib/coord/geo/geoSourceManager.js
 var storage = createHashMap();
 var geoSourceManager_default = {
   registerMap: function(mapName, rawDef, rawSpecialAreas) {
@@ -44007,7 +44007,7 @@ var geoSourceManager_default = {
   }
 };
 
-// node_modules/echarts/lib/component/helper/MapDraw.js
+// ../node_modules/echarts/lib/component/helper/MapDraw.js
 var OPTION_STYLE_ENABLED_TAGS = ["rect", "circle", "line", "ellipse", "polygon", "polyline", "path"];
 var OPTION_STYLE_ENABLED_TAG_MAP = createHashMap(OPTION_STYLE_ENABLED_TAGS);
 var STATE_TRIGGER_TAG_MAP = createHashMap(OPTION_STYLE_ENABLED_TAGS.concat(["g"]));
@@ -44499,7 +44499,7 @@ function projectPolys(rings, createStream, isLine) {
 }
 var MapDraw_default = MapDraw;
 
-// node_modules/echarts/lib/chart/map/MapView.js
+// ../node_modules/echarts/lib/chart/map/MapView.js
 var MapView = function(_super) {
   __extends(MapView2, _super);
   function MapView2() {
@@ -44602,7 +44602,7 @@ var MapView = function(_super) {
 }(Chart_default);
 var MapView_default = MapView;
 
-// node_modules/echarts/lib/chart/map/MapSeries.js
+// ../node_modules/echarts/lib/chart/map/MapSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44759,7 +44759,7 @@ var MapSeries = function(_super) {
 }(Series_default);
 var MapSeries_default = MapSeries;
 
-// node_modules/echarts/lib/chart/map/mapDataStatistic.js
+// ../node_modules/echarts/lib/chart/map/mapDataStatistic.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44832,7 +44832,7 @@ function mapDataStatistic(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/map/mapSymbolLayout.js
+// ../node_modules/echarts/lib/chart/map/mapSymbolLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44886,7 +44886,7 @@ function mapSymbolLayout(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/component/geo/install.js
+// ../node_modules/echarts/lib/component/geo/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44902,7 +44902,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/GeoModel.js
+// ../node_modules/echarts/lib/coord/geo/GeoModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44918,7 +44918,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/geoCreator.js
+// ../node_modules/echarts/lib/coord/geo/geoCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44934,7 +44934,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/geo/Geo.js
+// ../node_modules/echarts/lib/coord/geo/Geo.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -44950,7 +44950,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/View.js
+// ../node_modules/echarts/lib/coord/View.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45119,7 +45119,7 @@ function getCoordSys(finder) {
 }
 var View_default = View;
 
-// node_modules/echarts/lib/coord/geo/Geo.js
+// ../node_modules/echarts/lib/coord/geo/Geo.js
 var GEO_DEFAULT_PARAMS = {
   "geoJSON": {
     aspectScale: 0.75,
@@ -45257,7 +45257,7 @@ function getCoordSys2(finder) {
 }
 var Geo_default = Geo;
 
-// node_modules/echarts/lib/coord/geo/geoCreator.js
+// ../node_modules/echarts/lib/coord/geo/geoCreator.js
 function resizeGeo(geoModel, api) {
   var boundingCoords = geoModel.get("boundingCoords");
   if (boundingCoords != null) {
@@ -45423,7 +45423,7 @@ var GeoCreator = function() {
 var geoCreator = new GeoCreator();
 var geoCreator_default = geoCreator;
 
-// node_modules/echarts/lib/coord/geo/GeoModel.js
+// ../node_modules/echarts/lib/coord/geo/GeoModel.js
 var GeoModel = function(_super) {
   __extends(GeoModel2, _super);
   function GeoModel2() {
@@ -45554,7 +45554,7 @@ var GeoModel = function(_super) {
 }(Component_default);
 var GeoModel_default = GeoModel;
 
-// node_modules/echarts/lib/action/roamHelper.js
+// ../node_modules/echarts/lib/action/roamHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45604,7 +45604,7 @@ function updateCenterAndZoom(view, payload, zoomLimit, api) {
   };
 }
 
-// node_modules/echarts/lib/component/geo/GeoView.js
+// ../node_modules/echarts/lib/component/geo/GeoView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45681,7 +45681,7 @@ var GeoView = function(_super) {
 }(Component_default2);
 var GeoView_default = GeoView;
 
-// node_modules/echarts/lib/component/geo/install.js
+// ../node_modules/echarts/lib/component/geo/install.js
 function registerMap2(mapName, geoJson, specialAreas) {
   geoSourceManager_default.registerMap(mapName, geoJson, specialAreas);
 }
@@ -45762,7 +45762,7 @@ function install10(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/map/install.js
+// ../node_modules/echarts/lib/chart/map/install.js
 function install11(registers) {
   use(install10);
   registers.registerChartView(MapView_default);
@@ -45772,7 +45772,7 @@ function install11(registers) {
   createLegacyDataSelectAction("map", registers.registerAction);
 }
 
-// node_modules/echarts/lib/chart/tree/install.js
+// ../node_modules/echarts/lib/chart/tree/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45788,7 +45788,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/tree/TreeView.js
+// ../node_modules/echarts/lib/chart/tree/TreeView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45804,7 +45804,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/tree/layoutHelper.js
+// ../node_modules/echarts/lib/chart/tree/layoutHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -45969,7 +45969,7 @@ function defaultSeparation(node1, node2) {
   return node1.parentNode === node2.parentNode ? 1 : 2;
 }
 
-// node_modules/echarts/lib/chart/tree/TreeView.js
+// ../node_modules/echarts/lib/chart/tree/TreeView.js
 var TreeEdgeShape = function() {
   function TreeEdgeShape2() {
     this.parentPoint = [];
@@ -46505,7 +46505,7 @@ function getEdgeShape(layoutOpt, orient, curvature, sourceLayout, targetLayout) 
 }
 var TreeView_default = TreeView;
 
-// node_modules/echarts/lib/chart/tree/TreeSeries.js
+// ../node_modules/echarts/lib/chart/tree/TreeSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -46521,7 +46521,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/Tree.js
+// ../node_modules/echarts/lib/data/Tree.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -46537,7 +46537,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/helper/linkSeriesData.js
+// ../node_modules/echarts/lib/data/helper/linkSeriesData.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -46634,7 +46634,7 @@ function linkSingle(data, dataType, mainData, opt) {
 }
 var linkSeriesData_default = linkSeriesData;
 
-// node_modules/echarts/lib/data/Tree.js
+// ../node_modules/echarts/lib/data/Tree.js
 var TreeNode = function() {
   function TreeNode2(name, hostTree) {
     this.depth = 0;
@@ -46867,7 +46867,7 @@ function addChild(child, node) {
 }
 var Tree_default = Tree;
 
-// node_modules/echarts/lib/chart/helper/treeHelper.js
+// ../node_modules/echarts/lib/chart/helper/treeHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -46929,7 +46929,7 @@ function wrapTreePathInfo(node, seriesModel) {
   return treePathInfo;
 }
 
-// node_modules/echarts/lib/chart/tree/TreeSeries.js
+// ../node_modules/echarts/lib/chart/tree/TreeSeries.js
 var TreeSeriesModel = function(_super) {
   __extends(TreeSeriesModel2, _super);
   function TreeSeriesModel2() {
@@ -47048,7 +47048,7 @@ var TreeSeriesModel = function(_super) {
 }(Series_default);
 var TreeSeries_default = TreeSeriesModel;
 
-// node_modules/echarts/lib/chart/tree/treeLayout.js
+// ../node_modules/echarts/lib/chart/tree/treeLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47064,7 +47064,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/tree/traversalHelper.js
+// ../node_modules/echarts/lib/chart/tree/traversalHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47114,7 +47114,7 @@ function eachBefore(root, callback) {
   }
 }
 
-// node_modules/echarts/lib/chart/tree/treeLayout.js
+// ../node_modules/echarts/lib/chart/tree/treeLayout.js
 function treeLayout(ecModel, api) {
   ecModel.eachSeriesByType("tree", function(seriesModel) {
     commonLayout(seriesModel, api);
@@ -47209,7 +47209,7 @@ function commonLayout(seriesModel, api) {
   }
 }
 
-// node_modules/echarts/lib/chart/tree/treeVisual.js
+// ../node_modules/echarts/lib/chart/tree/treeVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47237,7 +47237,7 @@ function treeVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/tree/treeAction.js
+// ../node_modules/echarts/lib/chart/tree/treeAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47287,7 +47287,7 @@ function installTreeAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/tree/install.js
+// ../node_modules/echarts/lib/chart/tree/install.js
 function install12(registers) {
   registers.registerChartView(TreeView_default);
   registers.registerSeriesModel(TreeSeries_default);
@@ -47296,7 +47296,7 @@ function install12(registers) {
   installTreeAction(registers);
 }
 
-// node_modules/echarts/lib/chart/treemap/install.js
+// ../node_modules/echarts/lib/chart/treemap/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47312,7 +47312,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/treemap/treemapAction.js
+// ../node_modules/echarts/lib/chart/treemap/treemapAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47358,7 +47358,7 @@ function installTreemapAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/treemap/TreemapSeries.js
+// ../node_modules/echarts/lib/chart/treemap/TreemapSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47374,7 +47374,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/enableAriaDecalForTree.js
+// ../node_modules/echarts/lib/chart/helper/enableAriaDecalForTree.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47403,7 +47403,7 @@ function enableAriaDecalForTree(seriesModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/treemap/TreemapSeries.js
+// ../node_modules/echarts/lib/chart/treemap/TreemapSeries.js
 var TreemapSeriesModel = function(_super) {
   __extends(TreemapSeriesModel2, _super);
   function TreemapSeriesModel2() {
@@ -47614,7 +47614,7 @@ function setDefault(levels, ecModel) {
 }
 var TreemapSeries_default = TreemapSeriesModel;
 
-// node_modules/echarts/lib/chart/treemap/TreemapView.js
+// ../node_modules/echarts/lib/chart/treemap/TreemapView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47630,7 +47630,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/treemap/Breadcrumb.js
+// ../node_modules/echarts/lib/chart/treemap/Breadcrumb.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47766,7 +47766,7 @@ function packEventData(el, seriesModel, itemNode) {
 }
 var Breadcrumb_default = Breadcrumb;
 
-// node_modules/echarts/lib/util/animation.js
+// ../node_modules/echarts/lib/util/animation.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -47834,7 +47834,7 @@ function createWrap() {
   return new AnimationWrap();
 }
 
-// node_modules/echarts/lib/chart/treemap/TreemapView.js
+// ../node_modules/echarts/lib/chart/treemap/TreemapView.js
 var Group2 = Group_default;
 var Rect2 = Rect_default;
 var DRAG_THRESHOLD = 3;
@@ -48502,7 +48502,7 @@ function calculateZ2(depth, z2InLevel) {
 }
 var TreemapView_default = TreemapView;
 
-// node_modules/echarts/lib/chart/treemap/treemapVisual.js
+// ../node_modules/echarts/lib/chart/treemap/treemapVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -48518,7 +48518,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/visual/VisualMapping.js
+// ../node_modules/echarts/lib/visual/VisualMapping.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -48892,7 +48892,7 @@ function littleThan(close, a, b) {
 }
 var VisualMapping_default = VisualMapping;
 
-// node_modules/echarts/lib/chart/treemap/treemapVisual.js
+// ../node_modules/echarts/lib/chart/treemap/treemapVisual.js
 var ITEM_STYLE_NORMAL = "itemStyle";
 var inner10 = makeInner();
 var treemapVisual_default = {
@@ -49019,7 +49019,7 @@ function mapVisual(nodeModel, visuals, child, index, mapping, seriesModel) {
   return childVisuals;
 }
 
-// node_modules/echarts/lib/chart/treemap/treemapLayout.js
+// ../node_modules/echarts/lib/chart/treemap/treemapLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49378,7 +49378,7 @@ function getUpperLabelHeight(model) {
   return model.get(PATH_UPPER_LABEL_SHOW) ? model.get(PATH_UPPER_LABEL_HEIGHT) : 0;
 }
 
-// node_modules/echarts/lib/chart/treemap/install.js
+// ../node_modules/echarts/lib/chart/treemap/install.js
 function install13(registers) {
   registers.registerSeriesModel(TreemapSeries_default);
   registers.registerChartView(TreemapView_default);
@@ -49387,7 +49387,7 @@ function install13(registers) {
   installTreemapAction(registers);
 }
 
-// node_modules/echarts/lib/chart/graph/install.js
+// ../node_modules/echarts/lib/chart/graph/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49403,7 +49403,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/graph/categoryFilter.js
+// ../node_modules/echarts/lib/chart/graph/categoryFilter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49448,7 +49448,7 @@ function categoryFilter(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/categoryVisual.js
+// ../node_modules/echarts/lib/chart/graph/categoryVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49507,7 +49507,7 @@ function categoryVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/edgeVisual.js
+// ../node_modules/echarts/lib/chart/graph/edgeVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49567,7 +49567,7 @@ function graphEdgeVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/simpleLayout.js
+// ../node_modules/echarts/lib/chart/graph/simpleLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49583,7 +49583,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
+// ../node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49599,7 +49599,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/multipleGraphEdgeHelper.js
+// ../node_modules/echarts/lib/chart/helper/multipleGraphEdgeHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49729,7 +49729,7 @@ function getCurvenessForEdge(edge, seriesModel, index, needReverse) {
   }
 }
 
-// node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
+// ../node_modules/echarts/lib/chart/graph/simpleLayoutHelper.js
 function simpleLayout(seriesModel) {
   var coordSys = seriesModel.coordinateSystem;
   if (coordSys && coordSys.type !== "view") {
@@ -49755,7 +49755,7 @@ function simpleLayoutEdge(graph, seriesModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/simpleLayout.js
+// ../node_modules/echarts/lib/chart/graph/simpleLayout.js
 function graphSimpleLayout(ecModel, api) {
   ecModel.eachSeriesByType("graph", function(seriesModel) {
     var layout5 = seriesModel.get("layout");
@@ -49789,7 +49789,7 @@ function graphSimpleLayout(ecModel, api) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/circularLayout.js
+// ../node_modules/echarts/lib/chart/graph/circularLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49805,7 +49805,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
+// ../node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49821,7 +49821,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/graph/graphHelper.js
+// ../node_modules/echarts/lib/chart/graph/graphHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49855,7 +49855,7 @@ function getSymbolSize(node) {
   return +symbolSize;
 }
 
-// node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
+// ../node_modules/echarts/lib/chart/graph/circularLayoutHelper.js
 var PI8 = Math.PI;
 var _symbolRadiansHalf = [];
 function circularLayout(seriesModel, basedOn) {
@@ -49930,7 +49930,7 @@ var _layoutNodesBasedOn = {
   }
 };
 
-// node_modules/echarts/lib/chart/graph/circularLayout.js
+// ../node_modules/echarts/lib/chart/graph/circularLayout.js
 function graphCircularLayout(ecModel) {
   ecModel.eachSeriesByType("graph", function(seriesModel) {
     if (seriesModel.get("layout") === "circular") {
@@ -49939,7 +49939,7 @@ function graphCircularLayout(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/forceLayout.js
+// ../node_modules/echarts/lib/chart/graph/forceLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -49955,7 +49955,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/graph/forceHelper.js
+// ../node_modules/echarts/lib/chart/graph/forceHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50067,7 +50067,7 @@ function forceLayout(inNodes, inEdges, opts) {
   };
 }
 
-// node_modules/echarts/lib/chart/graph/forceLayout.js
+// ../node_modules/echarts/lib/chart/graph/forceLayout.js
 function graphForceLayout(ecModel) {
   ecModel.eachSeriesByType("graph", function(graphSeries) {
     var coordSys = graphSeries.coordinateSystem;
@@ -50173,7 +50173,7 @@ function graphForceLayout(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/createView.js
+// ../node_modules/echarts/lib/chart/graph/createView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50240,7 +50240,7 @@ function createViewCoordSys(ecModel, api) {
   return viewList;
 }
 
-// node_modules/echarts/lib/chart/graph/GraphView.js
+// ../node_modules/echarts/lib/chart/graph/GraphView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50256,7 +50256,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/LineDraw.js
+// ../node_modules/echarts/lib/chart/helper/LineDraw.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50272,7 +50272,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/Line.js
+// ../node_modules/echarts/lib/chart/helper/Line.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50288,7 +50288,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/LinePath.js
+// ../node_modules/echarts/lib/chart/helper/LinePath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50364,7 +50364,7 @@ var ECLinePath = function(_super) {
 }(Path_default);
 var LinePath_default = ECLinePath;
 
-// node_modules/echarts/lib/chart/helper/Line.js
+// ../node_modules/echarts/lib/chart/helper/Line.js
 var SYMBOL_CATEGORIES = ["fromSymbol", "toSymbol"];
 function makeSymbolTypeKey(symbolCategory) {
   return "_" + symbolCategory + "Type";
@@ -50696,7 +50696,7 @@ var Line2 = function(_super) {
 }(Group_default);
 var Line_default2 = Line2;
 
-// node_modules/echarts/lib/chart/helper/LineDraw.js
+// ../node_modules/echarts/lib/chart/helper/LineDraw.js
 var LineDraw = function() {
   function LineDraw2(LineCtor) {
     this.group = new Group_default();
@@ -50815,7 +50815,7 @@ function lineNeedsDraw(pts) {
 }
 var LineDraw_default = LineDraw;
 
-// node_modules/echarts/lib/chart/graph/adjustEdge.js
+// ../node_modules/echarts/lib/chart/graph/adjustEdge.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -50945,7 +50945,7 @@ function adjustEdge(graph, scale4) {
   });
 }
 
-// node_modules/echarts/lib/chart/graph/GraphView.js
+// ../node_modules/echarts/lib/chart/graph/GraphView.js
 function isViewCoordSys(coordSys) {
   return coordSys.type === "view";
 }
@@ -51155,7 +51155,7 @@ var GraphView = function(_super) {
 }(Chart_default);
 var GraphView_default = GraphView;
 
-// node_modules/echarts/lib/chart/graph/GraphSeries.js
+// ../node_modules/echarts/lib/chart/graph/GraphSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51171,7 +51171,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
+// ../node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51187,7 +51187,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/data/Graph.js
+// ../node_modules/echarts/lib/data/Graph.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51484,7 +51484,7 @@ mixin(GraphNode, createGraphDataProxyMixin("hostGraph", "data"));
 mixin(GraphEdge, createGraphDataProxyMixin("hostGraph", "edgeData"));
 var Graph_default = Graph;
 
-// node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
+// ../node_modules/echarts/lib/chart/helper/createGraphFromNodeEdge.js
 function createGraphFromNodeEdge(nodes, edges, seriesModel, directed, beforeLink) {
   var graph = new Graph_default(directed);
   for (var i = 0; i < nodes.length; i++) {
@@ -51540,7 +51540,7 @@ function createGraphFromNodeEdge(nodes, edges, seriesModel, directed, beforeLink
   return graph;
 }
 
-// node_modules/echarts/lib/chart/graph/GraphSeries.js
+// ../node_modules/echarts/lib/chart/graph/GraphSeries.js
 var GraphSeriesModel = function(_super) {
   __extends(GraphSeriesModel2, _super);
   function GraphSeriesModel2() {
@@ -51729,7 +51729,7 @@ var GraphSeriesModel = function(_super) {
 }(Series_default);
 var GraphSeries_default = GraphSeriesModel;
 
-// node_modules/echarts/lib/chart/graph/install.js
+// ../node_modules/echarts/lib/chart/graph/install.js
 var actionInfo = {
   type: "graphRoam",
   event: "graphRoam",
@@ -51771,7 +51771,7 @@ function install14(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/gauge/install.js
+// ../node_modules/echarts/lib/chart/gauge/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51787,7 +51787,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/gauge/GaugeView.js
+// ../node_modules/echarts/lib/chart/gauge/GaugeView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51803,7 +51803,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/gauge/PointerPath.js
+// ../node_modules/echarts/lib/chart/gauge/PointerPath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -51857,7 +51857,7 @@ var PointerPath = function(_super) {
 }(Path_default);
 var PointerPath_default = PointerPath;
 
-// node_modules/echarts/lib/chart/gauge/GaugeView.js
+// ../node_modules/echarts/lib/chart/gauge/GaugeView.js
 function parsePosition(seriesModel, api) {
   var center3 = seriesModel.get("center");
   var width = api.getWidth();
@@ -52312,7 +52312,7 @@ var GaugeView = function(_super) {
 }(Chart_default);
 var GaugeView_default = GaugeView;
 
-// node_modules/echarts/lib/chart/gauge/GaugeSeries.js
+// ../node_modules/echarts/lib/chart/gauge/GaugeSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -52442,13 +52442,13 @@ var GaugeSeriesModel = function(_super) {
 }(Series_default);
 var GaugeSeries_default = GaugeSeriesModel;
 
-// node_modules/echarts/lib/chart/gauge/install.js
+// ../node_modules/echarts/lib/chart/gauge/install.js
 function install15(registers) {
   registers.registerChartView(GaugeView_default);
   registers.registerSeriesModel(GaugeSeries_default);
 }
 
-// node_modules/echarts/lib/chart/funnel/install.js
+// ../node_modules/echarts/lib/chart/funnel/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -52464,7 +52464,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/funnel/FunnelView.js
+// ../node_modules/echarts/lib/chart/funnel/FunnelView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -52619,7 +52619,7 @@ var FunnelView = function(_super) {
 }(Chart_default);
 var FunnelView_default = FunnelView;
 
-// node_modules/echarts/lib/chart/funnel/FunnelSeries.js
+// ../node_modules/echarts/lib/chart/funnel/FunnelSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -52713,7 +52713,7 @@ var FunnelSeriesModel = function(_super) {
 }(Series_default);
 var FunnelSeries_default = FunnelSeriesModel;
 
-// node_modules/echarts/lib/chart/funnel/funnelLayout.js
+// ../node_modules/echarts/lib/chart/funnel/funnelLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53015,7 +53015,7 @@ function funnelLayout(ecModel, api) {
   });
 }
 
-// node_modules/echarts/lib/chart/funnel/install.js
+// ../node_modules/echarts/lib/chart/funnel/install.js
 function install16(registers) {
   registers.registerChartView(FunnelView_default);
   registers.registerSeriesModel(FunnelSeries_default);
@@ -53023,7 +53023,7 @@ function install16(registers) {
   registers.registerProcessor(dataFilter("funnel"));
 }
 
-// node_modules/echarts/lib/chart/parallel/install.js
+// ../node_modules/echarts/lib/chart/parallel/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53039,7 +53039,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/parallel/ParallelView.js
+// ../node_modules/echarts/lib/chart/parallel/ParallelView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53199,7 +53199,7 @@ function isEmptyValue(val, axisType) {
 }
 var ParallelView_default = ParallelView;
 
-// node_modules/echarts/lib/chart/parallel/ParallelSeries.js
+// ../node_modules/echarts/lib/chart/parallel/ParallelSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53283,7 +53283,7 @@ function convertDimNameToNumber(dimName) {
 }
 var ParallelSeries_default = ParallelSeriesModel;
 
-// node_modules/echarts/lib/chart/parallel/parallelVisual.js
+// ../node_modules/echarts/lib/chart/parallel/parallelVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53325,7 +53325,7 @@ var parallelVisual = {
 };
 var parallelVisual_default = parallelVisual;
 
-// node_modules/echarts/lib/component/parallel/install.js
+// ../node_modules/echarts/lib/component/parallel/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53341,7 +53341,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/parallel/parallelPreprocessor.js
+// ../node_modules/echarts/lib/coord/parallel/parallelPreprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53388,7 +53388,7 @@ function mergeAxisOptionFromParallel(option) {
   });
 }
 
-// node_modules/echarts/lib/component/parallel/ParallelView.js
+// ../node_modules/echarts/lib/component/parallel/ParallelView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53483,7 +53483,7 @@ function checkTrigger(view, triggerOn) {
 }
 var ParallelView_default2 = ParallelView2;
 
-// node_modules/echarts/lib/coord/parallel/ParallelModel.js
+// ../node_modules/echarts/lib/coord/parallel/ParallelModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53562,7 +53562,7 @@ var ParallelModel = function(_super) {
 }(Component_default);
 var ParallelModel_default = ParallelModel;
 
-// node_modules/echarts/lib/coord/parallel/parallelCreator.js
+// ../node_modules/echarts/lib/coord/parallel/parallelCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53578,7 +53578,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/parallel/Parallel.js
+// ../node_modules/echarts/lib/coord/parallel/Parallel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53594,7 +53594,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/parallel/ParallelAxis.js
+// ../node_modules/echarts/lib/coord/parallel/ParallelAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53624,7 +53624,7 @@ var ParallelAxis = function(_super) {
 }(Axis_default);
 var ParallelAxis_default = ParallelAxis;
 
-// node_modules/echarts/lib/component/helper/sliderMove.js
+// ../node_modules/echarts/lib/component/helper/sliderMove.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -53684,7 +53684,7 @@ function restrict(value, extend2) {
   return Math.min(extend2[1] != null ? extend2[1] : Infinity, Math.max(extend2[0] != null ? extend2[0] : -Infinity, value));
 }
 
-// node_modules/echarts/lib/coord/parallel/Parallel.js
+// ../node_modules/echarts/lib/coord/parallel/Parallel.js
 var each6 = each;
 var mathMin9 = Math.min;
 var mathMax9 = Math.max;
@@ -53981,7 +53981,7 @@ function layoutAxisWithExpand(axisIndex, layoutInfo) {
 }
 var Parallel_default = Parallel;
 
-// node_modules/echarts/lib/coord/parallel/parallelCreator.js
+// ../node_modules/echarts/lib/coord/parallel/parallelCreator.js
 function createParallelCoordSys(ecModel, api) {
   var coordSysList = [];
   ecModel.eachComponent("parallel", function(parallelModel, idx) {
@@ -54005,7 +54005,7 @@ var parallelCoordSysCreator = {
 };
 var parallelCreator_default = parallelCoordSysCreator;
 
-// node_modules/echarts/lib/coord/parallel/AxisModel.js
+// ../node_modules/echarts/lib/coord/parallel/AxisModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54072,7 +54072,7 @@ var ParallelAxisModel = function(_super) {
 mixin(ParallelAxisModel, AxisModelCommonMixin);
 var AxisModel_default = ParallelAxisModel;
 
-// node_modules/echarts/lib/component/axis/ParallelAxisView.js
+// ../node_modules/echarts/lib/component/axis/ParallelAxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54088,7 +54088,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/BrushController.js
+// ../node_modules/echarts/lib/component/helper/BrushController.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54741,7 +54741,7 @@ function getLineRenderer(xyIndex) {
 }
 var BrushController_default = BrushController;
 
-// node_modules/echarts/lib/component/helper/brushHelper.js
+// ../node_modules/echarts/lib/component/helper/brushHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54781,7 +54781,7 @@ function normalizeRect(rect) {
   return BoundingRect_default.create(rect);
 }
 
-// node_modules/echarts/lib/component/axis/ParallelAxisView.js
+// ../node_modules/echarts/lib/component/axis/ParallelAxisView.js
 var elementList = ["axisLine", "axisTickLabel", "axisName"];
 var ParallelAxisView = function(_super) {
   __extends(ParallelAxisView2, _super);
@@ -54892,7 +54892,7 @@ function getCoordSysModel(axisModel, ecModel) {
 }
 var ParallelAxisView_default = ParallelAxisView;
 
-// node_modules/echarts/lib/component/axis/parallelAxisAction.js
+// ../node_modules/echarts/lib/component/axis/parallelAxisAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54930,7 +54930,7 @@ function installParallelActions(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/parallel/install.js
+// ../node_modules/echarts/lib/component/parallel/install.js
 var defaultAxisOption = {
   type: "value",
   areaSelectStyle: {
@@ -54954,7 +54954,7 @@ function install17(registers) {
   installParallelActions(registers);
 }
 
-// node_modules/echarts/lib/chart/parallel/install.js
+// ../node_modules/echarts/lib/chart/parallel/install.js
 function install18(registers) {
   use(install17);
   registers.registerChartView(ParallelView_default);
@@ -54962,7 +54962,7 @@ function install18(registers) {
   registers.registerVisual(registers.PRIORITY.VISUAL.BRUSH, parallelVisual_default);
 }
 
-// node_modules/echarts/lib/chart/sankey/install.js
+// ../node_modules/echarts/lib/chart/sankey/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -54978,7 +54978,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/sankey/SankeyView.js
+// ../node_modules/echarts/lib/chart/sankey/SankeyView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55232,7 +55232,7 @@ function createGridClipShape2(rect, seriesModel, cb) {
 }
 var SankeyView_default = SankeyView;
 
-// node_modules/echarts/lib/chart/sankey/SankeySeries.js
+// ../node_modules/echarts/lib/chart/sankey/SankeySeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55394,7 +55394,7 @@ var SankeySeriesModel = function(_super) {
 }(Series_default);
 var SankeySeries_default = SankeySeriesModel;
 
-// node_modules/echarts/lib/chart/sankey/sankeyLayout.js
+// ../node_modules/echarts/lib/chart/sankey/sankeyLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55790,7 +55790,7 @@ function computeEdgeDepths(nodes, orient) {
   });
 }
 
-// node_modules/echarts/lib/chart/sankey/sankeyVisual.js
+// ../node_modules/echarts/lib/chart/sankey/sankeyVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55846,7 +55846,7 @@ function sankeyVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/sankey/install.js
+// ../node_modules/echarts/lib/chart/sankey/install.js
 function install19(registers) {
   registers.registerChartView(SankeyView_default);
   registers.registerSeriesModel(SankeySeries_default);
@@ -55867,7 +55867,7 @@ function install19(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/boxplot/install.js
+// ../node_modules/echarts/lib/chart/boxplot/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55883,7 +55883,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
+// ../node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55899,7 +55899,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/whiskerBoxCommon.js
+// ../node_modules/echarts/lib/chart/helper/whiskerBoxCommon.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -55989,7 +55989,7 @@ var WhiskerBoxCommonMixin = function() {
   return WhiskerBoxCommonMixin2;
 }();
 
-// node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
+// ../node_modules/echarts/lib/chart/boxplot/BoxplotSeries.js
 var BoxplotSeriesModel = function(_super) {
   __extends(BoxplotSeriesModel2, _super);
   function BoxplotSeriesModel2() {
@@ -56043,7 +56043,7 @@ var BoxplotSeriesModel = function(_super) {
 mixin(BoxplotSeriesModel, WhiskerBoxCommonMixin, true);
 var BoxplotSeries_default = BoxplotSeriesModel;
 
-// node_modules/echarts/lib/chart/boxplot/BoxplotView.js
+// ../node_modules/echarts/lib/chart/boxplot/BoxplotView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56179,7 +56179,7 @@ function transInit(points4, dim, itemLayout) {
 }
 var BoxplotView_default = BoxplotView;
 
-// node_modules/echarts/lib/chart/boxplot/boxplotVisual.js
+// ../node_modules/echarts/lib/chart/boxplot/boxplotVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56197,7 +56197,7 @@ init_define_SEARCH_LOCALES();
 function boxplotVisual(ecModel, api) {
 }
 
-// node_modules/echarts/lib/chart/boxplot/boxplotLayout.js
+// ../node_modules/echarts/lib/chart/boxplot/boxplotLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56340,7 +56340,7 @@ function layoutSingleSeries(seriesModel, offset, boxWidth) {
   }
 }
 
-// node_modules/echarts/lib/chart/boxplot/boxplotTransform.js
+// ../node_modules/echarts/lib/chart/boxplot/boxplotTransform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56356,7 +56356,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/boxplot/prepareBoxplotData.js
+// ../node_modules/echarts/lib/chart/boxplot/prepareBoxplotData.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56406,7 +56406,7 @@ function prepareBoxplotData(rawData, opt) {
   };
 }
 
-// node_modules/echarts/lib/chart/boxplot/boxplotTransform.js
+// ../node_modules/echarts/lib/chart/boxplot/boxplotTransform.js
 var boxplotTransform = {
   type: "echarts:boxplot",
   transform: function transform(params) {
@@ -56428,7 +56428,7 @@ var boxplotTransform = {
   }
 };
 
-// node_modules/echarts/lib/chart/boxplot/install.js
+// ../node_modules/echarts/lib/chart/boxplot/install.js
 function install20(registers) {
   registers.registerSeriesModel(BoxplotSeries_default);
   registers.registerChartView(BoxplotView_default);
@@ -56437,7 +56437,7 @@ function install20(registers) {
   registers.registerTransform(boxplotTransform);
 }
 
-// node_modules/echarts/lib/chart/candlestick/install.js
+// ../node_modules/echarts/lib/chart/candlestick/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56453,7 +56453,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/candlestick/CandlestickView.js
+// ../node_modules/echarts/lib/chart/candlestick/CandlestickView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56725,7 +56725,7 @@ function setLargeStyle(sign, el, seriesModel, data) {
 }
 var CandlestickView_default = CandlestickView;
 
-// node_modules/echarts/lib/chart/candlestick/CandlestickSeries.js
+// ../node_modules/echarts/lib/chart/candlestick/CandlestickSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56804,7 +56804,7 @@ var CandlestickSeriesModel = function(_super) {
 mixin(CandlestickSeriesModel, WhiskerBoxCommonMixin, true);
 var CandlestickSeries_default = CandlestickSeriesModel;
 
-// node_modules/echarts/lib/chart/candlestick/preprocessor.js
+// ../node_modules/echarts/lib/chart/candlestick/preprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56830,7 +56830,7 @@ function candlestickPreprocessor(option) {
   });
 }
 
-// node_modules/echarts/lib/chart/candlestick/candlestickVisual.js
+// ../node_modules/echarts/lib/chart/candlestick/candlestickVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -56882,7 +56882,7 @@ var candlestickVisual = {
 };
 var candlestickVisual_default = candlestickVisual;
 
-// node_modules/echarts/lib/chart/candlestick/candlestickLayout.js
+// ../node_modules/echarts/lib/chart/candlestick/candlestickLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57034,7 +57034,7 @@ function calculateCandleWidth(seriesModel, data) {
 }
 var candlestickLayout_default = candlestickLayout;
 
-// node_modules/echarts/lib/chart/candlestick/install.js
+// ../node_modules/echarts/lib/chart/candlestick/install.js
 function install21(registers) {
   registers.registerChartView(CandlestickView_default);
   registers.registerSeriesModel(CandlestickSeries_default);
@@ -57043,7 +57043,7 @@ function install21(registers) {
   registers.registerLayout(candlestickLayout_default);
 }
 
-// node_modules/echarts/lib/chart/effectScatter/install.js
+// ../node_modules/echarts/lib/chart/effectScatter/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57059,7 +57059,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
+// ../node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57075,7 +57075,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/EffectSymbol.js
+// ../node_modules/echarts/lib/chart/helper/EffectSymbol.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57233,7 +57233,7 @@ var EffectSymbol = function(_super) {
 }(Group_default);
 var EffectSymbol_default = EffectSymbol;
 
-// node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
+// ../node_modules/echarts/lib/chart/effectScatter/EffectScatterView.js
 var EffectScatterView = function(_super) {
   __extends(EffectScatterView2, _super);
   function EffectScatterView2() {
@@ -57285,7 +57285,7 @@ var EffectScatterView = function(_super) {
 }(Chart_default);
 var EffectScatterView_default = EffectScatterView;
 
-// node_modules/echarts/lib/chart/effectScatter/EffectScatterSeries.js
+// ../node_modules/echarts/lib/chart/effectScatter/EffectScatterSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57341,14 +57341,14 @@ var EffectScatterSeriesModel = function(_super) {
 }(Series_default);
 var EffectScatterSeries_default = EffectScatterSeriesModel;
 
-// node_modules/echarts/lib/chart/effectScatter/install.js
+// ../node_modules/echarts/lib/chart/effectScatter/install.js
 function install22(registers) {
   registers.registerChartView(EffectScatterView_default);
   registers.registerSeriesModel(EffectScatterSeries_default);
   registers.registerLayout(pointsLayout("effectScatter"));
 }
 
-// node_modules/echarts/lib/chart/lines/install.js
+// ../node_modules/echarts/lib/chart/lines/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57364,7 +57364,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/lines/LinesView.js
+// ../node_modules/echarts/lib/chart/lines/LinesView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57380,7 +57380,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/helper/EffectLine.js
+// ../node_modules/echarts/lib/chart/helper/EffectLine.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57539,7 +57539,7 @@ var EffectLine = function(_super) {
 }(Group_default);
 var EffectLine_default = EffectLine;
 
-// node_modules/echarts/lib/chart/helper/Polyline.js
+// ../node_modules/echarts/lib/chart/helper/Polyline.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57615,7 +57615,7 @@ var Polyline2 = function(_super) {
 }(Group_default);
 var Polyline_default2 = Polyline2;
 
-// node_modules/echarts/lib/chart/helper/EffectPolyline.js
+// ../node_modules/echarts/lib/chart/helper/EffectPolyline.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57710,7 +57710,7 @@ var EffectPolyline = function(_super) {
 }(EffectLine_default);
 var EffectPolyline_default = EffectPolyline;
 
-// node_modules/echarts/lib/chart/helper/LargeLineDraw.js
+// ../node_modules/echarts/lib/chart/helper/LargeLineDraw.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -57957,7 +57957,7 @@ var LargeLineDraw = function() {
 }();
 var LargeLineDraw_default = LargeLineDraw;
 
-// node_modules/echarts/lib/chart/lines/linesLayout.js
+// ../node_modules/echarts/lib/chart/lines/linesLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58040,7 +58040,7 @@ var linesLayout = {
 };
 var linesLayout_default = linesLayout;
 
-// node_modules/echarts/lib/chart/lines/LinesView.js
+// ../node_modules/echarts/lib/chart/lines/LinesView.js
 var LinesView = function(_super) {
   __extends(LinesView2, _super);
   function LinesView2() {
@@ -58163,7 +58163,7 @@ var LinesView = function(_super) {
 }(Chart_default);
 var LinesView_default = LinesView;
 
-// node_modules/echarts/lib/chart/lines/LinesSeries.js
+// ../node_modules/echarts/lib/chart/lines/LinesSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58421,7 +58421,7 @@ var LinesSeriesModel = function(_super) {
 }(Series_default);
 var LinesSeries_default = LinesSeriesModel;
 
-// node_modules/echarts/lib/chart/lines/linesVisual.js
+// ../node_modules/echarts/lib/chart/lines/linesVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58468,7 +58468,7 @@ var linesVisual = {
 };
 var linesVisual_default = linesVisual;
 
-// node_modules/echarts/lib/chart/lines/install.js
+// ../node_modules/echarts/lib/chart/lines/install.js
 function install23(registers) {
   registers.registerChartView(LinesView_default);
   registers.registerSeriesModel(LinesSeries_default);
@@ -58476,7 +58476,7 @@ function install23(registers) {
   registers.registerVisual(linesVisual_default);
 }
 
-// node_modules/echarts/lib/chart/heatmap/install.js
+// ../node_modules/echarts/lib/chart/heatmap/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58492,7 +58492,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/heatmap/HeatmapView.js
+// ../node_modules/echarts/lib/chart/heatmap/HeatmapView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58508,7 +58508,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/heatmap/HeatmapLayer.js
+// ../node_modules/echarts/lib/chart/heatmap/HeatmapLayer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58618,7 +58618,7 @@ var HeatmapLayer = function() {
 }();
 var HeatmapLayer_default = HeatmapLayer;
 
-// node_modules/echarts/lib/chart/heatmap/HeatmapView.js
+// ../node_modules/echarts/lib/chart/heatmap/HeatmapView.js
 function getIsInPiecewiseRange(dataExtent, pieceList, selected) {
   var dataSpan = dataExtent[1] - dataExtent[0];
   pieceList = map(pieceList, function(piece) {
@@ -58859,7 +58859,7 @@ var HeatmapView = function(_super) {
 }(Chart_default);
 var HeatmapView_default = HeatmapView;
 
-// node_modules/echarts/lib/chart/heatmap/HeatmapSeries.js
+// ../node_modules/echarts/lib/chart/heatmap/HeatmapSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58912,13 +58912,13 @@ var HeatmapSeriesModel = function(_super) {
 }(Series_default);
 var HeatmapSeries_default = HeatmapSeriesModel;
 
-// node_modules/echarts/lib/chart/heatmap/install.js
+// ../node_modules/echarts/lib/chart/heatmap/install.js
 function install24(registers) {
   registers.registerChartView(HeatmapView_default);
   registers.registerSeriesModel(HeatmapSeries_default);
 }
 
-// node_modules/echarts/lib/chart/bar/installPictorialBar.js
+// ../node_modules/echarts/lib/chart/bar/installPictorialBar.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -58934,7 +58934,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/bar/PictorialBarView.js
+// ../node_modules/echarts/lib/chart/bar/PictorialBarView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59469,7 +59469,7 @@ function toIntTimes(times) {
 }
 var PictorialBarView_default = PictorialBarView;
 
-// node_modules/echarts/lib/chart/bar/PictorialBarSeries.js
+// ../node_modules/echarts/lib/chart/bar/PictorialBarSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59526,7 +59526,7 @@ var PictorialBarSeriesModel = function(_super) {
 }(BaseBarSeries_default);
 var PictorialBarSeries_default = PictorialBarSeriesModel;
 
-// node_modules/echarts/lib/chart/bar/installPictorialBar.js
+// ../node_modules/echarts/lib/chart/bar/installPictorialBar.js
 function install25(registers) {
   registers.registerChartView(PictorialBarView_default);
   registers.registerSeriesModel(PictorialBarSeries_default);
@@ -59534,7 +59534,7 @@ function install25(registers) {
   registers.registerLayout(registers.PRIORITY.VISUAL.PROGRESSIVE_LAYOUT, createProgressiveLayout("pictorialBar"));
 }
 
-// node_modules/echarts/lib/chart/themeRiver/install.js
+// ../node_modules/echarts/lib/chart/themeRiver/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59550,7 +59550,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/themeRiver/ThemeRiverView.js
+// ../node_modules/echarts/lib/chart/themeRiver/ThemeRiverView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59695,7 +59695,7 @@ function createGridClipShape3(rect, seriesModel, cb) {
 }
 var ThemeRiverView_default = ThemeRiverView;
 
-// node_modules/echarts/lib/chart/themeRiver/ThemeRiverSeries.js
+// ../node_modules/echarts/lib/chart/themeRiver/ThemeRiverSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59880,7 +59880,7 @@ var ThemeRiverSeriesModel = function(_super) {
 }(Series_default);
 var ThemeRiverSeries_default = ThemeRiverSeriesModel;
 
-// node_modules/echarts/lib/chart/themeRiver/themeRiverLayout.js
+// ../node_modules/echarts/lib/chart/themeRiver/themeRiverLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -59991,7 +59991,7 @@ function computeBaseline(data) {
   };
 }
 
-// node_modules/echarts/lib/chart/themeRiver/install.js
+// ../node_modules/echarts/lib/chart/themeRiver/install.js
 function install26(registers) {
   registers.registerChartView(ThemeRiverView_default);
   registers.registerSeriesModel(ThemeRiverSeries_default);
@@ -59999,7 +59999,7 @@ function install26(registers) {
   registers.registerProcessor(dataFilter("themeRiver"));
 }
 
-// node_modules/echarts/lib/chart/sunburst/install.js
+// ../node_modules/echarts/lib/chart/sunburst/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60015,7 +60015,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/sunburst/SunburstView.js
+// ../node_modules/echarts/lib/chart/sunburst/SunburstView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60031,7 +60031,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/sunburst/SunburstPiece.js
+// ../node_modules/echarts/lib/chart/sunburst/SunburstPiece.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60218,7 +60218,7 @@ var SunburstPiece = function(_super) {
 }(Sector_default);
 var SunburstPiece_default = SunburstPiece;
 
-// node_modules/echarts/lib/chart/sunburst/sunburstAction.js
+// ../node_modules/echarts/lib/chart/sunburst/sunburstAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60294,7 +60294,7 @@ function installSunburstAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/chart/sunburst/SunburstView.js
+// ../node_modules/echarts/lib/chart/sunburst/SunburstView.js
 var SunburstView = function(_super) {
   __extends(SunburstView2, _super);
   function SunburstView2() {
@@ -60430,7 +60430,7 @@ var SunburstView = function(_super) {
 }(Chart_default);
 var SunburstView_default = SunburstView;
 
-// node_modules/echarts/lib/chart/sunburst/SunburstSeries.js
+// ../node_modules/echarts/lib/chart/sunburst/SunburstSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60569,7 +60569,7 @@ function completeTreeValue2(dataNode) {
 }
 var SunburstSeries_default = SunburstSeriesModel;
 
-// node_modules/echarts/lib/chart/sunburst/sunburstLayout.js
+// ../node_modules/echarts/lib/chart/sunburst/sunburstLayout.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60727,7 +60727,7 @@ function sort3(children, sortOrder) {
   }
 }
 
-// node_modules/echarts/lib/chart/sunburst/sunburstVisual.js
+// ../node_modules/echarts/lib/chart/sunburst/sunburstVisual.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60770,7 +60770,7 @@ function sunburstVisual(ecModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/sunburst/install.js
+// ../node_modules/echarts/lib/chart/sunburst/install.js
 function install27(registers) {
   registers.registerChartView(SunburstView_default);
   registers.registerSeriesModel(SunburstSeries_default);
@@ -60780,7 +60780,7 @@ function install27(registers) {
   installSunburstAction(registers);
 }
 
-// node_modules/echarts/lib/chart/custom/install.js
+// ../node_modules/echarts/lib/chart/custom/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60796,7 +60796,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/chart/custom/CustomSeries.js
+// ../node_modules/echarts/lib/chart/custom/CustomSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60856,7 +60856,7 @@ var CustomSeriesModel = function(_super) {
 }(Series_default);
 var CustomSeries_default = CustomSeriesModel;
 
-// node_modules/echarts/lib/chart/custom/CustomView.js
+// ../node_modules/echarts/lib/chart/custom/CustomView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60872,7 +60872,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/cartesian/prepareCustom.js
+// ../node_modules/echarts/lib/coord/cartesian/prepareCustom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60915,7 +60915,7 @@ function cartesianPrepareCustom(coordSys) {
   };
 }
 
-// node_modules/echarts/lib/coord/geo/prepareCustom.js
+// ../node_modules/echarts/lib/coord/geo/prepareCustom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -60963,7 +60963,7 @@ function geoPrepareCustom(coordSys) {
   };
 }
 
-// node_modules/echarts/lib/coord/single/prepareCustom.js
+// ../node_modules/echarts/lib/coord/single/prepareCustom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61003,7 +61003,7 @@ function singlePrepareCustom(coordSys) {
   };
 }
 
-// node_modules/echarts/lib/coord/polar/prepareCustom.js
+// ../node_modules/echarts/lib/coord/polar/prepareCustom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61058,7 +61058,7 @@ function polarPrepareCustom(coordSys) {
   };
 }
 
-// node_modules/echarts/lib/coord/calendar/prepareCustom.js
+// ../node_modules/echarts/lib/coord/calendar/prepareCustom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61100,7 +61100,7 @@ function calendarPrepareCustom(coordSys) {
   };
 }
 
-// node_modules/echarts/lib/util/styleCompat.js
+// ../node_modules/echarts/lib/util/styleCompat.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61254,7 +61254,7 @@ function warnDeprecated(deprecated, insteadApproach) {
   }
 }
 
-// node_modules/echarts/lib/animation/customGraphicTransition.js
+// ../node_modules/echarts/lib/animation/customGraphicTransition.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61641,7 +61641,7 @@ if (true) {
   };
 }
 
-// node_modules/echarts/lib/animation/customGraphicKeyframeAnimation.js
+// ../node_modules/echarts/lib/animation/customGraphicKeyframeAnimation.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -61739,7 +61739,7 @@ function applyKeyframeAnimation(el, animationOpts, animatableModel) {
   });
 }
 
-// node_modules/echarts/lib/chart/custom/CustomView.js
+// ../node_modules/echarts/lib/chart/custom/CustomView.js
 var EMPHASIS = "emphasis";
 var NORMAL = "normal";
 var BLUR = "blur";
@@ -62378,13 +62378,13 @@ function hasOwnPathData(shape) {
   return shape && (hasOwn(shape, "pathData") || hasOwn(shape, "d"));
 }
 
-// node_modules/echarts/lib/chart/custom/install.js
+// ../node_modules/echarts/lib/chart/custom/install.js
 function install28(registers) {
   registers.registerChartView(CustomView_default);
   registers.registerSeriesModel(CustomSeries_default);
 }
 
-// node_modules/echarts/lib/export/components.js
+// ../node_modules/echarts/lib/export/components.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62400,7 +62400,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/grid/install.js
+// ../node_modules/echarts/lib/component/grid/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62416,7 +62416,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/install.js
+// ../node_modules/echarts/lib/component/axisPointer/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62432,7 +62432,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
+// ../node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62448,7 +62448,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/BaseAxisPointer.js
+// ../node_modules/echarts/lib/component/axisPointer/BaseAxisPointer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62731,7 +62731,7 @@ function updateMandatoryProps(group, axisPointerModel, silent) {
 }
 var BaseAxisPointer_default = BaseAxisPointer;
 
-// node_modules/echarts/lib/component/axisPointer/viewHelper.js
+// ../node_modules/echarts/lib/component/axisPointer/viewHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -62880,7 +62880,7 @@ function makeSectorShape(cx, cy, r0, r, startAngle, endAngle) {
   };
 }
 
-// node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
+// ../node_modules/echarts/lib/component/axisPointer/CartesianAxisPointer.js
 var CartesianAxisPointer = function(_super) {
   __extends(CartesianAxisPointer2, _super);
   function CartesianAxisPointer2() {
@@ -62970,7 +62970,7 @@ function getAxisDimIndex(axis) {
 }
 var CartesianAxisPointer_default = CartesianAxisPointer;
 
-// node_modules/echarts/lib/component/axisPointer/AxisPointerModel.js
+// ../node_modules/echarts/lib/component/axisPointer/AxisPointerModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63041,7 +63041,7 @@ var AxisPointerModel = function(_super) {
 }(Component_default);
 var AxisPointerModel_default = AxisPointerModel;
 
-// node_modules/echarts/lib/component/axisPointer/AxisPointerView.js
+// ../node_modules/echarts/lib/component/axisPointer/AxisPointerView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63057,7 +63057,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/globalListener.js
+// ../node_modules/echarts/lib/component/axisPointer/globalListener.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63152,7 +63152,7 @@ function unregister(key, api) {
   }
 }
 
-// node_modules/echarts/lib/component/axisPointer/AxisPointerView.js
+// ../node_modules/echarts/lib/component/axisPointer/AxisPointerView.js
 var AxisPointerView = function(_super) {
   __extends(AxisPointerView2, _super);
   function AxisPointerView2() {
@@ -63185,7 +63185,7 @@ var AxisPointerView = function(_super) {
 }(Component_default2);
 var AxisPointerView_default = AxisPointerView;
 
-// node_modules/echarts/lib/component/axisPointer/axisTrigger.js
+// ../node_modules/echarts/lib/component/axisPointer/axisTrigger.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63201,7 +63201,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/findPointFromSeries.js
+// ../node_modules/echarts/lib/component/axisPointer/findPointFromSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63264,7 +63264,7 @@ function findPointFromSeries(finder, ecModel) {
   };
 }
 
-// node_modules/echarts/lib/component/axisPointer/axisTrigger.js
+// ../node_modules/echarts/lib/component/axisPointer/axisTrigger.js
 var inner13 = makeInner();
 function axisTrigger(payload, ecModel, api) {
   var currTrigger = payload.currTrigger;
@@ -63536,7 +63536,7 @@ function illegalPoint(point) {
   return !point || point[0] == null || isNaN(point[0]) || point[1] == null || isNaN(point[1]);
 }
 
-// node_modules/echarts/lib/component/axisPointer/install.js
+// ../node_modules/echarts/lib/component/axisPointer/install.js
 function install29(registers) {
   AxisView_default.registerAxisPointerClass("CartesianAxisPointer", CartesianAxisPointer_default);
   registers.registerComponentModel(AxisPointerModel_default);
@@ -63560,13 +63560,13 @@ function install29(registers) {
   }, axisTrigger);
 }
 
-// node_modules/echarts/lib/component/grid/install.js
+// ../node_modules/echarts/lib/component/grid/install.js
 function install30(registers) {
   use(install6);
   use(install29);
 }
 
-// node_modules/echarts/lib/component/polar/install.js
+// ../node_modules/echarts/lib/component/polar/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63582,7 +63582,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axisPointer/PolarAxisPointer.js
+// ../node_modules/echarts/lib/component/axisPointer/PolarAxisPointer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63685,7 +63685,7 @@ var pointerShapeBuilder2 = {
 };
 var PolarAxisPointer_default = PolarAxisPointer;
 
-// node_modules/echarts/lib/coord/polar/PolarModel.js
+// ../node_modules/echarts/lib/coord/polar/PolarModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63728,7 +63728,7 @@ var PolarModel = function(_super) {
 }(Component_default);
 var PolarModel_default = PolarModel;
 
-// node_modules/echarts/lib/coord/polar/AxisModel.js
+// ../node_modules/echarts/lib/coord/polar/AxisModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63776,7 +63776,7 @@ var RadiusAxisModel = function(_super) {
   return RadiusAxisModel2;
 }(PolarAxisModel);
 
-// node_modules/echarts/lib/coord/polar/polarCreator.js
+// ../node_modules/echarts/lib/coord/polar/polarCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63792,7 +63792,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/polar/Polar.js
+// ../node_modules/echarts/lib/coord/polar/Polar.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63808,7 +63808,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/polar/RadiusAxis.js
+// ../node_modules/echarts/lib/coord/polar/RadiusAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63837,7 +63837,7 @@ RadiusAxis.prototype.dataToRadius = Axis_default.prototype.dataToCoord;
 RadiusAxis.prototype.radiusToData = Axis_default.prototype.coordToData;
 var RadiusAxis_default = RadiusAxis;
 
-// node_modules/echarts/lib/coord/polar/AngleAxis.js
+// ../node_modules/echarts/lib/coord/polar/AngleAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -63895,7 +63895,7 @@ AngleAxis.prototype.dataToAngle = Axis_default.prototype.dataToCoord;
 AngleAxis.prototype.angleToData = Axis_default.prototype.coordToData;
 var AngleAxis_default = AngleAxis;
 
-// node_modules/echarts/lib/coord/polar/Polar.js
+// ../node_modules/echarts/lib/coord/polar/Polar.js
 var polarDimensions = ["radius", "angle"];
 var Polar = function() {
   function Polar2(name) {
@@ -64025,7 +64025,7 @@ function getCoordSys3(finder) {
 }
 var Polar_default = Polar;
 
-// node_modules/echarts/lib/coord/polar/polarCreator.js
+// ../node_modules/echarts/lib/coord/polar/polarCreator.js
 function resizePolar(polar, polarModel, api) {
   var center3 = polarModel.get("center");
   var width = api.getWidth();
@@ -64119,7 +64119,7 @@ var polarCreator = {
 };
 var polarCreator_default = polarCreator;
 
-// node_modules/echarts/lib/component/axis/AngleAxisView.js
+// ../node_modules/echarts/lib/component/axis/AngleAxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64392,7 +64392,7 @@ var angelAxisElementsBuilders = {
 };
 var AngleAxisView_default = AngleAxisView;
 
-// node_modules/echarts/lib/component/axis/RadiusAxisView.js
+// ../node_modules/echarts/lib/component/axis/RadiusAxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64550,7 +64550,7 @@ function layoutAxis(polar, radiusAxisModel, axisAngle) {
 }
 var RadiusAxisView_default = RadiusAxisView;
 
-// node_modules/echarts/lib/layout/barPolar.js
+// ../node_modules/echarts/lib/layout/barPolar.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64742,7 +64742,7 @@ function calRadialBar(barSeries) {
 }
 var barPolar_default = barLayoutPolar;
 
-// node_modules/echarts/lib/component/polar/install.js
+// ../node_modules/echarts/lib/component/polar/install.js
 var angleAxisExtraOption = {
   startAngle: 90,
   clockwise: true,
@@ -64777,7 +64777,7 @@ function install31(registers) {
   registers.registerLayout(curry(barPolar_default, "bar"));
 }
 
-// node_modules/echarts/lib/component/singleAxis/install.js
+// ../node_modules/echarts/lib/component/singleAxis/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64793,7 +64793,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/axis/SingleAxisView.js
+// ../node_modules/echarts/lib/component/axis/SingleAxisView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64809,7 +64809,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/single/singleAxisHelper.js
+// ../node_modules/echarts/lib/coord/single/singleAxisHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -64869,7 +64869,7 @@ function layout3(axisModel, opt) {
   return layout5;
 }
 
-// node_modules/echarts/lib/component/axis/SingleAxisView.js
+// ../node_modules/echarts/lib/component/axis/SingleAxisView.js
 var axisBuilderAttrs4 = ["axisLine", "axisTickLabel", "axisName"];
 var selfBuilderAttrs3 = ["splitArea", "splitLine"];
 var SingleAxisView = function(_super) {
@@ -64965,7 +64965,7 @@ var axisElementBuilders3 = {
 };
 var SingleAxisView_default = SingleAxisView;
 
-// node_modules/echarts/lib/coord/single/AxisModel.js
+// ../node_modules/echarts/lib/coord/single/AxisModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65034,7 +65034,7 @@ var SingleAxisModel = function(_super) {
 mixin(SingleAxisModel, AxisModelCommonMixin.prototype);
 var AxisModel_default2 = SingleAxisModel;
 
-// node_modules/echarts/lib/coord/single/singleCreator.js
+// ../node_modules/echarts/lib/coord/single/singleCreator.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65050,7 +65050,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/single/Single.js
+// ../node_modules/echarts/lib/coord/single/Single.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65066,7 +65066,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/single/SingleAxis.js
+// ../node_modules/echarts/lib/coord/single/SingleAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65100,7 +65100,7 @@ var SingleAxis = function(_super) {
 }(Axis_default);
 var SingleAxis_default = SingleAxis;
 
-// node_modules/echarts/lib/coord/single/Single.js
+// ../node_modules/echarts/lib/coord/single/Single.js
 var singleDimensions = ["single"];
 var Single = function() {
   function Single2(axisModel, ecModel, api) {
@@ -65233,7 +65233,7 @@ function getCoordSys4(finder) {
 }
 var Single_default = Single;
 
-// node_modules/echarts/lib/coord/single/singleCreator.js
+// ../node_modules/echarts/lib/coord/single/singleCreator.js
 function create3(ecModel, api) {
   var singles = [];
   ecModel.eachComponent("singleAxis", function(axisModel, idx) {
@@ -65257,7 +65257,7 @@ var singleCreator = {
 };
 var singleCreator_default = singleCreator;
 
-// node_modules/echarts/lib/component/axisPointer/SingleAxisPointer.js
+// ../node_modules/echarts/lib/component/axisPointer/SingleAxisPointer.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65359,7 +65359,7 @@ function getGlobalExtent(coordSys, dimIndex) {
 }
 var SingleAxisPointer_default = SingleAxisPointer;
 
-// node_modules/echarts/lib/component/singleAxis/install.js
+// ../node_modules/echarts/lib/component/singleAxis/install.js
 var SingleView = function(_super) {
   __extends(SingleView2, _super);
   function SingleView2() {
@@ -65380,7 +65380,7 @@ function install32(registers) {
   registers.registerCoordinateSystem("single", singleCreator_default);
 }
 
-// node_modules/echarts/lib/component/calendar/install.js
+// ../node_modules/echarts/lib/component/calendar/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65396,7 +65396,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/coord/calendar/CalendarModel.js
+// ../node_modules/echarts/lib/coord/calendar/CalendarModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65502,7 +65502,7 @@ function mergeAndNormalizeLayoutParams(target, raw) {
 }
 var CalendarModel_default = CalendarModel;
 
-// node_modules/echarts/lib/component/calendar/CalendarView.js
+// ../node_modules/echarts/lib/component/calendar/CalendarView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -65836,7 +65836,7 @@ var CalendarView = function(_super) {
 }(Component_default2);
 var CalendarView_default = CalendarView;
 
-// node_modules/echarts/lib/coord/calendar/Calendar.js
+// ../node_modules/echarts/lib/coord/calendar/Calendar.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66107,14 +66107,14 @@ function getCoordSys5(finder) {
 }
 var Calendar_default = Calendar;
 
-// node_modules/echarts/lib/component/calendar/install.js
+// ../node_modules/echarts/lib/component/calendar/install.js
 function install33(registers) {
   registers.registerComponentModel(CalendarModel_default);
   registers.registerComponentView(CalendarView_default);
   registers.registerCoordinateSystem("calendar", Calendar_default);
 }
 
-// node_modules/echarts/lib/component/graphic/install.js
+// ../node_modules/echarts/lib/component/graphic/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66130,7 +66130,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/graphic/GraphicModel.js
+// ../node_modules/echarts/lib/component/graphic/GraphicModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66299,7 +66299,7 @@ var GraphicComponentModel = function(_super) {
   return GraphicComponentModel2;
 }(Component_default);
 
-// node_modules/echarts/lib/component/graphic/GraphicView.js
+// ../node_modules/echarts/lib/component/graphic/GraphicView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66603,7 +66603,7 @@ function setEventData(el, graphicModel, elOption) {
   }
 }
 
-// node_modules/echarts/lib/component/graphic/install.js
+// ../node_modules/echarts/lib/component/graphic/install.js
 function install34(registers) {
   registers.registerComponentModel(GraphicComponentModel);
   registers.registerComponentView(GraphicComponentView);
@@ -66625,7 +66625,7 @@ function install34(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/toolbox/install.js
+// ../node_modules/echarts/lib/component/toolbox/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66641,7 +66641,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66657,7 +66657,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66673,7 +66673,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66689,7 +66689,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/helper.js
+// ../node_modules/echarts/lib/component/dataZoom/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -66791,7 +66791,7 @@ function collectReferCoordSysModelInfo(dataZoomModel) {
   return coordSysInfoWrap;
 }
 
-// node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/DataZoomModel.js
 var DataZoomAxisInfo = function() {
   function DataZoomAxisInfo2() {
     this.indexList = [];
@@ -67078,7 +67078,7 @@ function retrieveRawOption(option) {
 }
 var DataZoomModel_default = DataZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/SelectZoomModel.js
 var SelectDataZoomModel = function(_super) {
   __extends(SelectDataZoomModel2, _super);
   function SelectDataZoomModel2() {
@@ -67091,7 +67091,7 @@ var SelectDataZoomModel = function(_super) {
 }(DataZoomModel_default);
 var SelectZoomModel_default = SelectDataZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/SelectZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/SelectZoomView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67107,7 +67107,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/DataZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/DataZoomView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67139,7 +67139,7 @@ var DataZoomView = function(_super) {
 }(Component_default2);
 var DataZoomView_default = DataZoomView;
 
-// node_modules/echarts/lib/component/dataZoom/SelectZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/SelectZoomView.js
 var SelectDataZoomView = function(_super) {
   __extends(SelectDataZoomView2, _super);
   function SelectDataZoomView2() {
@@ -67152,7 +67152,7 @@ var SelectDataZoomView = function(_super) {
 }(DataZoomView_default);
 var SelectZoomView_default = SelectDataZoomView;
 
-// node_modules/echarts/lib/component/dataZoom/installCommon.js
+// ../node_modules/echarts/lib/component/dataZoom/installCommon.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67168,7 +67168,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
+// ../node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67184,7 +67184,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/AxisProxy.js
+// ../node_modules/echarts/lib/component/dataZoom/AxisProxy.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67397,7 +67397,7 @@ function calculateDataExtent(axisProxy, axisDim, seriesModels) {
 }
 var AxisProxy_default = AxisProxy;
 
-// node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
+// ../node_modules/echarts/lib/component/dataZoom/dataZoomProcessor.js
 var dataZoomProcessor = {
   getTargetSeries: function(ecModel) {
     function eachAxisModel(cb) {
@@ -67452,7 +67452,7 @@ var dataZoomProcessor = {
 };
 var dataZoomProcessor_default = dataZoomProcessor;
 
-// node_modules/echarts/lib/component/dataZoom/dataZoomAction.js
+// ../node_modules/echarts/lib/component/dataZoom/dataZoomAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67481,7 +67481,7 @@ function installDataZoomAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/dataZoom/installCommon.js
+// ../node_modules/echarts/lib/component/dataZoom/installCommon.js
 var installed = false;
 function installCommon(registers) {
   if (installed) {
@@ -67495,14 +67495,14 @@ function installCommon(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomSelect.js
 function install35(registers) {
   registers.registerComponentModel(SelectZoomModel_default);
   registers.registerComponentView(SelectZoomView_default);
   installCommon(registers);
 }
 
-// node_modules/echarts/lib/component/toolbox/ToolboxModel.js
+// ../node_modules/echarts/lib/component/toolbox/ToolboxModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67518,7 +67518,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/toolbox/featureManager.js
+// ../node_modules/echarts/lib/component/toolbox/featureManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67546,7 +67546,7 @@ function getFeature(name) {
   return features[name];
 }
 
-// node_modules/echarts/lib/component/toolbox/ToolboxModel.js
+// ../node_modules/echarts/lib/component/toolbox/ToolboxModel.js
 var ToolboxModel = function(_super) {
   __extends(ToolboxModel2, _super);
   function ToolboxModel2() {
@@ -67604,7 +67604,7 @@ var ToolboxModel = function(_super) {
 }(Component_default);
 var ToolboxModel_default = ToolboxModel;
 
-// node_modules/echarts/lib/component/toolbox/ToolboxView.js
+// ../node_modules/echarts/lib/component/toolbox/ToolboxView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67620,7 +67620,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/listComponent.js
+// ../node_modules/echarts/lib/component/helper/listComponent.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67665,7 +67665,7 @@ function makeBackground(rect, componentModel) {
   return rect;
 }
 
-// node_modules/echarts/lib/component/toolbox/ToolboxView.js
+// ../node_modules/echarts/lib/component/toolbox/ToolboxView.js
 var ToolboxView = function(_super) {
   __extends(ToolboxView2, _super);
   function ToolboxView2() {
@@ -67872,7 +67872,7 @@ function isUserFeatureName(featureName) {
 }
 var ToolboxView_default = ToolboxView;
 
-// node_modules/echarts/lib/component/toolbox/feature/SaveAsImage.js
+// ../node_modules/echarts/lib/component/toolbox/feature/SaveAsImage.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -67969,7 +67969,7 @@ var SaveAsImage = function(_super) {
 }(ToolboxFeature);
 var SaveAsImage_default = SaveAsImage;
 
-// node_modules/echarts/lib/component/toolbox/feature/MagicType.js
+// ../node_modules/echarts/lib/component/toolbox/feature/MagicType.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68130,7 +68130,7 @@ registerAction({
 });
 var MagicType_default = MagicType;
 
-// node_modules/echarts/lib/component/toolbox/feature/DataView.js
+// ../node_modules/echarts/lib/component/toolbox/feature/DataView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68500,7 +68500,7 @@ registerAction({
 });
 var DataView_default = DataView;
 
-// node_modules/echarts/lib/component/toolbox/feature/Restore.js
+// ../node_modules/echarts/lib/component/toolbox/feature/Restore.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68516,7 +68516,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/history.js
+// ../node_modules/echarts/lib/component/dataZoom/history.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68591,7 +68591,7 @@ function getStoreSnapshots(ecModel) {
   return store.snapshots;
 }
 
-// node_modules/echarts/lib/component/toolbox/feature/Restore.js
+// ../node_modules/echarts/lib/component/toolbox/feature/Restore.js
 var RestoreOption = function(_super) {
   __extends(RestoreOption2, _super);
   function RestoreOption2() {
@@ -68623,7 +68623,7 @@ registerAction({
 });
 var Restore_default = RestoreOption;
 
-// node_modules/echarts/lib/component/toolbox/feature/DataZoom.js
+// ../node_modules/echarts/lib/component/toolbox/feature/DataZoom.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68639,7 +68639,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/helper/BrushTargetManager.js
+// ../node_modules/echarts/lib/component/helper/BrushTargetManager.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -68911,7 +68911,7 @@ function getSize2(xyMinMax) {
 }
 var BrushTargetManager_default = BrushTargetManager;
 
-// node_modules/echarts/lib/component/toolbox/feature/DataZoom.js
+// ../node_modules/echarts/lib/component/toolbox/feature/DataZoom.js
 var each11 = each;
 var DATA_ZOOM_ID_BASE = makeInternalComponentId("toolbox-dataZoom_");
 var DataZoomFeature = function(_super) {
@@ -69100,7 +69100,7 @@ registerInternalOptionCreator("dataZoom", function(ecModel) {
 });
 var DataZoom_default = DataZoomFeature;
 
-// node_modules/echarts/lib/component/toolbox/install.js
+// ../node_modules/echarts/lib/component/toolbox/install.js
 function install36(registers) {
   registers.registerComponentModel(ToolboxModel_default);
   registers.registerComponentView(ToolboxView_default);
@@ -69112,7 +69112,7 @@ function install36(registers) {
   use(install35);
 }
 
-// node_modules/echarts/lib/component/tooltip/install.js
+// ../node_modules/echarts/lib/component/tooltip/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69128,7 +69128,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/tooltip/TooltipModel.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69197,7 +69197,7 @@ var TooltipModel = function(_super) {
 }(Component_default);
 var TooltipModel_default = TooltipModel;
 
-// node_modules/echarts/lib/component/tooltip/TooltipView.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69213,7 +69213,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69229,7 +69229,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/tooltip/helper.js
+// ../node_modules/echarts/lib/component/tooltip/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69275,7 +69275,7 @@ function getComputedStyle(el, style) {
   return stl ? style ? stl[style] : stl : null;
 }
 
-// node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipHTMLContent.js
 var CSS_TRANSITION_VENDOR = toCSSVendorPrefix(TRANSITION_VENDOR, "transition");
 var CSS_TRANSFORM_VENDOR = toCSSVendorPrefix(TRANSFORM_VENDOR, "transform");
 var gCssText = "position:absolute;display:block;border-style:solid;white-space:nowrap;z-index:9999999;" + (env_default.transform3dSupported ? "will-change:transform;" : "");
@@ -69554,7 +69554,7 @@ var TooltipHTMLContent = function() {
 }();
 var TooltipHTMLContent_default = TooltipHTMLContent;
 
-// node_modules/echarts/lib/component/tooltip/TooltipRichContent.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipRichContent.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -69712,7 +69712,7 @@ function makeStyleCoord2(out2, zr, zrX, zrY) {
 }
 var TooltipRichContent_default = TooltipRichContent;
 
-// node_modules/echarts/lib/component/tooltip/TooltipView.js
+// ../node_modules/echarts/lib/component/tooltip/TooltipView.js
 var proxyRect = new Rect_default({
   shape: {
     x: -1,
@@ -70362,7 +70362,7 @@ function findComponentReference(payload, ecModel, api) {
 }
 var TooltipView_default = TooltipView;
 
-// node_modules/echarts/lib/component/tooltip/install.js
+// ../node_modules/echarts/lib/component/tooltip/install.js
 function install37(registers) {
   use(install29);
   registers.registerComponentModel(TooltipModel_default);
@@ -70379,7 +70379,7 @@ function install37(registers) {
   }, noop);
 }
 
-// node_modules/echarts/lib/component/brush/install.js
+// ../node_modules/echarts/lib/component/brush/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70395,7 +70395,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/brush/preprocessor.js
+// ../node_modules/echarts/lib/component/brush/preprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70453,7 +70453,7 @@ function removeDuplicate(arr) {
   });
 }
 
-// node_modules/echarts/lib/component/brush/BrushView.js
+// ../node_modules/echarts/lib/component/brush/BrushView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70469,7 +70469,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/brush/visualEncoding.js
+// ../node_modules/echarts/lib/component/brush/visualEncoding.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70485,7 +70485,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/visual/visualSolution.js
+// ../node_modules/echarts/lib/visual/visualSolution.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70626,7 +70626,7 @@ function incrementalApplyVisual(stateList, visualMappings, getValueState, dim) {
   };
 }
 
-// node_modules/echarts/lib/component/brush/selector.js
+// ../node_modules/echarts/lib/component/brush/selector.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -70709,7 +70709,7 @@ function inLineRange(p, range) {
   return range[0] <= p && p <= range[1];
 }
 
-// node_modules/echarts/lib/component/brush/visualEncoding.js
+// ../node_modules/echarts/lib/component/brush/visualEncoding.js
 var STATE_LIST = ["inBrush", "outOfBrush"];
 var DISPATCH_METHOD = "__ecBrushSelect";
 var DISPATCH_FLAG = "__ecInBrushSelectEvent";
@@ -70883,7 +70883,7 @@ function getBoundingRectFromMinMax(minMax) {
   return new BoundingRect_default(minMax[0][0], minMax[1][0], minMax[0][1] - minMax[0][0], minMax[1][1] - minMax[1][0]);
 }
 
-// node_modules/echarts/lib/component/brush/BrushView.js
+// ../node_modules/echarts/lib/component/brush/BrushView.js
 var BrushView = function(_super) {
   __extends(BrushView2, _super);
   function BrushView2() {
@@ -70938,7 +70938,7 @@ var BrushView = function(_super) {
 }(Component_default2);
 var BrushView_default = BrushView;
 
-// node_modules/echarts/lib/component/brush/BrushModel.js
+// ../node_modules/echarts/lib/component/brush/BrushModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71023,7 +71023,7 @@ function generateBrushOption(option, brushOption) {
 }
 var BrushModel_default = BrushModel;
 
-// node_modules/echarts/lib/component/toolbox/feature/Brush.js
+// ../node_modules/echarts/lib/component/toolbox/feature/Brush.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71121,7 +71121,7 @@ var BrushFeature = function(_super) {
 }(ToolboxFeature);
 var Brush_default = BrushFeature;
 
-// node_modules/echarts/lib/component/brush/install.js
+// ../node_modules/echarts/lib/component/brush/install.js
 function install38(registers) {
   registers.registerComponentView(BrushView_default);
   registers.registerComponentModel(BrushModel_default);
@@ -71152,7 +71152,7 @@ function install38(registers) {
   registerFeature("brush", Brush_default);
 }
 
-// node_modules/echarts/lib/component/title/install.js
+// ../node_modules/echarts/lib/component/title/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71331,7 +71331,7 @@ function install39(registers) {
   registers.registerComponentView(TitleView);
 }
 
-// node_modules/echarts/lib/component/timeline/install.js
+// ../node_modules/echarts/lib/component/timeline/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71347,7 +71347,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
+// ../node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71363,7 +71363,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/timeline/TimelineModel.js
+// ../node_modules/echarts/lib/component/timeline/TimelineModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71490,7 +71490,7 @@ var TimelineModel = function(_super) {
 }(Component_default);
 var TimelineModel_default = TimelineModel;
 
-// node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
+// ../node_modules/echarts/lib/component/timeline/SliderTimelineModel.js
 var SliderTimelineModel = function(_super) {
   __extends(SliderTimelineModel2, _super);
   function SliderTimelineModel2() {
@@ -71590,7 +71590,7 @@ var SliderTimelineModel = function(_super) {
 mixin(SliderTimelineModel, DataFormatMixin.prototype);
 var SliderTimelineModel_default = SliderTimelineModel;
 
-// node_modules/echarts/lib/component/timeline/SliderTimelineView.js
+// ../node_modules/echarts/lib/component/timeline/SliderTimelineView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71606,7 +71606,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/timeline/TimelineView.js
+// ../node_modules/echarts/lib/component/timeline/TimelineView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71633,7 +71633,7 @@ var TimelineView = function(_super) {
 }(Component_default2);
 var TimelineView_default = TimelineView;
 
-// node_modules/echarts/lib/component/timeline/TimelineAxis.js
+// ../node_modules/echarts/lib/component/timeline/TimelineAxis.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -71665,7 +71665,7 @@ var TimelineAxis = function(_super) {
 }(Axis_default);
 var TimelineAxis_default = TimelineAxis;
 
-// node_modules/echarts/lib/component/timeline/SliderTimelineView.js
+// ../node_modules/echarts/lib/component/timeline/SliderTimelineView.js
 var PI10 = Math.PI;
 var labelDataIndexStore = makeInner();
 var SliderTimelineView = function(_super) {
@@ -72210,7 +72210,7 @@ function pointerMoveTo(pointer, progressLine, dataIndex, axis, timelineModel, no
 }
 var SliderTimelineView_default = SliderTimelineView;
 
-// node_modules/echarts/lib/component/timeline/timelineAction.js
+// ../node_modules/echarts/lib/component/timeline/timelineAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72262,7 +72262,7 @@ function installTimelineAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/timeline/preprocessor.js
+// ../node_modules/echarts/lib/component/timeline/preprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72343,7 +72343,7 @@ function has(obj, attr) {
   return obj.hasOwnProperty(attr);
 }
 
-// node_modules/echarts/lib/component/timeline/install.js
+// ../node_modules/echarts/lib/component/timeline/install.js
 function install40(registers) {
   registers.registerComponentModel(SliderTimelineModel_default);
   registers.registerComponentView(SliderTimelineView_default);
@@ -72354,7 +72354,7 @@ function install40(registers) {
   registers.registerPreprocessor(timelinePreprocessor);
 }
 
-// node_modules/echarts/lib/component/marker/installMarkPoint.js
+// ../node_modules/echarts/lib/component/marker/installMarkPoint.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72370,7 +72370,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/marker/checkMarkerInSeries.js
+// ../node_modules/echarts/lib/component/marker/checkMarkerInSeries.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72398,7 +72398,7 @@ function checkMarkerInSeries(seriesOpts, markerType) {
   return false;
 }
 
-// node_modules/echarts/lib/component/marker/MarkPointModel.js
+// ../node_modules/echarts/lib/component/marker/MarkPointModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72414,7 +72414,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/marker/MarkerModel.js
+// ../node_modules/echarts/lib/component/marker/MarkerModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72527,7 +72527,7 @@ var MarkerModel = function(_super) {
 mixin(MarkerModel, DataFormatMixin.prototype);
 var MarkerModel_default = MarkerModel;
 
-// node_modules/echarts/lib/component/marker/MarkPointModel.js
+// ../node_modules/echarts/lib/component/marker/MarkPointModel.js
 var MarkPointModel = function(_super) {
   __extends(MarkPointModel2, _super);
   function MarkPointModel2() {
@@ -72563,7 +72563,7 @@ var MarkPointModel = function(_super) {
 }(MarkerModel_default);
 var MarkPointModel_default = MarkPointModel;
 
-// node_modules/echarts/lib/component/marker/MarkPointView.js
+// ../node_modules/echarts/lib/component/marker/MarkPointView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72579,7 +72579,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/marker/markerHelper.js
+// ../node_modules/echarts/lib/component/marker/markerHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72698,7 +72698,7 @@ function numCalculate(data, valueDataDim, type) {
   }
 }
 
-// node_modules/echarts/lib/component/marker/MarkerView.js
+// ../node_modules/echarts/lib/component/marker/MarkerView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72760,7 +72760,7 @@ var MarkerView = function(_super) {
 }(Component_default2);
 var MarkerView_default = MarkerView;
 
-// node_modules/echarts/lib/component/marker/MarkPointView.js
+// ../node_modules/echarts/lib/component/marker/MarkPointView.js
 function updateMarkerLayout(mpData, seriesModel, api) {
   var coordSys = seriesModel.coordinateSystem;
   mpData.each(function(idx) {
@@ -72888,7 +72888,7 @@ function createData(coordSys, seriesModel, mpModel) {
 }
 var MarkPointView_default = MarkPointView;
 
-// node_modules/echarts/lib/component/marker/installMarkPoint.js
+// ../node_modules/echarts/lib/component/marker/installMarkPoint.js
 function install41(registers) {
   registers.registerComponentModel(MarkPointModel_default);
   registers.registerComponentView(MarkPointView_default);
@@ -72899,7 +72899,7 @@ function install41(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/marker/installMarkLine.js
+// ../node_modules/echarts/lib/component/marker/installMarkLine.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72915,7 +72915,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/marker/MarkLineModel.js
+// ../node_modules/echarts/lib/component/marker/MarkLineModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -72972,7 +72972,7 @@ var MarkLineModel = function(_super) {
 }(MarkerModel_default);
 var MarkLineModel_default = MarkLineModel;
 
-// node_modules/echarts/lib/component/marker/MarkLineView.js
+// ../node_modules/echarts/lib/component/marker/MarkLineView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73244,7 +73244,7 @@ function createList2(coordSys, seriesModel, mlModel) {
 }
 var MarkLineView_default = MarkLineView;
 
-// node_modules/echarts/lib/component/marker/installMarkLine.js
+// ../node_modules/echarts/lib/component/marker/installMarkLine.js
 function install42(registers) {
   registers.registerComponentModel(MarkLineModel_default);
   registers.registerComponentView(MarkLineView_default);
@@ -73255,7 +73255,7 @@ function install42(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/marker/installMarkArea.js
+// ../node_modules/echarts/lib/component/marker/installMarkArea.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73271,7 +73271,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/marker/MarkAreaModel.js
+// ../node_modules/echarts/lib/component/marker/MarkAreaModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73321,7 +73321,7 @@ var MarkAreaModel = function(_super) {
 }(MarkerModel_default);
 var MarkAreaModel_default = MarkAreaModel;
 
-// node_modules/echarts/lib/component/marker/MarkAreaView.js
+// ../node_modules/echarts/lib/component/marker/MarkAreaView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73587,7 +73587,7 @@ function createList3(coordSys, seriesModel, maModel) {
 }
 var MarkAreaView_default = MarkAreaView;
 
-// node_modules/echarts/lib/component/marker/installMarkArea.js
+// ../node_modules/echarts/lib/component/marker/installMarkArea.js
 function install43(registers) {
   registers.registerComponentModel(MarkAreaModel_default);
   registers.registerComponentView(MarkAreaView_default);
@@ -73598,7 +73598,7 @@ function install43(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/legend/install.js
+// ../node_modules/echarts/lib/component/legend/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73614,7 +73614,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/legend/installLegendPlain.js
+// ../node_modules/echarts/lib/component/legend/installLegendPlain.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73630,7 +73630,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/legend/LegendModel.js
+// ../node_modules/echarts/lib/component/legend/LegendModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -73880,7 +73880,7 @@ var LegendModel = function(_super) {
 }(Component_default);
 var LegendModel_default = LegendModel;
 
-// node_modules/echarts/lib/component/legend/LegendView.js
+// ../node_modules/echarts/lib/component/legend/LegendView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74272,7 +74272,7 @@ function dispatchDownplayAction(seriesName, dataName, api, excludeSeriesId) {
 }
 var LegendView_default = LegendView;
 
-// node_modules/echarts/lib/component/legend/legendFilter.js
+// ../node_modules/echarts/lib/component/legend/legendFilter.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74303,7 +74303,7 @@ function legendFilter(ecModel) {
   }
 }
 
-// node_modules/echarts/lib/component/legend/legendAction.js
+// ../node_modules/echarts/lib/component/legend/legendAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74360,7 +74360,7 @@ function installLegendAction(registers) {
   registers.registerAction("legendUnSelect", "legendunselected", curry(legendSelectActionHandler, "unSelect"));
 }
 
-// node_modules/echarts/lib/component/legend/installLegendPlain.js
+// ../node_modules/echarts/lib/component/legend/installLegendPlain.js
 function install44(registers) {
   registers.registerComponentModel(LegendModel_default);
   registers.registerComponentView(LegendView_default);
@@ -74371,7 +74371,7 @@ function install44(registers) {
   installLegendAction(registers);
 }
 
-// node_modules/echarts/lib/component/legend/installLegendScroll.js
+// ../node_modules/echarts/lib/component/legend/installLegendScroll.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74387,7 +74387,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/legend/ScrollableLegendModel.js
+// ../node_modules/echarts/lib/component/legend/ScrollableLegendModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74453,7 +74453,7 @@ function mergeAndNormalizeLayoutParams2(legendModel, target, raw) {
 }
 var ScrollableLegendModel_default = ScrollableLegendModel;
 
-// node_modules/echarts/lib/component/legend/ScrollableLegendView.js
+// ../node_modules/echarts/lib/component/legend/ScrollableLegendView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74742,7 +74742,7 @@ var ScrollableLegendView = function(_super) {
 }(LegendView_default);
 var ScrollableLegendView_default = ScrollableLegendView;
 
-// node_modules/echarts/lib/component/legend/scrollableLegendAction.js
+// ../node_modules/echarts/lib/component/legend/scrollableLegendAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74770,7 +74770,7 @@ function installScrollableLegendAction(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/legend/installLegendScroll.js
+// ../node_modules/echarts/lib/component/legend/installLegendScroll.js
 function install45(registers) {
   use(install44);
   registers.registerComponentModel(ScrollableLegendModel_default);
@@ -74778,13 +74778,13 @@ function install45(registers) {
   installScrollableLegendAction(registers);
 }
 
-// node_modules/echarts/lib/component/legend/install.js
+// ../node_modules/echarts/lib/component/legend/install.js
 function install46(registers) {
   use(install44);
   use(install45);
 }
 
-// node_modules/echarts/lib/component/dataZoom/install.js
+// ../node_modules/echarts/lib/component/dataZoom/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74800,7 +74800,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74816,7 +74816,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/InsideZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/InsideZoomModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74851,7 +74851,7 @@ var InsideZoomModel = function(_super) {
 }(DataZoomModel_default);
 var InsideZoomModel_default = InsideZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/InsideZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/InsideZoomView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -74867,7 +74867,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/roams.js
+// ../node_modules/echarts/lib/component/dataZoom/roams.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -75034,7 +75034,7 @@ function installDataZoomRoamProcessor(registers) {
   });
 }
 
-// node_modules/echarts/lib/component/dataZoom/InsideZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/InsideZoomView.js
 var InsideZoomView = function(_super) {
   __extends(InsideZoomView2, _super);
   function InsideZoomView2() {
@@ -75172,7 +75172,7 @@ var getDirectionInfo = {
 };
 var InsideZoomView_default = InsideZoomView;
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomInside.js
 function install47(registers) {
   installCommon(registers);
   registers.registerComponentModel(InsideZoomModel_default);
@@ -75180,7 +75180,7 @@ function install47(registers) {
   installDataZoomRoamProcessor(registers);
 }
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSlider.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomSlider.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -75196,7 +75196,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/dataZoom/SliderZoomModel.js
+// ../node_modules/echarts/lib/component/dataZoom/SliderZoomModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -75288,7 +75288,7 @@ var SliderZoomModel = function(_super) {
 }(DataZoomModel_default);
 var SliderZoomModel_default = SliderZoomModel;
 
-// node_modules/echarts/lib/component/dataZoom/SliderZoomView.js
+// ../node_modules/echarts/lib/component/dataZoom/SliderZoomView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -75986,20 +75986,20 @@ function getCursor(orient) {
 }
 var SliderZoomView_default = SliderZoomView;
 
-// node_modules/echarts/lib/component/dataZoom/installDataZoomSlider.js
+// ../node_modules/echarts/lib/component/dataZoom/installDataZoomSlider.js
 function install48(registers) {
   registers.registerComponentModel(SliderZoomModel_default);
   registers.registerComponentView(SliderZoomView_default);
   installCommon(registers);
 }
 
-// node_modules/echarts/lib/component/dataZoom/install.js
+// ../node_modules/echarts/lib/component/dataZoom/install.js
 function install49(registers) {
   use(install47);
   use(install48);
 }
 
-// node_modules/echarts/lib/component/visualMap/install.js
+// ../node_modules/echarts/lib/component/visualMap/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76015,7 +76015,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
+// ../node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76031,7 +76031,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/ContinuousModel.js
+// ../node_modules/echarts/lib/component/visualMap/ContinuousModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76047,7 +76047,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/VisualMapModel.js
+// ../node_modules/echarts/lib/component/visualMap/VisualMapModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76063,7 +76063,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/visual/visualDefault.js
+// ../node_modules/echarts/lib/visual/visualDefault.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76120,7 +76120,7 @@ var defaultOption2 = {
 };
 var visualDefault_default = visualDefault;
 
-// node_modules/echarts/lib/component/visualMap/VisualMapModel.js
+// ../node_modules/echarts/lib/component/visualMap/VisualMapModel.js
 var mapVisual2 = VisualMapping_default.mapVisual;
 var eachVisual = VisualMapping_default.eachVisual;
 var isArray2 = isArray;
@@ -76373,7 +76373,7 @@ var VisualMapModel = function(_super) {
 }(Component_default);
 var VisualMapModel_default = VisualMapModel;
 
-// node_modules/echarts/lib/component/visualMap/ContinuousModel.js
+// ../node_modules/echarts/lib/component/visualMap/ContinuousModel.js
 var DEFAULT_BAR_BOUND = [20, 140];
 var ContinuousModel = function(_super) {
   __extends(ContinuousModel2, _super);
@@ -76533,7 +76533,7 @@ function getColorStopValues(visualMapModel, valueState, dataExtent) {
 }
 var ContinuousModel_default = ContinuousModel;
 
-// node_modules/echarts/lib/component/visualMap/ContinuousView.js
+// ../node_modules/echarts/lib/component/visualMap/ContinuousView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76549,7 +76549,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/VisualMapView.js
+// ../node_modules/echarts/lib/component/visualMap/VisualMapView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76653,7 +76653,7 @@ var VisualMapView = function(_super) {
 }(Component_default2);
 var VisualMapView_default = VisualMapView;
 
-// node_modules/echarts/lib/component/visualMap/helper.js
+// ../node_modules/echarts/lib/component/visualMap/helper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -76702,7 +76702,7 @@ function makeHighDownBatch(batch, visualMapModel) {
   return batch;
 }
 
-// node_modules/echarts/lib/component/visualMap/ContinuousView.js
+// ../node_modules/echarts/lib/component/visualMap/ContinuousView.js
 var linearMap3 = linearMap;
 var each15 = each;
 var mathMin11 = Math.min;
@@ -77257,7 +77257,7 @@ function getCursor2(orient) {
 }
 var ContinuousView_default = ContinuousView;
 
-// node_modules/echarts/lib/component/visualMap/installCommon.js
+// ../node_modules/echarts/lib/component/visualMap/installCommon.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77273,7 +77273,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/visualMapAction.js
+// ../node_modules/echarts/lib/component/visualMap/visualMapAction.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77302,7 +77302,7 @@ var visualMapActionHander = function(payload, ecModel) {
   });
 };
 
-// node_modules/echarts/lib/component/visualMap/visualEncoding.js
+// ../node_modules/echarts/lib/component/visualMap/visualEncoding.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77374,7 +77374,7 @@ function getColorVisual(seriesModel, visualMapModel, value, valueState) {
   }
 }
 
-// node_modules/echarts/lib/component/visualMap/preprocessor.js
+// ../node_modules/echarts/lib/component/visualMap/preprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77422,7 +77422,7 @@ function has2(obj, name) {
   return obj && obj.hasOwnProperty && obj.hasOwnProperty(name);
 }
 
-// node_modules/echarts/lib/component/visualMap/installCommon.js
+// ../node_modules/echarts/lib/component/visualMap/installCommon.js
 var installed2 = false;
 function installCommon2(registers) {
   if (installed2) {
@@ -77439,14 +77439,14 @@ function installCommon2(registers) {
   registers.registerPreprocessor(visualMapPreprocessor);
 }
 
-// node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
+// ../node_modules/echarts/lib/component/visualMap/installVisualMapContinuous.js
 function install50(registers) {
   registers.registerComponentModel(ContinuousModel_default);
   registers.registerComponentView(ContinuousView_default);
   installCommon2(registers);
 }
 
-// node_modules/echarts/lib/component/visualMap/installVisualMapPiecewise.js
+// ../node_modules/echarts/lib/component/visualMap/installVisualMapPiecewise.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77462,7 +77462,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/visualMap/PiecewiseModel.js
+// ../node_modules/echarts/lib/component/visualMap/PiecewiseModel.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77798,7 +77798,7 @@ function normalizeReverse(thisOption, pieceList) {
 }
 var PiecewiseModel_default = PiecewiseModel;
 
-// node_modules/echarts/lib/component/visualMap/PiecewiseView.js
+// ../node_modules/echarts/lib/component/visualMap/PiecewiseView.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77961,20 +77961,20 @@ var PiecewiseVisualMapView = function(_super) {
 }(VisualMapView_default);
 var PiecewiseView_default = PiecewiseVisualMapView;
 
-// node_modules/echarts/lib/component/visualMap/installVisualMapPiecewise.js
+// ../node_modules/echarts/lib/component/visualMap/installVisualMapPiecewise.js
 function install51(registers) {
   registers.registerComponentModel(PiecewiseModel_default);
   registers.registerComponentView(PiecewiseView_default);
   installCommon2(registers);
 }
 
-// node_modules/echarts/lib/component/visualMap/install.js
+// ../node_modules/echarts/lib/component/visualMap/install.js
 function install52(registers) {
   use(install50);
   use(install51);
 }
 
-// node_modules/echarts/lib/component/aria/install.js
+// ../node_modules/echarts/lib/component/aria/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -77990,7 +77990,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/visual/aria.js
+// ../node_modules/echarts/lib/visual/aria.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78180,7 +78180,7 @@ function ariaVisual(ecModel, api) {
   }
 }
 
-// node_modules/echarts/lib/component/aria/preprocessor.js
+// ../node_modules/echarts/lib/component/aria/preprocessor.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78211,13 +78211,13 @@ function ariaPreprocessor(option) {
   });
 }
 
-// node_modules/echarts/lib/component/aria/install.js
+// ../node_modules/echarts/lib/component/aria/install.js
 function install53(registers) {
   registers.registerPreprocessor(ariaPreprocessor);
   registers.registerVisual(registers.PRIORITY.VISUAL.ARIA, ariaVisual);
 }
 
-// node_modules/echarts/lib/component/transform/install.js
+// ../node_modules/echarts/lib/component/transform/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78233,7 +78233,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/component/transform/filterTransform.js
+// ../node_modules/echarts/lib/component/transform/filterTransform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78249,7 +78249,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/util/conditionalExpression.js
+// ../node_modules/echarts/lib/util/conditionalExpression.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78464,7 +78464,7 @@ function parseConditionalExpression(exprOption, getters) {
   return new ConditionalExpressionParsed(exprOption, getters);
 }
 
-// node_modules/echarts/lib/component/transform/filterTransform.js
+// ../node_modules/echarts/lib/component/transform/filterTransform.js
 var filterTransform = {
   type: "echarts:filter",
   transform: function(params) {
@@ -78511,7 +78511,7 @@ var filterTransform = {
   }
 };
 
-// node_modules/echarts/lib/component/transform/sortTransform.js
+// ../node_modules/echarts/lib/component/transform/sortTransform.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78628,13 +78628,13 @@ var sortTransform = {
   }
 };
 
-// node_modules/echarts/lib/component/transform/install.js
+// ../node_modules/echarts/lib/component/transform/install.js
 function install54(registers) {
   registers.registerTransform(filterTransform);
   registers.registerTransform(sortTransform);
 }
 
-// node_modules/echarts/lib/component/dataset/install.js
+// ../node_modules/echarts/lib/component/dataset/install.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78692,7 +78692,7 @@ function install55(registers) {
   registers.registerComponentView(DatasetView);
 }
 
-// node_modules/echarts/lib/export/features.js
+// ../node_modules/echarts/lib/export/features.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78708,7 +78708,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/animation/universalTransition.js
+// ../node_modules/echarts/lib/animation/universalTransition.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78724,7 +78724,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/echarts/lib/animation/morphTransitionHelper.js
+// ../node_modules/echarts/lib/animation/morphTransitionHelper.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78740,7 +78740,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/morphPath.js
+// ../node_modules/zrender/lib/tool/morphPath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78756,7 +78756,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/dividePath.js
+// ../node_modules/zrender/lib/tool/dividePath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78772,7 +78772,7 @@ init_define_EXTERNAL_LINK_ICON_LOCALES();
 init_define_SEARCH_HOT_KEYS();
 init_define_SEARCH_LOCALES();
 
-// node_modules/zrender/lib/tool/convertPath.js
+// ../node_modules/zrender/lib/tool/convertPath.js
 init_define_BACK_TO_TOP_LOCALES();
 init_define_CODE_COPY_LOCALES();
 init_define_CODE_COPY_OPTIONS();
@@ -78980,7 +78980,7 @@ function pathToPolygons(path, scale4) {
   return polygons;
 }
 
-// node_modules/zrender/lib/tool/dividePath.js
+// ../node_modules/zrender/lib/tool/dividePath.js
 function getDividingGrids(dimSize, rowDim, count2) {
   var rowSize = dimSize[rowDim];
   var columnSize = dimSize[1 - rowDim];
@@ -79286,7 +79286,7 @@ function split(path, count2) {
   return out2;
 }
 
-// node_modules/zrender/lib/tool/morphPath.js
+// ../node_modules/zrender/lib/tool/morphPath.js
 function alignSubpath(subpath1, subpath2) {
   var len1 = subpath1.length;
   var len2 = subpath2.length;
@@ -79865,7 +79865,7 @@ function separateMorph(fromPath, toPathList, animationOpts) {
   };
 }
 
-// node_modules/echarts/lib/animation/morphTransitionHelper.js
+// ../node_modules/echarts/lib/animation/morphTransitionHelper.js
 function isMultiple(elements) {
   return isArray(elements[0]);
 }
@@ -80007,7 +80007,7 @@ function getPathList(elements) {
   return pathList;
 }
 
-// node_modules/echarts/lib/animation/universalTransition.js
+// ../node_modules/echarts/lib/animation/universalTransition.js
 var DATA_COUNT_THRESHOLD = 1e4;
 var getUniversalTransitionGlobalStore = makeInner();
 function getGroupIdDimension(data) {
@@ -80451,7 +80451,7 @@ function installUniversalTransition(registers) {
   });
 }
 
-// node_modules/echarts/index.js
+// ../node_modules/echarts/index.js
 use([install2]);
 use([install]);
 use([install3, install4, install5, install7, install9, install11, install12, install13, install14, install15, install16, install18, install19, install20, install21, install22, install23, install24, install25, install26, install27, install28]);
