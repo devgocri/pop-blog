@@ -13,7 +13,7 @@ projects:
 
   - icon: link
     name: FaithClient
-    desc: beautiful. Aesthetic. That's FaithClient.
+    desc: Beautiful. Aesthetic. That's FaithClient.
     link: https://discord.gg/9Tjem4hVzT
 
 
